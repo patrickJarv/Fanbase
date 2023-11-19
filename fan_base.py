@@ -9,9 +9,9 @@ import pymysql
 pymysql.install_as_MySQLdb()
 import pandas as pd
 
-# import firebase_admin
-# from firebase_admin import credentials
-# from firebase_admin import db
+import firebase_admin
+from firebase_admin import credentials
+from firebase_admin import db
 import json
 
 from SQL.query import query_sql, query_sql_multi, query_sql_not_multi, query_awards, query_player
@@ -87,13 +87,12 @@ if __name__ == "__main__":
     my_conn = sqlalchemy.create_engine(f'mysql+mysqldb://{username}:{password}@{host}:{port}/{database}')
     user_input = {}
 
-    # cred = credentials.Certificate("Fanbase/NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
-    # default_app = firebase_admin.initialize_app(cred, {
-    #     'databaseURL': 'https://project-d247d-default-rtdb.firebaseio.com/',
-    # })
-    # USERS_REF = db.reference('users')
-    # METROS_REF = db.reference('metros').get()
-    # print(METROS_REF[0])
+    cred = credentials.Certificate("Fanbase/NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
+    default_app = firebase_admin.initialize_app(cred, {
+        'databaseURL': 'https://project-d247d-default-rtdb.firebaseio.com/',
+    })
+    USERS_REF = db.reference('users')
+    METROS_REF = db.reference('metros').get()
     
     print()
     print("Welcome to the Fan Bases Program!")
@@ -117,19 +116,30 @@ if __name__ == "__main__":
             username = input()
             print('Password: ', end='')
             pw = input()
-            print('Favorite Team: ', end='')
-            ft = input()
-            # validate using NoSQL
-            # check if username exists in Users table
-            # check if password is correct
-            # then user = username
+            
+            # if user exists and pw is correct, login
+            if find_user(username, USERS_REF) and pw == USERS_REF.get()[username]['password']:
+                print("Login successful!")
+                user = username
+            else:
+                print("Login failed. Please try again.")
         elif response == 'signup':
             print("Username: ", end='')
             username = input()
-            # validate that username isn't already taken
-            print('Password: ', end='')
-            pw = input()
-            # input into NoSQL
+            res = find_user(username, USERS_REF)
+            if find_user(username, USERS_REF):
+                    print('User already exists.')
+            else:
+                print('Password: ', end='')
+                pw = input()
+                print('Favorite team: ', end='')
+                fav_team = input()
+
+                USERS_REF.child(username).set({
+                    'password': pwd,
+                    'favorite_team': favorite_team
+                })
+                print('User created successfully!')
         elif response == 'logout':
             if user is None:
                 print('')
