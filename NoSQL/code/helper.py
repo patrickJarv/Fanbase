@@ -48,8 +48,8 @@ def pprint(data):
 def order(a, op):
     sorted_tuples = sorted(a, key=lambda x: x[0])
     second_elements = [elem[1] for elem in sorted_tuples]
-    if op == 'asc':
+    if op == 'desc':
         return second_elements[::-1]
-    elif op == 'desc':
+    elif op == 'asc':
         return second_elements
 
