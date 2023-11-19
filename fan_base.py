@@ -81,6 +81,17 @@ def evaluate_query(params):
 
     else:
         return query_sql(params[0], [], [], my_conn)
+    
+# favorites: []
+def set_favorites(username, favorites):
+    USERS_REF.child(username).update({
+        'favorites': favorites
+    })
+
+
+def get_favorites(username, favorites):
+    return USERS_REF.get()[username][favorites]
+
 
 if __name__ == "__main__":
     user = "test"
@@ -135,10 +146,6 @@ if __name__ == "__main__":
                 print('Favorite team: ', end='')
                 fav_team = input()
 
-                USERS_REF.child(username).set({
-                    'password': pwd,
-                    'favorite_team': favorite_team
-                })
                 print('User created successfully!')
         elif response == 'logout':
             if user is None:
