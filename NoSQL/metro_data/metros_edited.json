@@ -1,0 +1,4925 @@
+[
+    {
+        "metro": "Green Bay",
+        "region": "WI",
+        "population": 320050,
+        "teams": [
+            "Green Bay Packers",
+            "Green Bay Phoenix",
+            "Green Bay Phoenix",
+            "Green Bay Phoenix",
+            "Green Bay Phoenix"
+        ]
+    },
+    {
+        "metro": "Sarnia",
+        "region": "ON",
+        "population": 96151,
+        "teams": [
+            "Sarnia Imperials"
+        ]
+    },
+    {
+        "metro": "Hamilton",
+        "region": "ON",
+        "population": 747545,
+        "teams": [
+            "Hamilton Alerts",
+            "Hamilton Flying Wildcats",
+            "Hamilton Tiger-Cats",
+            "Hamilton Tigers",
+            "Hamilton Wildcats",
+            "Hamilton Tigers"
+        ]
+    },
+    {
+        "metro": "Regina",
+        "region": "SK",
+        "population": 236481,
+        "teams": [
+            "Regina Roughriders",
+            "Regina Rugby Club",
+            "Saskatchewan Roughriders"
+        ]
+    },
+    {
+        "metro": "Edmonton",
+        "region": "AB",
+        "population": 1321426,
+        "teams": [
+            "Edmonton Elks",
+            "Edmonton Eskimos",
+            "Edmonton Oilers"
+        ]
+    },
+    {
+        "metro": "Winnipeg",
+        "region": "MB",
+        "population": 778489,
+        "teams": [
+            "Winnipeg \u2018Pegs",
+            "Winnipeg Blue Bombers",
+            "Winnipeg RCAF Bombers",
+            "Winnipeg Tammany Tigers",
+            "Winnipeg Jets"
+        ]
+    },
+    {
+        "metro": "Ottawa",
+        "region": "ON",
+        "population": 1323783,
+        "teams": [
+            "Ottawa Redblacks",
+            "Ottaw Renegades",
+            "Ottawa Rough Riders",
+            "Ottawa Senators",
+            "Ottaw Senators"
+        ]
+    },
+    {
+        "metro": "Montreal",
+        "region": "QC",
+        "population": 4098927,
+        "teams": [
+            "Montreal Expos",
+            "Montreal AAA Winged Wheelers",
+            "Montreal Alouettes",
+            "Montreal Concordes",
+            "St. Hyacinthe-Donnacona Navy",
+            "Montreal Canadiens",
+            "Montreal Maroons",
+            "Montreal Wanderers",
+            "Montreal Impact"
+        ]
+    },
+    {
+        "metro": "Greater Boston",
+        "region": "MA",
+        "population": 4836531,
+        "teams": [
+            "Boston Americans",
+            "Boston Beaneaters",
+            "Boston Doves",
+            "Boston Rustlers",
+            "Boston Bees",
+            "Boston Braves",
+            "Boston Red Sox",
+            "Boston Celtics",
+            "Boston Patriots",
+            "New England Patriots",
+            "Boston Braves",
+            "Boston Redskins",
+            "Boston Bulldogs",
+            "Boston Yanks",
+            "Boston Bruins",
+            "New England Revolution",
+            "Boston College Eagles",
+            "Boston University Terriers",
+            "Harvard Crimson",
+            "Northeastern Huskies",
+            "Massachusetts-Lowell River Hawks",
+            "Boston College Eagles",
+            "Boston University Terriers",
+            "Harvard Crimson",
+            "Northeastern Huskies",
+            "Massachusetts-Lowell River Hawks",
+            "Boston College Eagles",
+            "Boston University Terriers",
+            "Brandeis Judges",
+            "Harvard Crimson",
+            "MIT Engineers",
+            "Northeastern Huskies",
+            "Tufts Jumbos",
+            "Massachusetts-Lowell River Hawks",
+            "Boston College Eagles",
+            "Harvard Crimson",
+            "Northeastern Huskies",
+            "Massachusetts-Lowell River Hawks",
+            "Boston College Eagles",
+            "Boston College Eagles",
+            "Boston University Terriers",
+            "Boston University Terriers",
+            "Harvard Crimson",
+            "Harvard Crimson",
+            "MIT Engineers",
+            "Northeastern Huskies",
+            "Tufts Jumbos",
+            "Massachusetts-Lowell River Hawks"
+        ]
+    },
+    {
+        "metro": "Pittsburgh",
+        "region": "PA",
+        "population": 2333367,
+        "teams": [
+            "Pittsburgh Pirates",
+            "Pittsburgh Ironmen",
+            "Pittsburgh Pirates",
+            "Pittsburgh Steelers",
+            "Pittsburgh Penguins",
+            "Pittsburgh Pirates",
+            "Duquesne Dukes",
+            "Pittsburgh Panthers",
+            "Robert Morris Colonials",
+            "Duquesne Dukes",
+            "Pittsburgh Panthers",
+            "Robert Morris Colonials",
+            "Duquesne Dukes",
+            "Pittsburgh Panthers",
+            "Robert Morris Colonials",
+            "Duquesne Dukes",
+            "Pittsburgh Panthers",
+            "Robert Morris Colonials",
+            "Carnegie Mellon Tartans",
+            "Duquesne Dukes",
+            "Duquesne Dukes",
+            "Geneva Golden Tornadoes",
+            "Robert Morris Colonials",
+            "Pittsburgh Panthers",
+            "Pittsburgh Panthers",
+            "Washington & Jefferson Presidents",
+            "Washington & Jefferson Presidents"
+        ]
+    },
+    {
+        "metro": "Toronto",
+        "region": "ON",
+        "population": 5928040,
+        "teams": [
+            "Toronto Blue Jays",
+            "Toronto Raptors",
+            "Toronto Huskies",
+            "Toronto Argonauts",
+            "Toronto Balmy Beach",
+            "Toronto Parkdale Canoe Club",
+            "Toronto RCAF Hurricanes",
+            "Toronto Maple Leafs",
+            "Toronto St Patricks",
+            "Toronto Arenas",
+            "Toronto FC"
+        ]
+    },
+    {
+        "metro": "Calgary",
+        "region": "AB",
+        "population": 1392609,
+        "teams": [
+            "Calgary Stampeders",
+            "Calgary Flames"
+        ]
+    },
+    {
+        "metro": "Metro Detroit",
+        "region": "MI",
+        "population": 4313002,
+        "teams": [
+            "Detroit Tigers",
+            "Detroit Pistons",
+            "Detroit Falcons",
+            "Detroit Lions",
+            "Detroit Panthers",
+            "Detroit Wolverines",
+            "Detroit Red Wings",
+            "Detroit Falcons",
+            "Detroit Cougars",
+            "Detroit Mercy Titans",
+            "Oakland Golden Grizzlies",
+            "Detroit Mercy Titans",
+            "Oakland Golden Grizzlies",
+            "Detroit Mercy Titans",
+            "Oakland Golden Grizzlies",
+            "Oakland Golden Grizzlies",
+            "Oakland Golden Grizzlies",
+            "Detroit Mercy Titans",
+            "Detroit Mercy Titans",
+            "Wayne State (MI) Warriors"
+        ]
+    },
+    {
+        "metro": "Canton",
+        "region": "OH",
+        "population": 399927,
+        "teams": [
+            "Canton Bulldogs"
+        ]
+    },
+    {
+        "metro": "St Louis",
+        "region": "MO",
+        "population": 2807338,
+        "teams": [
+            "St. Louis Browns",
+            "St. Louis Cardinals",
+            "St. Louis Hawks",
+            "St. Louis Cardinals",
+            "St. Louis Rams",
+            "St. Louis All-Stars",
+            "St. Louis Gunners",
+            "St. Louis Blues",
+            "St. Louis Eagles",
+            "Saint Louis Billikens",
+            "Southern Illinois-Edwardsville Cougars",
+            "Saint Louis Billikens",
+            "Southern Illinois-Edwardsville Cougars",
+            "Saint Louis Billikens",
+            "Southern Illinois-Edwardsville Cougars",
+            "Saint Louis Billikens",
+            "Southern Illinois-Edwardsville Cougars",
+            "Saint Louis Billikens",
+            "Saint Louis Billikens",
+            "Southern Illinois-Edwardsville Cougars",
+            "Washington Bears",
+            "Washington Bears"
+        ]
+    },
+    {
+        "metro": "Cleveland",
+        "region": "OH",
+        "population": 2058844,
+        "teams": [
+            "Cleveland Indians",
+            "Cleveland Naps",
+            "Cleveland Cavaliers",
+            "Cleveland Rebels",
+            "Cleveland Browns",
+            "Cleveland Rams",
+            "Cleveland Bulldogs",
+            "Cleveland Indians",
+            "Cleveland Barons",
+            "Cleveland State Vikings",
+            "Cleveland State Vikings",
+            "Cleveland State Vikings",
+            "Cleveland State Vikings",
+            "Baldwin-Wallace Yellow Jackets",
+            "Case Western Reserve Spartans",
+            "Cleveland State Vikings",
+            "John Carroll Blue Streaks"
+        ]
+    },
+    {
+        "metro": "San Francisco Bay Area",
+        "region": "CA",
+        "population": 4727357,
+        "teams": [
+            "Oakland Athletics",
+            "San Francisco Giants",
+            "Golden State Warriors",
+            "San Francisco Warriors",
+            "Oakland Raiders",
+            "San Francisco 49ers",
+            "California Golden Seals",
+            "Oakland Seals",
+            "California Golden Bears",
+            "Saint Mary's Gaels",
+            "San Francisco Dons",
+            "Stanford Cardinal",
+            "California Golden Bears",
+            "Saint Mary's Gaels",
+            "San Francisco Dons",
+            "Stanford Cardinal",
+            "Cal State East Bay Pioneers",
+            "California Golden Bears",
+            "Saint Mary's Gaels",
+            "San Francisco State Gators",
+            "San Francisco Dons",
+            "Stanford Cardinal",
+            "California Golden Bears",
+            "San Francisco Dons",
+            "Saint Mary's Gaels",
+            "Stanford Cardinal",
+            "Alameda Coast Guard Sea Lions",
+            "Del Monte Pre-Flight Navyators",
+            "Saint Mary's Pre-Flight Air Devils",
+            "Saint Mary's Gaels",
+            "Saint Mary's Gaels",
+            "Stanford Cardinal",
+            "Stanford Cardinal",
+            "California Golden Bears",
+            "California Golden Bears",
+            "San Francisco Dons",
+            "San Francisco Dons"
+        ]
+    },
+    {
+        "metro": "Baltimore",
+        "region": "MD",
+        "population": 2808175,
+        "teams": [
+            "Baltimore Orioles",
+            "Baltimore Bullets",
+            "Baltimore Stallions",
+            "Baltimore Ravens",
+            "Baltimore Colts",
+            "Coppin State Eagles",
+            "Loyola Greyhounds",
+            "Morgan State Bears",
+            "Towson Tigers",
+            "Maryland-Baltimore County Retrievers",
+            "Loyola Greyhounds",
+            "Towson Tigers",
+            "Maryland-Baltimore County Retrievers",
+            "Coppin State Eagles",
+            "Morgan State Bears",
+            "Towson Tigers",
+            "Maryland-Baltimore County Retrievers",
+            "Coppin State Eagles",
+            "Loyola Greyhounds",
+            "Morgan State Bears",
+            "Towson Tigers",
+            "Maryland-Baltimore County Retrievers",
+            "Coppin State Eagles",
+            "Loyola Greyhounds",
+            "Morgan State Bears",
+            "Towson Tigers",
+            "Baltimore Super Bees",
+            "Maryland-Baltimore County Retrievers"
+        ]
+    },
+    {
+        "metro": "Chicago",
+        "region": "IL",
+        "population": 9533040,
+        "teams": [
+            "Chicago Cubs",
+            "Chicago White Sox",
+            "Chicago Bulls",
+            "Chicago Zephyrs",
+            "Chicago Packers",
+            "Chicago Stags",
+            "Chicago Cardinals",
+            "Chicago Bears",
+            "Chicago Hornets",
+            "Chicago Rockets",
+            "Hammond Pros",
+            "Kenosha Maroons",
+            "Chicago Blackhawks",
+            "Chicago Black Hawks",
+            "Chicago Fire",
+            "Chicago State Cougars",
+            "DePaul Blue Demons",
+            "Illinois-Chicago Flames",
+            "Loyola Ramblers",
+            "Northern Illinois Huskies",
+            "Northern Illinois Huskies",
+            "Northwestern Wildcats",
+            "Chicago State Cougars",
+            "DePaul Blue Demons",
+            "Illinois-Chicago Flames",
+            "Loyola Ramblers",
+            "Northern Illinois Huskies",
+            "Northwestern Wildcats",
+            "Chicago State Cougars",
+            "Illinois-Chicago Flames",
+            "Northern Illinois Huskies",
+            "Northern Illinois Huskies",
+            "Northwestern Wildcats",
+            "Wheaton Thunder",
+            "Chicago State Cougars",
+            "DePaul Blue Demons",
+            "Illinois-Chicago Flames",
+            "Loyola Ramblers",
+            "Northern Illinois Huskies",
+            "Northern Illinois Huskies",
+            "Northwestern Wildcats",
+            "Chicago State Cougars",
+            "DePaul Blue Demons",
+            "Lake Forest Foresters",
+            "Loyola Ramblers",
+            "Great Lakes Navy Bluejackets",
+            "Northeastern Illinois Golden Eagles",
+            "Northern Illinois Huskies",
+            "Northern Illinois Huskies",
+            "Northwestern Wildcats",
+            "Northwestern Wildcats",
+            "Chicago Maroons",
+            "Chicago Maroons",
+            "Illinois-Chicago Flames"
+        ]
+    },
+    {
+        "metro": "Greater Philadelphia",
+        "region": "PA",
+        "population": 6096120,
+        "teams": [
+            "Philadelphia Athletics",
+            "Philadelphia Phillies",
+            "Philadelphia Warriors",
+            "Philadelphia 76ers",
+            "Philadelphia Eagles",
+            "Frankford Yellow Jackets",
+            "Philadelphia Flyers",
+            "Philadelphia Quakers",
+            "Drexel Dragons",
+            "La Salle Explorers",
+            "Pennsylvania Quakers",
+            "Saint Joseph's Hawks",
+            "Temple Owls",
+            "Villanova Wildcats",
+            "Drexel Dragons",
+            "La Salle Explorers",
+            "Pennsylvania Quakers",
+            "Saint Joseph's Hawks",
+            "Temple Owls",
+            "Villanova Wildcats",
+            "Drexel Dragons",
+            "La Salle Explorers",
+            "Pennsylvania Quakers",
+            "Saint Joseph's Hawks",
+            "Temple Owls",
+            "Villanova Wildcats",
+            "Wilmington Wildcats",
+            "Drexel Dragons",
+            "La Salle Explorers",
+            "Pennsylvania Quakers",
+            "Temple Owls",
+            "Villanova Wildcats",
+            "Drexel Dragons",
+            "Haverford Fords",
+            "La Salle Explorers",
+            "Saint Joseph's Hawks",
+            "Temple Owls",
+            "Temple Owls",
+            "Pennsylvania Quakers",
+            "Pennsylvania Quakers",
+            "Villanova Wildcats",
+            "Villanova Wildcats"
+        ]
+    },
+    {
+        "metro": "New York Metro Area",
+        "region": "",
+        "population": 20320876,
+        "teams": [
+            "Brooklyn Dodgers",
+            "Brooklyn Robins",
+            "Brooklyn Superbas",
+            "New York Giants",
+            "New York Highlanders",
+            "New York Mets",
+            "New York Yankees",
+            "Brooklyn Nets",
+            "New Jersey Nets",
+            "New York Nets",
+            "New York Knicks",
+            "New York Giants",
+            "New York Titans",
+            "New York Jets",
+            "Brooklyn Tigers",
+            "Brooklyn Dodgers",
+            "Brooklyn Lions",
+            "New York Yankees",
+            "New York Yanks",
+            "New York Bulldogs",
+            "Newark Tornadoes",
+            "Staten Island Stapletons",
+            "New Jersey Devils",
+            "New York Islanders",
+            "New York Rangers",
+            "New York Americans",
+            "Brooklyn Americans",
+            "New York MetroStars",
+            "New York Red Bulls",
+            "Brooklyn Bulldogs",
+            "Columbia Lions",
+            "Fairleigh Dickinson Knights",
+            "Fordham Rams",
+            "Hofstra Pride",
+            "Iona Gaels",
+            "Long Island University Blackbirds",
+            "Manhattan Jaspers",
+            "Montclair State Red Hawks",
+            "NJIT Highlanders",
+            "Queens Knights",
+            "Saint Peter's Peacocks",
+            "St. Francis Terriers",
+            "St. John's Red Storm",
+            "Wagner Seahawks",
+            "Columbia Lions",
+            "Fairleigh Dickinson Knights",
+            "Fordham Rams",
+            "Hofstra Pride",
+            "Iona Gaels",
+            "Long Island University Blackbirds",
+            "Manhattan Jaspers",
+            "NJIT Highlanders",
+            "Saint Peter's Peacocks",
+            "St. Francis Terriers",
+            "St. John's Red Storm",
+            "Wagner Seahawks",
+            "Brooklyn Bulldogs",
+            "City College of New York Beavers",
+            "Columbia Lions",
+            "Fairleigh Dickinson Knights",
+            "Fordham Rams",
+            "Hofstra Pride",
+            "Iona Gaels",
+            "Long Island University Blackbirds",
+            "Manhattan Jaspers",
+            "Montclair State Red Hawks",
+            "NJIT Highlanders",
+            "New York University Violets",
+            "Pace Setters",
+            "Rutgers\u2013Newark Scarlet Raiders",
+            "Saint Peter's Peacocks",
+            "St. Francis Terriers",
+            "St. John's Red Storm",
+            "Wagner Seahawks",
+            "Columbia Lions",
+            "Fairleigh Dickinson Knights",
+            "Fordham Rams",
+            "Hofstra Pride",
+            "Iona Gaels",
+            "Long Island University Blackbirds",
+            "Manhattan Jaspers",
+            "NJIT Highlanders",
+            "Saint Peter's Peacocks",
+            "St. Francis Terriers",
+            "St. John's Red Storm",
+            "Wagner Seahawks",
+            "Brooklyn Bulldogs",
+            "City College of New York Beavers",
+            "Columbia Lions",
+            "Columbia Lions",
+            "Fairleigh Dickinson Knights",
+            "Fordham Rams",
+            "Fordham Rams",
+            "Hamilton Continentals",
+            "Hofstra Pride",
+            "Iona Gaels",
+            "Long Island University Blackbirds",
+            "Manhattan Jaspers",
+            "Manhattan Jaspers",
+            "Merchant Marine Mariners",
+            "NJIT Highlanders",
+            "New York University Violets",
+            "New York University Violets",
+            "Saint Peter's Peacocks",
+            "St. Francis Terriers",
+            "St. John's Red Storm",
+            "Stevens Ducks",
+            "Merchant Marine Academy Mariners",
+            "Wagner Seahawks"
+        ]
+    },
+    {
+        "metro": "Vancouver",
+        "region": "BC",
+        "population": 2463431,
+        "teams": [
+            "Vancouver Grizzlies",
+            "BC Lions",
+            "Vancouver Canucks"
+        ]
+    },
+    {
+        "metro": "Kansas City",
+        "region": "MO",
+        "population": 2128912,
+        "teams": [
+            "Kansas City Royals",
+            "Kansas City Athletics",
+            "Kansas City Kings",
+            "Kansas City Chiefs",
+            "Kansas City Cowboys",
+            "Kansas City Blues",
+            "Kansas City Scouts",
+            "Kansas City Wizards",
+            "Kansas Ciy Wiz",
+            "Sporting Kansas City",
+            "Missouri-Kansas City Kangaroos",
+            "Missouri-Kansas City Kangaroos",
+            "Missouri-Kansas City Kangaroos",
+            "Fort Riley Centaurs",
+            "Missouri-Kansas City Kangaroos"
+        ]
+    },
+    {
+        "metro": "Cincinnati",
+        "region": "OH",
+        "population": 2179082,
+        "teams": [
+            "Cincinnati Reds",
+            "Cincinnati Redlegs",
+            "Cincinnati Royals",
+            "Cincinnati Bengals",
+            "Cincinnati Reds",
+            "Cincinnati Bearcats",
+            "Northern Kentucky Norse",
+            "Xavier Musketeers",
+            "Cincinnati Bearcats",
+            "Northern Kentucky Norse",
+            "Xavier Musketeers",
+            "Cincinnati Bearcats",
+            "Northern Kentucky Norse",
+            "Xavier Musketeers",
+            "Cincinnati Bearcats",
+            "Northern Kentucky Norse",
+            "Xavier Musketeers",
+            "Northern Kentucky Norse",
+            "Cincinnati Bearcats",
+            "Cincinnati Bearcats",
+            "Xavier Musketeers",
+            "Xavier Musketeers"
+        ]
+    },
+    {
+        "metro": "Denver",
+        "region": "CO",
+        "population": 2888227,
+        "teams": [
+            "Colorado Rockies",
+            "Denver Nuggets",
+            "Denver Broncos",
+            "Colorado Avalanche",
+            "Colorado Rockies",
+            "Colorado Rapids",
+            "Denver Pioneers",
+            "Denver Pioneers",
+            "Denver Pioneers",
+            "Denver Pioneers",
+            "Colorado Mines Orediggers",
+            "Regis Rangers",
+            "Regis Rangers",
+            "Denver Pioneers",
+            "Denver Pioneers"
+        ]
+    },
+    {
+        "metro": "Greater Los Angeles",
+        "region": "CA",
+        "population": 13353907,
+        "teams": [
+            "Anaheim Angels",
+            "California Angels",
+            "Los Angeles Angels of Anaheim",
+            "Los Angeles Dodgers",
+            "Los Angeles Clippers",
+            "Los Angeles Lakers",
+            "Los Angeles Chargers",
+            "Los Angeles Rams",
+            "Los Angeles Raiders",
+            "Los Angeles Buccaneers",
+            "Los Angeles Dons",
+            "Anaheim Ducks",
+            "Mighty Ducks of Anaheim",
+            "Los Angeles Kings",
+            "Los Angeles Galaxy",
+            "Cal State Fullerton Titans",
+            "Cal State Northridge Matadors",
+            "Long Beach State 49ers",
+            "Loyola Marymount Lions",
+            "Pepperdine Waves",
+            "USC Trojans",
+            "California-Irvine Anteaters",
+            "UCLA Bruins",
+            "Cal State Fullerton Titans",
+            "Cal State Northridge Matadors",
+            "Long Beach State 49ers",
+            "Loyola Marymount Lions",
+            "Pepperdine Waves",
+            "USC Trojans",
+            "California-Irvine Anteaters",
+            "UCLA Bruins",
+            "Cal State Fullerton Titans",
+            "Cal State Los Angeles Golden Eagles",
+            "Chapman Panthers",
+            "Cal State Northridge Matadors",
+            "Long Beach State 49ers",
+            "Loyola Marymount Lions",
+            "Pepperdine Waves",
+            "USC Trojans",
+            "California-Irvine Anteaters",
+            "UCLA Bruins",
+            "Cal State Fullerton Titans",
+            "Cal State Northridge Matadors",
+            "Long Beach State 49ers",
+            "Loyola Marymount Lions",
+            "Pepperdine Waves",
+            "USC Trojans",
+            "California-Irvine Anteaters",
+            "UCLA Bruins",
+            "Cal State Fullerton Titans",
+            "Cal State Fullerton Titans",
+            "Cal State Los Angeles Golden Eagles",
+            "Cal State Los Angeles Golden Eagles",
+            "Cal State Northridge Matadors",
+            "Long Beach State 49ers",
+            "Long Beach State 49ers",
+            "Loyola Marymount Lions",
+            "Loyola Marymount Lions",
+            "Pepperdine Waves",
+            "California-Irvine Anteaters",
+            "UCLA Bruins",
+            "UCLA Bruins",
+            "USC Trojans",
+            "USC Trojans"
+        ]
+    },
+    {
+        "metro": "San Antonio",
+        "region": "TX",
+        "population": 2473974,
+        "teams": [
+            "San Antonio Spurs",
+            "San Antonio Texans",
+            "Incarnate Word Cardinals",
+            "UTSA Roadrunners",
+            "Incarnate Word Cardinals",
+            "UTSA Roadrunners",
+            "Incarnate Word Cardinals",
+            "UTSA Roadrunners",
+            "Incarnate Word Cardinals",
+            "UTSA Roadrunners",
+            "Randolph Field Ramblers",
+            "Trinity Tigers",
+            "UTSA Roadrunners",
+            "UTSA Roadrunners",
+            "Incarnate Word Cardinals"
+        ]
+    },
+    {
+        "metro": "Twin Cities",
+        "region": "MN",
+        "population": 3600618,
+        "teams": [
+            "Minnesota Twins",
+            "Minneapolis Lakers",
+            "Minnesota Timberwolves",
+            "Minnesota Vikings",
+            "Minneapolis Marines",
+            "Minneapolis Red Jackets",
+            "Minnesota North Stars",
+            "Minnesota Wild",
+            "Minnesota Golden Gophers",
+            "Minnesota Golden Gophers",
+            "Minnesota Golden Gophers",
+            "Minnesota Golden Gophers",
+            "Hamline Pipers",
+            "Minnesota Golden Gophers",
+            "Minnesota Golden Gophers"
+        ]
+    },
+    {
+        "metro": "Washington",
+        "region": "DC Metro Area",
+        "population": 6216589,
+        "teams": [
+            "Washington Senators",
+            "Washington Nationals",
+            "Washington Wizards",
+            "Washington Bullets",
+            "Capital Bullets",
+            "Washington Capitols",
+            "Washington Redskins",
+            "Washington Capitals",
+            "D.C. United",
+            "American Eagles",
+            "George Mason Patriots",
+            "George Washington Colonials",
+            "Georgetown Hoyas",
+            "Howard Bison",
+            "Maryland Terrapins",
+            "American Eagles",
+            "George Mason Patriots",
+            "George Washington Colonials",
+            "Georgetown Hoyas",
+            "Howard Bison",
+            "Maryland Terrapins",
+            "American Eagles",
+            "Catholic Cardinals",
+            "George Mason Patriots",
+            "George Washington Colonials",
+            "Georgetown Hoyas",
+            "Howard Bison",
+            "Maryland Terrapins",
+            "American Eagles",
+            "George Mason Patriots",
+            "George Washington Colonials",
+            "Georgetown Hoyas",
+            "Howard Bison",
+            "Maryland Terrapins",
+            "American Eagles",
+            "Catholic Cardinals",
+            "George Mason Patriots",
+            "George Washington Colonials",
+            "George Washington Colonials",
+            "Georgetown Hoyas",
+            "Georgetown Hoyas",
+            "Howard Bison",
+            "Maryland Terrapins",
+            "Maryland Terrapins"
+        ]
+    },
+    {
+        "metro": "Greater Raleigh",
+        "region": "NC",
+        "population": 567428,
+        "teams": [
+            "Carolina Hurricanes",
+            "Duke Blue Devils",
+            "North Carolina Central Eagles",
+            "North Carolina State Wolfpack",
+            "North Carolina Tar Heels",
+            "Duke Blue Devils",
+            "North Carolina Tar Heels",
+            "North Carolina State Wolfpack",
+            "Duke Blue Devils",
+            "North Carolina Central Eagles",
+            "North Carolina Tar Heels",
+            "North Carolina State Wolfpack",
+            "Duke Blue Devils",
+            "North Carolina Central Eagles",
+            "North Carolina Tar Heels",
+            "North Carolina State Wolfpack",
+            "Duke Blue Devils",
+            "Duke Blue Devils",
+            "North Carolina Central Eagles",
+            "North Carolina Pre-Flight Cloudbusters",
+            "North Carolina State Wolfpack",
+            "North Carolina State Wolfpack",
+            "North Carolina Tar Heels",
+            "North Carolina Tar Heels"
+        ]
+    },
+    {
+        "metro": "Syracuse",
+        "region": "NY",
+        "population": 654841,
+        "teams": [
+            "Syracuse Nationals",
+            "Syracuse Orange",
+            "Syracuse Orange",
+            "Le Moyne Dolphins",
+            "Syracuse Orange",
+            "Syracuse Orange",
+            "Syracuse Orange",
+            "Syracuse Orange"
+        ]
+    },
+    {
+        "metro": "Milwaukee",
+        "region": "WI",
+        "population": 1576236,
+        "teams": [
+            "Milwaukee Braves",
+            "Milwaukee Brewers",
+            "Milwuakee Hawks",
+            "Milwaukee Bucks",
+            "Milwuakee Badgers",
+            "Marquette Golden Eagles",
+            "Milwaukee Panthers",
+            "Marquette Golden Eagles",
+            "Milwaukee Panthers",
+            "Milwaukee Panthers",
+            "Alverno Inferno",
+            "Marquette Golden Eagles",
+            "Milwaukee Panthers",
+            "Marquette Golden Eagles",
+            "Marquette Golden Eagles",
+            "Milwaukee Panthers"
+        ]
+    },
+    {
+        "metro": "Greater Miami Area",
+        "region": "FL",
+        "population": 6158824,
+        "teams": [
+            "Florida Marlins",
+            "Miami Marlins",
+            "Miami Heat",
+            "Miami Dolphins",
+            "Miami Seahawks",
+            "Florida Panthers",
+            "Miami Fusion",
+            "Florida International Panthers",
+            "Florida Atlantic Owls",
+            "Miami Hurricanes",
+            "Florida International Panthers",
+            "Florida Atlantic Owls",
+            "Miami Hurricanes",
+            "Florida International Panthers",
+            "Florida Atlantic Owls",
+            "Miami Hurricanes",
+            "Florida International Panthers",
+            "Florida Atlantic Owls",
+            "Miami Hurricanes",
+            "Florida Atlantic Owls",
+            "Florida Atlantic Owls",
+            "Florida International Panthers",
+            "Florida International Panthers",
+            "Miami Hurricanes",
+            "Miami Hurricanes"
+        ]
+    },
+    {
+        "metro": "San Jose-Santa Clara",
+        "region": "CA",
+        "population": 1998463,
+        "teams": [
+            "San Jose Sharks",
+            "San Jose Clash",
+            "San Jose Earthquakes",
+            "Cal Poly Mustangs",
+            "San Jose State Spartans",
+            "Santa Clara Broncos",
+            "Cal Poly Mustangs",
+            "San Jose State Spartans",
+            "Santa Clara Broncos",
+            "Cal Poly Mustangs",
+            "Cal Poly Mustangs",
+            "Cal Poly Mustangs",
+            "San Jose State Spartans",
+            "Santa Clara Broncos",
+            "Cal Poly Mustangs",
+            "San Jose State Spartans",
+            "Santa Clara Broncos",
+            "Cal Poly Mustangs",
+            "San Jose State Spartans",
+            "San Jose State Spartans",
+            "Santa Clara Broncos",
+            "Santa Clara Broncos"
+        ]
+    },
+    {
+        "metro": "Dallas-Fort Worth",
+        "region": "TX",
+        "population": 7399662,
+        "teams": [
+            "Texas Rangers",
+            "Dallas Mavericks",
+            "Dallas Cowboys",
+            "Dallas Texans",
+            "Dallas Stars",
+            "Dallas Burn",
+            "FC Dallas",
+            "North Texas Mean Green",
+            "Southern Methodist Mustangs",
+            "Texas Christian Horned Frogs",
+            "Texas-Arlington Mavericks",
+            "North Texas Mean Green",
+            "Southern Methodist Mustangs",
+            "Texas Christian Horned Frogs",
+            "Dallas Baptist Patriots",
+            "North Texas Mean Green",
+            "Southern Methodist Mustangs",
+            "Texas Christian Horned Frogs",
+            "Texas-Arlington Mavericks",
+            "North Texas Mean Green",
+            "Southern Methodist Mustangs",
+            "Texas Christian Horned Frogs",
+            "Texas-Arlington Mavericks",
+            "Southern Methodist Mustangs",
+            "Southern Methodist Mustangs",
+            "Texas Christian Horned Frogs",
+            "Texas Christian Horned Frogs",
+            "Texas Wesleyan Rams",
+            "North Texas Mean Green",
+            "North Texas Mean Green",
+            "Texas-Arlington Mavericks",
+            "Texas-Arlington Mavericks"
+        ]
+    },
+    {
+        "metro": "Rochester",
+        "region": "NY",
+        "population": 1077948,
+        "teams": [
+            "Rochester Royals",
+            "Rochester Jeffersons",
+            "RIT Tigers",
+            "Rochester Yellowjackets",
+            "Rochester Yellowjackets"
+        ]
+    },
+    {
+        "metro": "Salt Lake City",
+        "region": "UT",
+        "population": 1203105,
+        "teams": [
+            "Utah Jazz",
+            "Real Salt Lake",
+            "Utah Utes",
+            "Utah Utes",
+            "Utah Utes",
+            "Westminster College Griffins",
+            "Utah Utes",
+            "Utah Utes",
+            "Utah Utes"
+        ]
+    },
+    {
+        "metro": "Portland Metro Area",
+        "region": "OR",
+        "population": 2453168,
+        "teams": [
+            "Portland Trail Blazers",
+            "Portland Timbers",
+            "Portland Pilots",
+            "Portland State Vikings",
+            "Portland Pilots",
+            "Portland State Vikings",
+            "Portland Pilots",
+            "Portland State Vikings",
+            "Portland Pilots",
+            "Portland State Vikings",
+            "Portland State Vikings",
+            "Portland Pilots",
+            "Portland Pilots"
+        ]
+    },
+    {
+        "metro": "New Orleans",
+        "region": "LA",
+        "population": 1275762,
+        "teams": [
+            "New Orleans Pelicans",
+            "New Orleans Hornets",
+            "New Orleans Jazz",
+            "New Orleans Saints",
+            "New Orleans Privateers",
+            "Tulane Green Wave",
+            "Tulane Green Wave",
+            "Loyola Wolfpack",
+            "New Orleans Privateers",
+            "Tulane Green Wave",
+            "New Orleans Privateers",
+            "Tulane Green Wave",
+            "Loyola Wolfpack",
+            "Loyola Wolfpack",
+            "Tulane Green Wave",
+            "Tulane Green Wave",
+            "New Orleans Privateers"
+        ]
+    },
+    {
+        "metro": "Seattle,WA",
+        "region": "",
+        "population": 3867046,
+        "teams": [
+            "Seattle Mariners",
+            "Seattle Pilots",
+            "Seattle SuperSonics",
+            "Seattle Seahawks",
+            "Seattle Sounders FC",
+            "Seattle Redhawks",
+            "Washington Huskies",
+            "Seattle Redhawks",
+            "Washington Huskies",
+            "Puget Sound Loggers",
+            "Seattle Redhawks",
+            "Washington Huskies",
+            "Seattle Redhawks",
+            "Washington Huskies",
+            "Seattle Redhawks",
+            "Washington Huskies",
+            "Washington Huskies"
+        ]
+    },
+    {
+        "metro": "Houston",
+        "region": "TX",
+        "population": 6892427,
+        "teams": [
+            "Houston Astros",
+            "Houston Colt .45's",
+            "Houston Rockets",
+            "Houston Texans",
+            "Houston Oilers",
+            "Houston Dynamo",
+            "Houston Cougars",
+            "Houston Baptist Huskies",
+            "Prairie View Panthers",
+            "Rice Owls",
+            "Texas Southern Tigers",
+            "Houston Cougars",
+            "Houston Baptist Huskies",
+            "Prairie View Panthers",
+            "Rice Owls",
+            "Texas Southern Tigers",
+            "Houston Cougars",
+            "Houston Baptist Huskies",
+            "Prairie View Panthers",
+            "Rice Owls",
+            "Texas Southern Tigers",
+            "Houston Cougars",
+            "Houston Baptist Huskies",
+            "Prairie View Panthers",
+            "Rice Owls",
+            "Texas Southern Tigers",
+            "Houston Baptist Huskies",
+            "Prairie View Panthers",
+            "Prairie View Panthers",
+            "Rice Owls",
+            "Rice Owls",
+            "Texas Southern Tigers",
+            "Texas Southern Tigers",
+            "Houston Cougars",
+            "Houston Cougars"
+        ]
+    },
+    {
+        "metro": "Tampa Bay Area",
+        "region": "FL",
+        "population": 3091399,
+        "teams": [
+            "Tampa Bay Rays",
+            "Tampa Bay Buccaneers",
+            "Tampa Bay Lightning",
+            "Tampa Bay Mutiny",
+            "South Florida Bulls",
+            "South Florida Bulls",
+            "South Florida Bulls",
+            "Tampa Spartans",
+            "South Florida Bulls",
+            "South Florida Bulls",
+            "South Florida Bulls",
+            "Tampa Spartans"
+        ]
+    },
+    {
+        "metro": "Providence",
+        "region": "RI",
+        "population": 1621122,
+        "teams": [
+            "Providence Steam Rollers",
+            "Providence Steam Roller",
+            "Brown Bears",
+            "Bryant Bulldogs",
+            "Providence Friars",
+            "Rhode Island Rams",
+            "Brown Bears",
+            "Bryant Bulldogs",
+            "Providence Friars",
+            "Rhode Island Rams",
+            "Brown Bears",
+            "Bryant Bulldogs",
+            "Providence Friars",
+            "Rhode Island Rams",
+            "Rhode Island College Anchorme",
+            "Brown Bears",
+            "Bryant Bulldogs",
+            "Providence Friars",
+            "Rhode Island Rams",
+            "Brown Bears",
+            "Brown Bears",
+            "Bryant Bulldogs",
+            "Providence Friars",
+            "Rhode Island Rams"
+        ]
+    },
+    {
+        "metro": "Indianapolis Metro Area",
+        "region": "IN",
+        "population": 2028614,
+        "teams": [
+            "Indiana Pacers",
+            "Anderson Packers",
+            "Indianapolis Jets",
+            "Indianapolis Olympians",
+            "Indianapolis Colts",
+            "Butler Bulldogs",
+            "IUPUI Jaguars",
+            "Butler Bulldogs",
+            "IUPUI Jaguars",
+            "Butler Bulldogs",
+            "IUPUI Jaguars",
+            "Butler Bulldogs",
+            "IUPUI Jaguars",
+            "IUPUI Jaguars",
+            "Butler Bulldogs",
+            "Butler Bulldogs",
+            "IUPUI Jaguars"
+        ]
+    },
+    {
+        "metro": "Columbus",
+        "region": "OH",
+        "population": 2078725,
+        "teams": [
+            "Columbus Tigers",
+            "Columbus Pandhandles",
+            "Columbus Blue Jackets",
+            "Columbus Crew",
+            "Ohio State Buckeyes",
+            "Ohio State Buckeyes",
+            "Ohio State Buckeyes",
+            "Mississippi University for Women Owls",
+            "Ohio State Buckeyes",
+            "Ohio State Buckeyes",
+            "Ohio State Buckeyes"
+        ]
+    },
+    {
+        "metro": "Metro Phoenix",
+        "region": "AZ",
+        "population": 4737270,
+        "teams": [
+            "Arizona Diamondbacks",
+            "Phoenix Suns",
+            "Phoenix Cardinals",
+            "Arizona Cardinals",
+            "Airzona Coyotes",
+            "Phoenix Coyotes",
+            "Arizona State Sun Devils",
+            "Grand Canyon Antelopes",
+            "Arizona State Sun Devils",
+            "Grand Canyon Antelopes",
+            "Arizona State Sun Devils",
+            "Grand Canyon Antelopes",
+            "Arizona State Sun Devils",
+            "Grand Canyon Antelopes",
+            "Arizona State Sun Devils",
+            "Arizona State Sun Devils",
+            "Grand Canyon Antelopes"
+        ]
+    },
+    {
+        "metro": "Atlanta",
+        "region": "GA",
+        "population": 5884736,
+        "teams": [
+            "Atlanta Braves",
+            "Atlanta Hawks",
+            "Atlanta Falcons",
+            "Atlanta Flames",
+            "Atlanta Thrashers",
+            "Georgia State Panthers",
+            "Georgia Tech Yellow Jackets",
+            "Kennesaw State Owls",
+            "Morris Brown Wolverines",
+            "Georgia State Panthers",
+            "Kennesaw State Owls",
+            "Georgia State Panthers",
+            "Georgia Tech Yellow Jackets",
+            "Kennesaw State Owls",
+            "Morris Brown Wolverines",
+            "Georgia State Panthers",
+            "Georgia Tech Yellow Jackets",
+            "Kennesaw State Owls",
+            "Morris Brown Wolverines",
+            "Georgia State Panthers",
+            "Georgia State Panthers",
+            "Georgia Tech Yellow Jackets",
+            "Georgia Tech Yellow Jackets",
+            "Kennesaw State Owls",
+            "Morris Brown Wolverines",
+            "Oglethorpe Stormy Petrels"
+        ]
+    },
+    {
+        "metro": "Princeton",
+        "region": "NJ",
+        "population": 30168,
+        "teams": [
+            "Princeton Tigers",
+            "Princeton Tigers",
+            "Princeton Tigers",
+            "Princeton Tigers",
+            "Princeton Tigers",
+            "Princeton Tigers"
+        ]
+    },
+    {
+        "metro": "West Point",
+        "region": "NY",
+        "population": 6763,
+        "teams": [
+            "Army Black Knights",
+            "Army Black Knights",
+            "Army Black Knights",
+            "Army Black Knights",
+            "Army Black Knights",
+            "Army Black Knights"
+        ]
+    },
+    {
+        "metro": "Statesboro",
+        "region": "GA",
+        "population": 71214,
+        "teams": [
+            "Georgia Southern Eagles",
+            "Georgia Southern Eagles",
+            "Georgia Southern Eagles",
+            "Georgia Southern Eagles",
+            "Georgia Southern Eagles",
+            "Georgia Southern Eagles"
+        ]
+    },
+    {
+        "metro": "State College",
+        "region": "PA",
+        "population": 162660,
+        "teams": [
+            "Penn State Nittany Lions",
+            "Penn State Nittany Lions",
+            "Penn State Nittany Lions",
+            "Penn State Nittany Lions",
+            "Penn State Nittany Lions",
+            "Penn State Nittany Lions"
+        ]
+    },
+    {
+        "metro": "Tuscaloosa",
+        "region": "AL",
+        "population": 242799,
+        "teams": [
+            "Alabama Crimson Tide",
+            "Alabama Crimson Tide",
+            "Alabama Crimson Tide",
+            "Stillman Tigers football",
+            "Alabama Crimson Tide",
+            "Alabama Crimson Tide",
+            "Alabama Crimson Tide"
+        ]
+    },
+    {
+        "metro": "Notre Dame",
+        "region": "IN",
+        "population": 321815,
+        "teams": [
+            "Notre Dame Fighting Irish",
+            "Notre Dame Fighting Irish",
+            "Holy Cross Saints",
+            "Notre Dame Fighting Irish",
+            "Notre Dame Fighting Irish",
+            "Notre Dame Fighting Irish",
+            "Notre Dame Fighting Irish"
+        ]
+    },
+    {
+        "metro": "Boone",
+        "region": "NC",
+        "population": 55423,
+        "teams": [
+            "Appalachian State Mountaineers",
+            "Appalachian State Mountaineers",
+            "Appalachian State Mountaineers",
+            "Appalachian State Mountaineers",
+            "Appalachian State Mountaineers",
+            "Appalachian State Mountaineers"
+        ]
+    },
+    {
+        "metro": "Stillwater",
+        "region": "OK",
+        "population": 80850,
+        "teams": [
+            "Oklahoma State Cowboys",
+            "Oklahoma State Cowboys",
+            "Oklahoma State Cowboys",
+            "Oklahoma State Cowboys",
+            "Oklahoma State Cowboys"
+        ]
+    },
+    {
+        "metro": "Corvallis",
+        "region": "OR",
+        "population": 90951,
+        "teams": [
+            "Oregon State Beavers",
+            "Oregon State Beavers",
+            "Oregon State Beavers",
+            "Oregon State Beavers",
+            "Oregon State Beavers",
+            "Oregon State Beavers"
+        ]
+    },
+    {
+        "metro": "Ann Arbor",
+        "region": "MI",
+        "population": 367627,
+        "teams": [
+            "Eastern Michigan Eagles",
+            "Michigan Wolverines",
+            "Eastern Michigan Eagles",
+            "Michigan Wolverines",
+            "Eastern Michigan Eagles",
+            "Michigan Wolverines",
+            "Eastern Michigan Eagles",
+            "Michigan Wolverines",
+            "Eastern Michigan Eagles",
+            "Eastern Michigan Eagles",
+            "Michigan Wolverines",
+            "Michigan Wolverines"
+        ]
+    },
+    {
+        "metro": "Lincoln",
+        "region": "NE",
+        "population": 331519,
+        "teams": [
+            "Nebraska Cornhuskers",
+            "Nebraska Cornhuskers",
+            "Nebraska Cornhuskers",
+            "Nebraska Cornhuskers",
+            "Nebraska Cornhuskers",
+            "Nebraska Cornhuskers"
+        ]
+    },
+    {
+        "metro": "Newark",
+        "region": "DE",
+        "population": 33398,
+        "teams": [
+            "Delaware Fightin' Blue Hens",
+            "Delaware Fightin' Blue Hens",
+            "Delaware Fightin' Blue Hens",
+            "Delaware Fightin' Blue Hens",
+            "Delaware Fightin' Blue Hens"
+        ]
+    },
+    {
+        "metro": "Bloomington",
+        "region": "IN",
+        "population": 167825,
+        "teams": [
+            "Indiana Hoosiers",
+            "Indiana Hoosiers",
+            "Indiana Hoosiers",
+            "Indiana Hoosiers",
+            "Indiana Hoosiers",
+            "Indiana Hoosiers"
+        ]
+    },
+    {
+        "metro": "Ithaca",
+        "region": "NY",
+        "population": 104802,
+        "teams": [
+            "Cornell Big Red",
+            "Cornell Big Red",
+            "Cornell Big Red",
+            "Cornell Big Red",
+            "Cornell Big Red",
+            "Cornell Big Red"
+        ]
+    },
+    {
+        "metro": "Fargo",
+        "region": "ND",
+        "population": 241356,
+        "teams": [
+            "North Dakota State Bison",
+            "North Dakota State Bison",
+            "North Dakota State Bison",
+            "North Dakota State Bison",
+            "North Dakota State Bison"
+        ]
+    },
+    {
+        "metro": "Lawrence",
+        "region": "KS",
+        "population": 120793,
+        "teams": [
+            "Kansas Jayhawks",
+            "Kansas Jayhawks",
+            "Kansas Jayhawks",
+            "Kansas Jayhawks",
+            "Haskell Indians",
+            "Kansas Jayhawks",
+            "Kansas Jayhawks"
+        ]
+    },
+    {
+        "metro": "Gainesville",
+        "region": "FL",
+        "population": 284687,
+        "teams": [
+            "Florida Gators",
+            "Florida Gators",
+            "Florida Gators",
+            "Florida Gators",
+            "Florida Gators",
+            "Florida Gators"
+        ]
+    },
+    {
+        "metro": "Oxford",
+        "region": "MS",
+        "population": 43975,
+        "teams": [
+            "Ole Miss Rebels",
+            "Ole Miss Rebels",
+            "Ole Miss Rebels",
+            "Ole Miss Rebels",
+            "Ole Miss Rebels",
+            "Ole Miss Rebels"
+        ]
+    },
+    {
+        "metro": "New Haven",
+        "region": "CT",
+        "population": 860435,
+        "teams": [
+            "Quinnipiac Bobcats",
+            "Yale Bulldogs",
+            "Quinnipiac Bobcats",
+            "Yale Bulldogs",
+            "Quinnipiac Bobcats",
+            "Yale Bulldogs",
+            "Quinnipiac Bobcats",
+            "Yale Bulldogs",
+            "Quinnipiac Bobcats",
+            "Yale Bulldogs",
+            "Yale Bulldogs"
+        ]
+    },
+    {
+        "metro": "Richmond",
+        "region": "KY",
+        "population": 99972,
+        "teams": [
+            "Eastern Kentucky Colonels",
+            "Eastern Kentucky Colonels",
+            "Eastern Kentucky Colonels",
+            "Eastern Kentucky Colonels",
+            "Eastern Kentucky Colonels"
+        ]
+    },
+    {
+        "metro": "New Brunswick",
+        "region": "NJ",
+        "population": 56910,
+        "teams": [
+            "Rutgers Scarlet Knights",
+            "Rutgers Scarlet Knights",
+            "Rutgers Scarlet Knights",
+            "Rutgers Scarlet Knights",
+            "Rutgers Scarlet Knights",
+            "Rutgers Scarlet Knights"
+        ]
+    },
+    {
+        "metro": "Missoula",
+        "region": "MT",
+        "population": 117441,
+        "teams": [
+            "Montana Grizzlies",
+            "Montana Grizzlies",
+            "Montana Grizzlies",
+            "Montana Grizzlies",
+            "Montana Grizzlies",
+            "Montana Grizzlies"
+        ]
+    },
+    {
+        "metro": "Monroe",
+        "region": "LA",
+        "population": 178445,
+        "teams": [
+            "Grambling Tigers",
+            "Louisiana-Monroe Warhawks",
+            "Louisiana Tech Bulldogs",
+            "Grambling Tigers",
+            "Louisiana-Monroe Warhawks",
+            "Louisiana Tech Bulldogs",
+            "Grambling Tigers",
+            "Louisiana-Monroe Warhawks",
+            "Louisiana Tech Bulldogs",
+            "Grambling Tigers",
+            "Louisiana-Monroe Warhawks",
+            "Louisiana Tech Bulldogs",
+            "Grambling Tigers",
+            "Grambling State Tigers",
+            "Louisiana Tech Bulldogs",
+            "Louisiana Tech Bulldogs",
+            "Louisiana-Monroe Warhawks",
+            "Louisiana-Monroe Warhawks"
+        ]
+    },
+    {
+        "metro": "Lexington-Fayette",
+        "region": "KY",
+        "population": 512650,
+        "teams": [
+            "Kentucky Wildcats",
+            "Kentucky Wildcats",
+            "Kentucky Wildcats",
+            "Kentucky Wildcats",
+            "Kentucky Wildcats",
+            "Kentucky Wildcats"
+        ]
+    },
+    {
+        "metro": "Harrisonburg",
+        "region": "VA",
+        "population": 134442,
+        "teams": [
+            "James Madison Dukes",
+            "James Madison Dukes",
+            "James Madison Dukes",
+            "James Madison Dukes",
+            "James Madison Dukes"
+        ]
+    },
+    {
+        "metro": "Tallahassee",
+        "region": "FL",
+        "population": 382627,
+        "teams": [
+            "Florida A&M Rattlers",
+            "Florida State Seminoles",
+            "Florida State Seminoles",
+            "Florida A&M Rattlers",
+            "Florida State Seminoles",
+            "Florida A&M Rattlers",
+            "Florida State Seminoles",
+            "Florida A&M Rattlers",
+            "Florida A&M Rattlers",
+            "Florida State Seminoles",
+            "Florida State Seminoles"
+        ]
+    },
+    {
+        "metro": "Champaign-Urbana",
+        "region": "IL",
+        "population": 239124,
+        "teams": [
+            "Illinois Fighting Illini",
+            "Illinois Fighting Illini",
+            "Illinois Fighting Illini",
+            "Illinois Fighting Illini",
+            "Illinois Fighting Illini",
+            "Illinois Fighting Illini"
+        ]
+    },
+    {
+        "metro": "Hartford",
+        "region": "CT",
+        "population": 1210259,
+        "teams": [
+            "Hartford Blues",
+            "Hartford Whalers",
+            "Central Connecticut State Blue Devils",
+            "Hartford Hawks",
+            "Connecticut Huskies",
+            "Central Connecticut State Blue Devils",
+            "Hartford Hawks",
+            "Connecticut Huskies",
+            "Central Connecticut State Blue Devils",
+            "Hartford Hawks",
+            "Trinity Bantams",
+            "Connecticut Huskies",
+            "Wesleyan Cardinals",
+            "Central Connecticut State Blue Devils",
+            "Hartford Hawks",
+            "Connecticut Huskies",
+            "Central Connecticut State Blue Devils",
+            "Trinity Bantams",
+            "Connecticut Huskies",
+            "Connecticut Huskies",
+            "Hartford Hawks",
+            "Wesleyan Cardinals"
+        ]
+    },
+    {
+        "metro": "Auburn",
+        "region": "AL",
+        "population": 161604,
+        "teams": [
+            "Auburn Tigers",
+            "Auburn Tigers",
+            "Auburn Tigers",
+            "Auburn Tigers",
+            "Auburn Tigers",
+            "Auburn Tigers"
+        ]
+    },
+    {
+        "metro": "Columbia",
+        "region": "SC",
+        "population": 825033,
+        "teams": [
+            "South Carolina Gamecocks",
+            "South Carolina Gamecocks",
+            "South Carolina Gamecocks",
+            "South Carolina Gamecocks",
+            "Newberry Wolves",
+            "South Carolina Gamecocks",
+            "South Carolina Gamecocks"
+        ]
+    },
+    {
+        "metro": "Baton Rouge",
+        "region": "LA",
+        "population": 834159,
+        "teams": [
+            "LSU Fighting Tigers",
+            "Southern Jaguars",
+            "LSU Fighting Tigers",
+            "Southern Jaguars",
+            "LSU Fighting Tigers",
+            "Southern Jaguars",
+            "LSU Fighting Tigers",
+            "Southern Jaguars",
+            "LSU Fighting Tigers",
+            "LSU Fighting Tigers",
+            "Southern Jaguars",
+            "Southern Jaguars"
+        ]
+    },
+    {
+        "metro": "Pocatello",
+        "region": "ID",
+        "population": 85269,
+        "teams": [
+            "Idaho State Bengals",
+            "Idaho State Bengals",
+            "Idaho State Bengals",
+            "Idaho State Bengals",
+            "Idaho State Bengals",
+            "Idaho State Bengals"
+        ]
+    },
+    {
+        "metro": "College Station",
+        "region": "TX",
+        "population": 258044,
+        "teams": [
+            "Texas A&M Aggies",
+            "Texas A&M Aggies",
+            "Texas A&M Aggies",
+            "Texas A&M Aggies",
+            "Texas A&M Aggies",
+            "Texas A&M Aggies"
+        ]
+    },
+    {
+        "metro": "Knoxville",
+        "region": "TN",
+        "population": 877104,
+        "teams": [
+            "Tennessee Volunteers",
+            "Tennessee Volunteers",
+            "Tennessee Volunteers",
+            "Tennessee Volunteers",
+            "Tennessee Medical College",
+            "Tennessee Volunteers",
+            "Tennessee Volunteers"
+        ]
+    },
+    {
+        "metro": "Bozeman",
+        "region": "MT",
+        "population": 94720,
+        "teams": [
+            "Montana State Bobcats",
+            "Montana State Bobcats",
+            "Montana State Bobcats",
+            "Montana State Bobcats"
+        ]
+    },
+    {
+        "metro": "East Lansing",
+        "region": "MI",
+        "population": 477656,
+        "teams": [
+            "Michigan State Spartans",
+            "Michigan State Spartans",
+            "Michigan State Spartans",
+            "Michigan State Spartans",
+            "Michigan State Spartans",
+            "Michigan State Spartans"
+        ]
+    },
+    {
+        "metro": "Cheyenne",
+        "region": "WY",
+        "population": 98327,
+        "teams": [
+            "Wyoming Cowboys",
+            "Wyoming Cowboys",
+            "Wyoming Cowboys",
+            "Wyoming Cowboys",
+            "Wyoming Cowboys",
+            "Wyoming Cowboys"
+        ]
+    },
+    {
+        "metro": "Athens",
+        "region": "GA",
+        "population": 209271,
+        "teams": [
+            "Georgia Bulldogs",
+            "Georgia Bulldogs",
+            "Georgia Bulldogs",
+            "Georgia Bulldogs",
+            "Georgia Pre-Flight Skycrackers",
+            "Georgia Bulldogs",
+            "Georgia Bulldogs"
+        ]
+    },
+    {
+        "metro": "Carbondale",
+        "region": "IL",
+        "population": 125612,
+        "teams": [
+            "Southern Illinois Salukis",
+            "Southern Illinois Salukis",
+            "Southern Illinois Salukis",
+            "Southern Illinois Salukis",
+            "Southern Illinois Salukis"
+        ]
+    },
+    {
+        "metro": "Waco",
+        "region": "TX",
+        "population": 268696,
+        "teams": [
+            "Baylor Bears",
+            "Baylor Bears",
+            "Baylor Bears",
+            "Baylor Bears",
+            "Baylor Bears",
+            "Baylor Bears"
+        ]
+    },
+    {
+        "metro": "Youngstown",
+        "region": "OH",
+        "population": 541926,
+        "teams": [
+            "Youngstown State Penguins",
+            "Youngstown State Penguins",
+            "Youngstown State Penguins",
+            "Youngstown State Penguins",
+            "Youngstown State Penguins"
+        ]
+    },
+    {
+        "metro": "Oklahoma City",
+        "region": "OK",
+        "population": 1383737,
+        "teams": [
+            "Oklahoma City Hornets",
+            "Oklahoma City Thunder",
+            "Oklahoma Sooners",
+            "Oklahoma City Chiefs",
+            "Oklahoma Sooners",
+            "Oklahoma Sooners",
+            "Oklahoma City Chiefs",
+            "Oklahoma Sooners",
+            "Norman Naval Air Station Zoomers",
+            "Oklahoma City Chiefs",
+            "Oklahoma Sooners",
+            "Oklahoma Sooners"
+        ]
+    },
+    {
+        "metro": "Austin",
+        "region": "TX",
+        "population": 2115827,
+        "teams": [
+            "Texas Longhorns",
+            "Texas Longhorns",
+            "Texas Longhorns",
+            "Texas Longhorns",
+            "Texas Longhorns",
+            "Texas Longhorns"
+        ]
+    },
+    {
+        "metro": "Iowa City",
+        "region": "IA",
+        "population": 171491,
+        "teams": [
+            "Iowa Hawkeyes",
+            "Iowa Hawkeyes",
+            "Iowa Hawkeyes",
+            "Iowa Hawkeyes",
+            "Iowa Pre-Flight Seahawks",
+            "Iowa Hawkeyes",
+            "Iowa Hawkeyes"
+        ]
+    },
+    {
+        "metro": "Bowling Green",
+        "region": "KY",
+        "population": 174835,
+        "teams": [
+            "Western Kentucky Hilltoppers",
+            "Western Kentucky Hilltoppers",
+            "Western Kentucky Hilltoppers",
+            "Western Kentucky Hilltoppers",
+            "Western Kentucky Hilltoppers",
+            "Western Kentucky Hilltoppers"
+        ]
+    },
+    {
+        "metro": "Huntington",
+        "region": "WV",
+        "population": 356474,
+        "teams": [
+            "Marshall Thundering Herd",
+            "Marshall Thundering Herd",
+            "Marshall Thundering Herd",
+            "Marshall Thundering Herd",
+            "Marshall Thundering Herd",
+            "Marshall Thundering Herd"
+        ]
+    },
+    {
+        "metro": "Columbia",
+        "region": "MO",
+        "population": 178271,
+        "teams": [
+            "Missouri Tigers",
+            "Missouri Tigers",
+            "Missouri Tigers",
+            "Missouri Tigers",
+            "Missouri Tigers",
+            "Missouri Tigers"
+        ]
+    },
+    {
+        "metro": "Tucson",
+        "region": "AZ",
+        "population": 1022769,
+        "teams": [
+            "Arizona Wildcats",
+            "Arizona Wildcats",
+            "Arizona Wildcats",
+            "Arizona Wildcats",
+            "Arizona Wildcats",
+            "Arizona Wildcats"
+        ]
+    },
+    {
+        "metro": "West Lafayette",
+        "region": "IN",
+        "population": 219239,
+        "teams": [
+            "Purdue Boilermakers",
+            "Purdue Boilermakers",
+            "Purdue Boilermakers",
+            "Purdue Boilermakers",
+            "Purdue Boilermakers",
+            "Purdue Boilermakers"
+        ]
+    },
+    {
+        "metro": "Charlottesville",
+        "region": "VA",
+        "population": 233793,
+        "teams": [
+            "Virginia Cavaliers",
+            "Virginia Cavaliers",
+            "Virginia Cavaliers",
+            "Virginia Cavaliers",
+            "Virginia Cavaliers",
+            "Virginia Cavaliers"
+        ]
+    },
+    {
+        "metro": "Northwest Arkansas",
+        "region": "AR",
+        "population": 537463,
+        "teams": [
+            "Arkansas Razorbacks",
+            "Arkansas Razorbacks",
+            "Arkansas Razorbacks",
+            "Arkansas Razorbacks",
+            "Arkansas Razorbacks",
+            "Arkansas Razorbacks"
+        ]
+    },
+    {
+        "metro": "Greenville",
+        "region": "SC",
+        "population": 895923,
+        "teams": [
+            "Clemson Tigers",
+            "Furman Paladins",
+            "Presbyterian Blue Hose",
+            "Clemson Tigers",
+            "Furman Paladins",
+            "Presbyterian Blue Hose",
+            "Clemson Tigers",
+            "Furman Paladins",
+            "Presbyterian Blue Hose",
+            "Clemson Tigers",
+            "Furman Paladins",
+            "Presbyterian Blue Hose",
+            "Clemson Tigers",
+            "Clemson Tigers",
+            "Furman Paladins",
+            "Furman Paladins",
+            "Presbyterian Blue Hose",
+            "Presbyterian Blue Hose"
+        ]
+    },
+    {
+        "metro": "Lubbock",
+        "region": "TX",
+        "population": 316983,
+        "teams": [
+            "Texas Tech Red Raiders",
+            "Texas Tech Red Raiders",
+            "Texas Tech Red Raiders",
+            "Texas Tech Red Raiders",
+            "Lubbock Field",
+            "Texas Tech Red Raiders",
+            "Texas Tech Red Raiders"
+        ]
+    },
+    {
+        "metro": "Boulder",
+        "region": "CO",
+        "population": 322514,
+        "teams": [
+            "Colorado Buffaloes",
+            "Colorado Buffaloes",
+            "Colorado Buffaloes",
+            "Colorado Buffaloes",
+            "Colorado Buffaloes",
+            "Colorado Buffaloes"
+        ]
+    },
+    {
+        "metro": "Honolulu",
+        "region": "HI",
+        "population": 988650,
+        "teams": [
+            "Hawaii Warriors",
+            "Hawaii Warriors",
+            "Hawaii Warriors",
+            "Hawaii Warriors",
+            "Hawaii Warriors",
+            "Hawaii Warriors"
+        ]
+    },
+    {
+        "metro": "Stockton",
+        "region": "CA",
+        "population": 745424,
+        "teams": [
+            "Pacific Tigers",
+            "Pacific Tigers",
+            "Pacific Tigers",
+            "Pacific Tigers",
+            "Pacific Tigers",
+            "Pacific Tigers"
+        ]
+    },
+    {
+        "metro": "Eugene",
+        "region": "OR",
+        "population": 374748,
+        "teams": [
+            "Oregon Ducks",
+            "Oregon Ducks",
+            "Oregon Ducks",
+            "Oregon Ducks",
+            "Oregon Ducks",
+            "Oregon Ducks"
+        ]
+    },
+    {
+        "metro": "Myrtle Beach Metro Area",
+        "region": "SC",
+        "population": 464165,
+        "teams": [
+            "Coastal Carolina Chanticleers",
+            "Coastal Carolina Chanticleers",
+            "Coastal Carolina Chanticleers",
+            "Coastal Carolina Chanticleers",
+            "Coastal Carolina Chanticleers",
+            "Coastal Carolina Chanticleers"
+        ]
+    },
+    {
+        "metro": "Worcester",
+        "region": "MA",
+        "population": 942475,
+        "teams": [
+            "Holy Cross Crusaders",
+            "Holy Cross Crusaders",
+            "Eastern Connecticut Warriors",
+            "Holy Cross Crusaders",
+            "WSU Lancers",
+            "WPI Engineers",
+            "Holy Cross Crusaders",
+            "Holy Cross Crusaders",
+            "Holy Cross Crusaders",
+            "WPI Engineers"
+        ]
+    },
+    {
+        "metro": "Spokane",
+        "region": "WA",
+        "population": 564236,
+        "teams": [
+            "Eastern Washington Eagles",
+            "Gonzaga Bulldogs",
+            "Eastern Washington Eagles",
+            "Gonzaga Bulldogs",
+            "Eastern Washington Eagles",
+            "Gonzaga Bulldogs",
+            "Eastern Washington Eagles",
+            "Gonzaga Bulldogs",
+            "Eastern Washington Eagles",
+            "Gonzaga Bulldogs",
+            "Gonzaga Bulldogs"
+        ]
+    },
+    {
+        "metro": "Provo",
+        "region": "UT",
+        "population": 617675,
+        "teams": [
+            "Brigham Young Cougars",
+            "Utah Valley Wolverines",
+            "Brigham Young Cougars",
+            "Utah Valley Wolverines",
+            "Brigham Young Cougars",
+            "Utah Valley Wolverines",
+            "Brigham Young Cougars",
+            "Utah Valley Wolverines",
+            "Brigham Young Cougars",
+            "Brigham Young Cougars",
+            "Utah Valley Wolverines"
+        ]
+    },
+    {
+        "metro": "Springfield",
+        "region": "MA",
+        "population": 631652,
+        "teams": [
+            "Massachusetts Minutemen",
+            "Massachusetts Minutemen",
+            "Yellow Jackets",
+            "Amherst Lord Jeffs",
+            "Massachusetts Minutemen",
+            "Springfield Pride",
+            "Massachusetts Minutemen",
+            "Amherst Lord Jeffs",
+            "Springfield Pride",
+            "Massachusetts Minutemen",
+            "Massachusetts Minutemen"
+        ]
+    },
+    {
+        "metro": "Louisville",
+        "region": "KY",
+        "population": 1283430,
+        "teams": [
+            "Louisville Colonels",
+            "Louisville Brecks",
+            "Louisville Cardinals",
+            "Louisville Cardinals",
+            "Louisville Cardinals",
+            "Louisville Cardinals",
+            "Louisville Cardinals",
+            "Louisville Cardinals"
+        ]
+    },
+    {
+        "metro": "Wichita",
+        "region": "KS",
+        "population": 645628,
+        "teams": [
+            "Wichita State Shockers",
+            "Wichita State Shockers",
+            "Wichita State Shockers",
+            "Wichita State Shockers",
+            "Wichita State Shockers"
+        ]
+    },
+    {
+        "metro": "Madison",
+        "region": "WI",
+        "population": 654230,
+        "teams": [
+            "Wisconsin Badgers",
+            "Wisconsin Badgers",
+            "Wisconsin Badgers",
+            "Wisconsin Badgers",
+            "Wisconsin Badgers",
+            "Wisconsin Badgers"
+        ]
+    },
+    {
+        "metro": "Winston-Salem",
+        "region": "NC",
+        "population": 667733,
+        "teams": [
+            "Davidson Wildcats",
+            "North Carolina A&T Aggies",
+            "North Carolina-Greensboro Spartans",
+            "Wake Forest Demon Deacons",
+            "Winston-Salem State Rams",
+            "Davidson Wildcats",
+            "North Carolina-Greensboro Spartans",
+            "Wake Forest Demon Deacons",
+            "Davidson Wildcats",
+            "North Carolina A&T Aggies",
+            "North Carolina-Greensboro Spartans",
+            "Wake Forest Demon Deacons",
+            "Winston-Salem State Rams",
+            "Davidson Wildcats",
+            "North Carolina A&T Aggies",
+            "North Carolina-Greensboro Spartans",
+            "Wake Forest Demon Deacons",
+            "Winston-Salem State Rams",
+            "Davidson Wildcats",
+            "Davidson Wildcats",
+            "North Carolina A&T Aggies",
+            "North Carolina-Greensboro Spartans",
+            "Wake Forest Demon Deacons",
+            "Wake Forest Demon Deacons"
+        ]
+    },
+    {
+        "metro": "Boise City",
+        "region": "ID",
+        "population": 709845,
+        "teams": [
+            "Boise State Broncos",
+            "Boise State Broncos",
+            "Boise State Broncos",
+            "Boise State Broncos",
+            "Boise State Broncos",
+            "Boise State Broncos"
+        ]
+    },
+    {
+        "metro": "Lehigh Valley",
+        "region": "NJ-PA",
+        "population": 840550,
+        "teams": [
+            "Lafayette Leopards",
+            "Lehigh Mountain Hawks",
+            "Lafayette Leopards",
+            "Lehigh Mountain Hawks",
+            "Lafayette Leopards",
+            "Lehigh Mountain Hawks",
+            "Lafayette Leopards",
+            "Lehigh Mountain Hawks",
+            "Lafayette Leopards",
+            "Lafayette Leopards",
+            "Lehigh Mountain Hawks",
+            "Lehigh Mountain Hawks",
+            "Muhlenburg Mules"
+        ]
+    },
+    {
+        "metro": "El Paso",
+        "region": "TX",
+        "population": 844818,
+        "teams": [
+            "UTEP Miners",
+            "UTEP Miners",
+            "UTEP Miners",
+            "UTEP Miners",
+            "UTEP Miners",
+            "UTEP Miners"
+        ]
+    },
+    {
+        "metro": "Fresno",
+        "region": "CA",
+        "population": 989255,
+        "teams": [
+            "Fresno State Bulldogs",
+            "Fresno State Bulldogs",
+            "Fresno State Bulldogs",
+            "Fresno State Bulldogs",
+            "Fresno State Bulldogs",
+            "Fresno State Bulldogs"
+        ]
+    },
+    {
+        "metro": "Richmond",
+        "region": "VA",
+        "population": 1294204,
+        "teams": [
+            "Richmond Spiders",
+            "VCU Rams",
+            "Richmond Spiders",
+            "VCU Rams",
+            "Richmond Spiders",
+            "VCU Rams",
+            "VCU Rams",
+            "Richmond Spiders",
+            "Richmond Spiders",
+            "VCU Rams"
+        ]
+    },
+    {
+        "metro": "Norfolk",
+        "region": "VA",
+        "population": 1725246,
+        "teams": [
+            "Hampton Pirates",
+            "Norfolk State Spartans",
+            "Old Dominion Monarchs",
+            "Hampton Pirates",
+            "Old Dominion Monarchs",
+            "Norfolk State Spartans",
+            "Old Dominion Monarchs",
+            "Hampton Pirates",
+            "Norfolk State Spartans",
+            "Hampton Pirates",
+            "Norfolk State Spartans",
+            "Old Dominion Monarchs",
+            "Old Dominion Monarchs"
+        ]
+    },
+    {
+        "metro": "Nashville",
+        "region": "TN",
+        "population": 1903045,
+        "teams": [
+            "Tennessee Oilers",
+            "Tennessee Titans",
+            "Nashville Predators",
+            "Belmont Bruins",
+            "Lipscomb Bisons",
+            "Tennessee State Tigers",
+            "Vanderbilt Commodores",
+            "Belmont Bruins",
+            "Lipscomb Bisons",
+            "Tennessee State Tigers",
+            "Vanderbilt Commodores",
+            "Belmont Bruins",
+            "Fisk Bulldogs",
+            "Lipscomb Bisons",
+            "Tennessee State Tigers",
+            "Vanderbilt Commodores",
+            "Belmont Bruins",
+            "Lipscomb Bisons",
+            "Tennessee State Tigers",
+            "Belmont Bruins",
+            "Lipscomb Bisons",
+            "Tennessee State Tigers",
+            "Tennessee State Tigers",
+            "Nashville",
+            "Vanderbilt Commodores",
+            "Vanderbilt Commodores"
+        ]
+    },
+    {
+        "metro": "Las Vegas",
+        "region": "NV",
+        "population": 2204079,
+        "teams": [
+            "Vegas Golden Knights",
+            "Nevada-Las Vegas Rebels",
+            "Nevada-Las Vegas Rebels",
+            "Nevada-Las Vegas Rebels",
+            "Nevada-Las Vegas Rebels",
+            "Nevada-Las Vegas Rebels",
+            "Nevada-Las Vegas Rebels"
+        ]
+    },
+    {
+        "metro": "Buffalo",
+        "region": "NY",
+        "population": 256902,
+        "teams": [
+            "Buffalo Braves",
+            "Buffalo Bills",
+            "Buffalo Bisons",
+            "Buffalo All-Americans",
+            "Buffalo Rangers",
+            "Buffalo Sabres",
+            "Buffalo Bulls",
+            "Canisius Golden Griffins",
+            "Niagara Purple Eagles",
+            "Buffalo Bulls",
+            "Canisius Golden Griffins",
+            "Niagara Purple Eagles",
+            "Buffalo Bulls",
+            "Buffalo Bulls",
+            "Canisius Golden Griffins",
+            "Niagara Purple Eagles",
+            "Buffalo Bulls",
+            "Canisius Golden Griffins",
+            "Niagara Purple Eagles",
+            "Canisius Golden Griffins",
+            "Niagara Purple Eagles",
+            "Buffalo Bulls",
+            "Buffalo Bulls"
+        ]
+    },
+    {
+        "metro": "Charlotte Metro Area",
+        "region": "NC",
+        "population": 2474314,
+        "teams": [
+            "Charlotte Hornets",
+            "Charlotte Bobcats",
+            "Carolina Panthers",
+            "Charlotte 49ers",
+            "Gardner-Webb Runnin' Bulldogs",
+            "Winthrop Eagles",
+            "Charlotte 49ers",
+            "Gardner-Webb Runnin' Bulldogs",
+            "Winthrop Eagles",
+            "Charlotte 49ers",
+            "Gardner-Webb Runnin' Bulldogs",
+            "Winthrop Eagles",
+            "Charlotte 49ers",
+            "Gardner-Webb Runnin' Bulldogs",
+            "Winthrop Eagles",
+            "Gardner-Webb Runnin' Bulldogs",
+            "Charlotte 49ers",
+            "Charlotte 49ers",
+            "Winthrop Eagles"
+        ]
+    },
+    {
+        "metro": "Birmingham Metro Area",
+        "region": "AL",
+        "population": 212157,
+        "teams": [
+            "Birmingham-Southern Panthers",
+            "Samford Bulldogs",
+            "Alabama-Birmingham Blazers",
+            "Birmingham-Southern Panthers",
+            "Samford Bulldogs",
+            "Alabama-Birmingham Blazers",
+            "Birmingham-Southern Panthers",
+            "Samford Bulldogs",
+            "Alabama-Birmingham Blazers",
+            "Birmingham-Southern Panthers",
+            "Samford Bulldogs",
+            "Alabama-Birmingham Blazers",
+            "Birmingham-Southern Panthers",
+            "Birmingham-Southern Panthers",
+            "Samford Bulldogs",
+            "Samford Bulldogs",
+            "Alabama-Birmingham Blazers",
+            "Alabama-Birmingham Blazers"
+        ]
+    },
+    {
+        "metro": "San Diego",
+        "region": "CA",
+        "population": 1407000,
+        "teams": [
+            "San Diego Padres",
+            "San Diego Rockets",
+            "San Diego Clippers",
+            "San Diego Chargers",
+            "San Diego Toreros",
+            "San Diego State Aztecs",
+            "Alliant Gulls",
+            "San Diego Toreros",
+            "San Diego State Aztecs",
+            "San Diego Toreros",
+            "San Diego State Aztecs",
+            "San Diego Toreros",
+            "San Diego State Aztecs",
+            "San Diego State Aztecs",
+            "San Diego State Aztecs",
+            "U.S. International Gulls",
+            "San Diego Toreros"
+        ]
+    },
+    {
+        "metro": "Akron",
+        "region": "OH",
+        "population": 197633,
+        "teams": [
+            "Akron Pros",
+            "Akron Indians",
+            "Akron Zips",
+            "Kent State Golden Flashes",
+            "Akron Zips",
+            "Kent State Golden Flashes",
+            "Akron Zips",
+            "Kent State Golden Flashes",
+            "Akron Zips",
+            "Kent State Golden Flashes",
+            "Kent State Golden Flashes",
+            "Kent State Golden Flashes",
+            "Akron Zips",
+            "Akron Zips"
+        ]
+    },
+    {
+        "metro": "Charleston Metro Area",
+        "region": "SC",
+        "population": 664607,
+        "teams": [
+            "Charleston Southern Buccaneers",
+            "College of Charleston Cougars",
+            "Charleston Southern Buccaneers",
+            "College of Charleston Cougars",
+            "Citadel Bulldogs",
+            "Charleston Southern Buccaneers",
+            "College of Charleston Cougars",
+            "Citadel Bulldogs",
+            "Charleston Southern Buccaneers",
+            "Citadel Bulldogs",
+            "College of Charleston Cougars",
+            "Charleston Southern Buccaneers",
+            "College of Charleston Cougars",
+            "Citadel Bulldogs",
+            "Citadel Bulldogs"
+        ]
+    },
+    {
+        "metro": "Toledo",
+        "region": "OH",
+        "population": 278508,
+        "teams": [
+            "Toledo Maroons",
+            "Bowling Green State Falcons",
+            "Toledo Rockets",
+            "Bowling Green State Falcons",
+            "Toledo Rockets",
+            "Bowling Green State Falcons",
+            "Toledo Rockets",
+            "Bowling Green State Falcons",
+            "Toledo Rockets",
+            "Bowling Green State Falcons",
+            "Bowling Green State Falcons",
+            "Toledo Rockets",
+            "Toledo Rockets"
+        ]
+    },
+    {
+        "metro": "Capital District",
+        "region": "NY",
+        "population": 98111,
+        "teams": [
+            "Albany Great Danes",
+            "Siena Saints",
+            "Albany Great Danes",
+            "Siena Saints",
+            "Albany Great Danes",
+            "Siena Saints",
+            "Albany Great Danes",
+            "Siena Saints",
+            "Siena Saints",
+            "Union Dutchmen",
+            "Albany Great Danes"
+        ]
+    },
+    {
+        "metro": "Dayton",
+        "region": "OH",
+        "population": 140489,
+        "teams": [
+            "Dayton Triangles",
+            "Dayton Flyers",
+            "Wright State Raiders",
+            "Dayton Flyers",
+            "Wright State Raiders",
+            "Dayton Flyers",
+            "Wright State Raiders",
+            "Dayton Flyers",
+            "Wright State Raiders",
+            "Dayton Flyers",
+            "Dayton Flyers",
+            "Wright State Raiders"
+        ]
+    },
+    {
+        "metro": "Jacksonville",
+        "region": "FL",
+        "population": 880619,
+        "teams": [
+            "Jacksonville Jaguars",
+            "Jacksonville Dolphins",
+            "North Florida Ospreys",
+            "Jacksonville Dolphins",
+            "North Florida Ospreys",
+            "Jacksonville Dolphins",
+            "North Florida Ospreys",
+            "Jacksonville Dolphins",
+            "North Florida Ospreys",
+            "Jacksonville Naval Air Station Flyers",
+            "Jacksonville Dolphins",
+            "North Florida Ospreys"
+        ]
+    },
+    {
+        "metro": "Omaha",
+        "region": "NE",
+        "population": 446970,
+        "teams": [
+            "Omaha Kings",
+            "Creighton Bluejays",
+            "Omaha Mavericks",
+            "Creighton Bluejays",
+            "Omaha Mavericks",
+            "Creighton Bluejays",
+            "Omaha Mavericks",
+            "Creighton Bluejays",
+            "Omaha Mavericks",
+            "Creighton Bluejays",
+            "Creighton Bluejays",
+            "Omaha Mavericks"
+        ]
+    },
+    {
+        "metro": "Blacksburg",
+        "region": "VA",
+        "population": 45038,
+        "teams": [
+            "Radford Highlanders",
+            "Virginia Tech Hokies",
+            "Radford Highlanders",
+            "Virginia Tech Hokies",
+            "Radford Highlanders",
+            "Virginia Tech Hokies",
+            "Radford Highlanders",
+            "Virginia Tech Hokies",
+            "Radford Highlanders",
+            "Virginia Tech Hokies",
+            "Virginia Tech Hokies"
+        ]
+    },
+    {
+        "metro": "Tulsa",
+        "region": "OK",
+        "population": 403090,
+        "teams": [
+            "Oral Roberts Golden Eagles",
+            "Tulsa Golden Hurricane",
+            "Oral Roberts Golden Eagles",
+            "Tulsa Golden Hurricane",
+            "Oral Roberts Golden Eagles",
+            "Tulsa Golden Hurricane",
+            "Oral Roberts Golden Eagles",
+            "Tulsa Golden Hurricane",
+            "Oral Roberts Golden Eagles",
+            "Tulsa Golden Hurricane",
+            "Tulsa Golden Hurricane"
+        ]
+    },
+    {
+        "metro": "Greater Bridgeport",
+        "region": "CT",
+        "population": 305000,
+        "teams": [
+            "Fairfield Stags",
+            "Sacred Heart Pioneers",
+            "Fairfield Stags",
+            "Sacred Heart Pioneers",
+            "Bridgeport Purple Knights",
+            "Fairfield Stags",
+            "Sacred Heart Pioneers",
+            "Fairfield Stags",
+            "Sacred Heart Pioneers",
+            "Fairfield Stags",
+            "Sacred Heart Pioneers"
+        ]
+    },
+    {
+        "metro": "Spartanburg",
+        "region": "SC",
+        "population": 37876,
+        "teams": [
+            "South Carolina Upstate Spartans",
+            "Wofford Terriers",
+            "South Carolina Upstate Spartans",
+            "Wofford Terriers",
+            "South Carolina Upstate Spartans",
+            "Wofford Terriers",
+            "South Carolina Upstate Spartans",
+            "Wofford Terriers",
+            "South Carolina Upstate Spartans",
+            "Wofford Terriers",
+            "Wofford Terriers"
+        ]
+    },
+    {
+        "metro": "Colorado Springs",
+        "region": "CO",
+        "population": 465101,
+        "teams": [
+            "Air Force Falcons",
+            "Air Force Falcons",
+            "Colorado College Tigers",
+            "Air Force Falcons",
+            "Air Force Falcons",
+            "Colorado College Tigers",
+            "Second Air Force Superbombers",
+            "Air Force Falcons",
+            "Air Force Falcons"
+        ]
+    },
+    {
+        "metro": "Little Rock Metro",
+        "region": "AR",
+        "population": 738344,
+        "teams": [
+            "Central Arkansas Bears",
+            "Little Rock Trojans",
+            "Central Arkansas Bears",
+            "Little Rock Trojans",
+            "Central Arkansas Bears",
+            "Little Rock Trojans",
+            "Central Arkansas Bears",
+            "Little Rock Trojans",
+            "Little Rock Trojans",
+            "Central Arkansas Bears"
+        ]
+    },
+    {
+        "metro": "Memphis",
+        "region": "TN",
+        "population": 652717,
+        "teams": [
+            "Memphis Grizzlies",
+            "Memphis Tigers",
+            "Memphis Tigers",
+            "LeMoyne-Owen Magicians",
+            "Memphis Tigers",
+            "Memphis Tigers",
+            "Rhodes Lynx",
+            "Memphis Tigers",
+            "Memphis Tigers"
+        ]
+    },
+    {
+        "metro": "Abilene",
+        "region": "TX",
+        "population": 122225,
+        "teams": [
+            "Abilene Christian Wildcats",
+            "Hardin-Simmons Cowboys",
+            "Abilene Christian Wildcats",
+            "Abilene Christian Wildcats",
+            "Hardin-Simmons Cowboys",
+            "Abilene Christian Wildcats",
+            "Abilene Christian Wildcats",
+            "Hardin-Simmons Cowboys",
+            "Hardin-Simmons Cowboys"
+        ]
+    },
+    {
+        "metro": "Deltona-Daytona Beach-Ormond Beach",
+        "region": "FL",
+        "population": 623279,
+        "teams": [
+            "Bethune-Cookman Wildcats",
+            "Stetson Hatters",
+            "Stetson Hatters",
+            "Bethune-Cookman Wildcats",
+            "Stetson Hatters",
+            "Bethune-Cookman Wildcats",
+            "Stetson Hatters",
+            "Bethune-Cookman Wildcats",
+            "Stetson Hatters"
+        ]
+    },
+    {
+        "metro": "Greater Orlando",
+        "region": "FL",
+        "population": 2134411,
+        "teams": [
+            "Orlando Magic",
+            "Central Florida Knights",
+            "Central Florida Knights",
+            "Rollins Tars",
+            "Central Florida Knights",
+            "Central Florida Knights",
+            "Central Florida Knights",
+            "Central Florida Knights"
+        ]
+    },
+    {
+        "metro": "Gulfport-Biloxi Metro Area",
+        "region": "MS",
+        "population": 246190,
+        "teams": [
+            "Jackson State Tigers",
+            "Jackson State Tigers",
+            "Jackson State Tigers",
+            "Jackson State Tigers",
+            "Jackson State Tigers",
+            "Jackson State Tigers",
+            "Millsaps Majors"
+        ]
+    },
+    {
+        "metro": "Normal",
+        "region": "IL",
+        "population": 54264,
+        "teams": [
+            "Illinois State Redbirds",
+            "Illinois State Redbirds",
+            "Illinois State Redbirds",
+            "Illinois State Redbirds",
+            "Illinois State Redbirds",
+            "Illinois State Redbirds"
+        ]
+    },
+    {
+        "metro": "Kalamazoo",
+        "region": "MI",
+        "population": 75984,
+        "teams": [
+            "Western Michigan Broncos",
+            "Western Michigan Broncos",
+            "Western Michigan Broncos",
+            "Western Michigan Broncos",
+            "Western Michigan Broncos",
+            "Western Michigan Broncos"
+        ]
+    },
+    {
+        "metro": "Sacramento",
+        "region": "CA",
+        "population": 495234,
+        "teams": [
+            "Sacramento Kings",
+            "Sacramento Gold Miners",
+            "Sacramento State Hornets",
+            "Sacramento State Hornets",
+            "Sacramento State Hornets",
+            "Sacramento State Hornets",
+            "Sacramento State Hornets"
+        ]
+    },
+    {
+        "metro": "Springfield",
+        "region": "MO",
+        "population": 167319,
+        "teams": [
+            "Missouri State Bears",
+            "Drury Panthers",
+            "Missouri State Bears",
+            "Missouri State Bears",
+            "Missouri State Bears",
+            "Drury Panthers",
+            "Missouri State Bears"
+        ]
+    },
+    {
+        "metro": "Terre Haute",
+        "region": "IN",
+        "population": 60852,
+        "teams": [
+            "Indiana State Sycamores",
+            "Indiana State Sycamores",
+            "Indiana State Sycamores",
+            "Indiana State Sycamores",
+            "Indiana State Sycamores",
+            "Indiana State Sycamores"
+        ]
+    },
+    {
+        "metro": "Cedar Falls",
+        "region": "IA",
+        "population": 41390,
+        "teams": [
+            "Waterloo Hawks",
+            "Northern Iowa Panthers",
+            "Northern Iowa Panthers",
+            "Northern Iowa Panthers",
+            "Wartburg Knights",
+            "Northern Iowa Panthers",
+            "Northern Iowa Panthers"
+        ]
+    },
+    {
+        "metro": "Logan",
+        "region": "UT",
+        "population": 50676,
+        "teams": [
+            "Utah State Aggies",
+            "Utah State Aggies",
+            "Utah State Aggies",
+            "Utah State Aggies",
+            "Utah State Aggies",
+            "Utah State Aggies"
+        ]
+    },
+    {
+        "metro": "Mobile",
+        "region": "AL",
+        "population": 192904,
+        "teams": [
+            "South Alabama Jaguars",
+            "South Alabama Jaguars",
+            "South Alabama Jaguars",
+            "South Alabama Jaguars",
+            "Spring Hill Badgers",
+            "South Alabama Jaguars",
+            "South Alabama Jaguars"
+        ]
+    },
+    {
+        "metro": "San Luis Obispo-Paso Robles-Arroyo Grande",
+        "region": "CA",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Shreveport-Bossier City",
+        "region": "LA",
+        "population": 68485,
+        "teams": [
+            "Centenary Gents",
+            "Centenary Gents",
+            "Centenary Gents",
+            "LSU\u2013Shreveport Pilots",
+            "Centenary Gents",
+            "Centenary Gents",
+            "Centenary Gents"
+        ]
+    },
+    {
+        "metro": "Lexington",
+        "region": "VA",
+        "population": 7045,
+        "teams": [
+            "Virginia Military Institute Keydets",
+            "Virginia Military Institute Keydets",
+            "Washington & Lee Generals",
+            "Virginia Military Institute Keydets",
+            "Virginia Military Institute Keydets",
+            "Washington & Lee Generals",
+            "Washington & Lee Generals"
+        ]
+    },
+    {
+        "metro": "Ames",
+        "region": "IA",
+        "population": 66191,
+        "teams": [
+            "Iowa State Cyclones",
+            "Iowa State Cyclones",
+            "Iowa State Cyclones",
+            "Iowa State Cyclones",
+            "Iowa State Cyclones",
+            "Iowa State Cyclones"
+        ]
+    },
+    {
+        "metro": "Des Moines",
+        "region": "IA",
+        "population": 215472,
+        "teams": [
+            "Drake Bulldogs",
+            "Drake Bulldogs",
+            "Drake Bulldogs",
+            "Drake Bulldogs",
+            "Drake Bulldogs",
+            "Drake Bulldogs"
+        ]
+    },
+    {
+        "metro": "Jonesboro",
+        "region": "AR",
+        "population": 74889,
+        "teams": [
+            "Arkansas State Red Wolves",
+            "Arkansas State Red Wolves",
+            "Arkansas State Red Wolves"
+        ]
+    },
+    {
+        "metro": "Lafayette",
+        "region": "LA",
+        "population": 127626,
+        "teams": [
+            "Louisiana Ragin' Cajuns",
+            "Louisiana Ragin' Cajuns",
+            "Louisiana Ragin' Cajuns",
+            "Louisiana Ragin' Cajuns",
+            "Louisiana Ragin' Cajuns",
+            "Louisiana Ragin' Cajuns"
+        ]
+    },
+    {
+        "metro": "Lake Charles",
+        "region": "LA",
+        "population": 76848,
+        "teams": [
+            "McNeese State Cowboys",
+            "McNeese State Cowboys",
+            "McNeese State Cowboys",
+            "McNeese State Cowboys",
+            "McNeese State Cowboys",
+            "McNeese State Cowboys"
+        ]
+    },
+    {
+        "metro": "Las Cruces",
+        "region": "NM",
+        "population": 101759,
+        "teams": [
+            "New Mexico State Aggies",
+            "New Mexico State Aggies",
+            "New Mexico State Aggies",
+            "New Mexico State Aggies",
+            "New Mexico State Aggies",
+            "New Mexico State Aggies"
+        ]
+    },
+    {
+        "metro": "Manhattan",
+        "region": "KS",
+        "population": 53678,
+        "teams": [
+            "Kansas State Wildcats",
+            "Kansas State Wildcats",
+            "Kansas State Wildcats",
+            "Kansas State Wildcats",
+            "Kansas State Wildcats",
+            "Kansas State Wildcats"
+        ]
+    },
+    {
+        "metro": "Morgantown",
+        "region": "WV",
+        "population": 30855,
+        "teams": [
+            "West Virginia Mountaineers",
+            "West Virginia Mountaineers",
+            "West Virginia Mountaineers",
+            "West Virginia Mountaineers",
+            "West Virginia Mountaineers",
+            "West Virginia Mountaineers"
+        ]
+    },
+    {
+        "metro": "Reno",
+        "region": "NV",
+        "population": 245255,
+        "teams": [
+            "Nevada Wolf Pack",
+            "Nevada Wolf Pack",
+            "Nevada Wolf Pack",
+            "Nevada Wolf Pack",
+            "Nevada Wolf Pack",
+            "Nevada Wolf Pack"
+        ]
+    },
+    {
+        "metro": "Hanover",
+        "region": "PA",
+        "population": 15561,
+        "teams": [
+            "Dartmouth Big Green",
+            "Dartmouth Big Green",
+            "Dartmouth Big Green",
+            "Dartmouth Big Green",
+            "Dartmouth Big Green",
+            "Dartmouth Big Green"
+        ]
+    },
+    {
+        "metro": "Athens",
+        "region": "OH",
+        "population": 25341,
+        "teams": [
+            "Ohio Bobcats",
+            "Ohio Bobcats",
+            "Ohio Bobcats",
+            "Ohio Bobcats",
+            "Ohio Bobcats",
+            "Ohio Bobcats"
+        ]
+    },
+    {
+        "metro": "Cullowhee",
+        "region": "NC",
+        "population": 9428,
+        "teams": [
+            "Western Carolina Catamounts",
+            "Western Carolina Catamounts",
+            "Western Carolina Catamounts",
+            "Western Carolina Catamounts",
+            "Western Carolina Catamounts",
+            "Western Carolina Catamounts"
+        ]
+    },
+    {
+        "metro": "Hamilton",
+        "region": "NY",
+        "population": 4122,
+        "teams": [
+            "Colgate Raiders",
+            "Colgate Raiders",
+            "Colgate Raiders",
+            "Colgate Raiders",
+            "Colgate Raiders",
+            "Colgate Raiders"
+        ]
+    },
+    {
+        "metro": "Orono",
+        "region": "ME",
+        "population": 9548,
+        "teams": [
+            "Maine Black Bears",
+            "Maine Black Bears",
+            "Maine Black Bears",
+            "Maine Black Bears",
+            "Maine Black Bears",
+            "Maine Black Bears"
+        ]
+    },
+    {
+        "metro": "Pullman",
+        "region": "WA",
+        "population": 33282,
+        "teams": [
+            "Washington State Cougars",
+            "Washington State Cougars",
+            "Washington State Cougars",
+            "Washington State Cougars",
+            "Washington State Cougars",
+            "Washington State Cougars"
+        ]
+    },
+    {
+        "metro": "South Orange",
+        "region": "NJ",
+        "population": 16319,
+        "teams": [
+            "Orange Tornadoes",
+            "Seton Hall Pirates",
+            "Seton Hall Pirates",
+            "Seton Hall Pirates",
+            "Seton Hall Pirates",
+            "Seton Hall Pirates"
+        ]
+    },
+    {
+        "metro": "Starkville",
+        "region": "MS",
+        "population": 25570,
+        "teams": [
+            "Mississippi State Bulldogs",
+            "Mississippi State Bulldogs",
+            "Mississippi State Bulldogs",
+            "Mississippi State Bulldogs",
+            "Mississippi State Bulldogs",
+            "Mississippi State Bulldogs"
+        ]
+    },
+    {
+        "metro": "Albuquerque",
+        "region": "NM",
+        "population": 559277,
+        "teams": [
+            "New Mexico Lobos",
+            "New Mexico Lobos",
+            "New Mexico Lobos",
+            "New Mexico Lobos",
+            "New Mexico Lobos",
+            "New Mexico Lobos"
+        ]
+    },
+    {
+        "metro": "Beaumont-Port Arthur",
+        "region": "TX",
+        "population": 388745,
+        "teams": [
+            "Lamar Cardinals",
+            "Lamar Cardinals",
+            "Lamar Cardinals",
+            "Lamar Cardinals",
+            "Lamar Cardinals",
+            "Lamar Cardinals"
+        ]
+    },
+    {
+        "metro": "Burlington",
+        "region": "VT",
+        "population": 42260,
+        "teams": [
+            "Vermont Catamounts",
+            "Vermont Catamounts",
+            "Vermont Catamounts",
+            "Vermont Catamounts",
+            "Vermont Catamounts",
+            "Vermont Catamounts"
+        ]
+    },
+    {
+        "metro": "Chattanooga",
+        "region": "TN",
+        "population": 177571,
+        "teams": [
+            "Chattanooga Mocs",
+            "Chattanooga Mocs",
+            "Chattanooga Mocs",
+            "Chattanooga Mocs",
+            "Chattanooga Mocs",
+            "Chattanooga Mocs"
+        ]
+    },
+    {
+        "metro": "Evansville",
+        "region": "IN",
+        "population": 119477,
+        "teams": [
+            "Evansville Crimson Giants",
+            "Evansville Purple Aces",
+            "Evansville Purple Aces",
+            "Evansville Purple Aces",
+            "Evansville Purple Aces",
+            "Evansville Purple Aces"
+        ]
+    },
+    {
+        "metro": "Flagstaff",
+        "region": "AZ",
+        "population": 71459,
+        "teams": [
+            "Northern Arizona Lumberjacks",
+            "Northern Arizona Lumberjacks",
+            "Northern Arizona Lumberjacks",
+            "Northern Arizona Lumberjacks",
+            "Northern Arizona Lumberjacks",
+            "Northern Arizona Lumberjacks"
+        ]
+    },
+    {
+        "metro": "Fort Collins",
+        "region": "CO",
+        "population": 164207,
+        "teams": [
+            "Colorado State Rams",
+            "Colorado State Rams",
+            "Colorado State Rams",
+            "Colorado State Rams",
+            "Colorado State Rams",
+            "Colorado State Rams"
+        ]
+    },
+    {
+        "metro": "Greeley",
+        "region": "CO",
+        "population": 103990,
+        "teams": [
+            "Northern Colorado Bears",
+            "Northern Colorado Bears",
+            "Northern Colorado Bears",
+            "Northern Colorado Bears",
+            "Northern Colorado Bears",
+            "Northern Colorado Bears"
+        ]
+    },
+    {
+        "metro": "Greenville",
+        "region": "NC",
+        "population": 91495,
+        "teams": [
+            "East Carolina Pirates",
+            "East Carolina Pirates",
+            "East Carolina Pirates",
+            "East Carolina Pirates",
+            "East Carolina Pirates",
+            "East Carolina Pirates"
+        ]
+    },
+    {
+        "metro": "Hattiesburg",
+        "region": "MS",
+        "population": 46926,
+        "teams": [
+            "Southern Mississippi Golden Eagles",
+            "Southern Mississippi Golden Eagles",
+            "Southern Mississippi Golden Eagles",
+            "Southern Mississippi Golden Eagles",
+            "Southern Mississippi Golden Eagles",
+            "Southern Mississippi Golden Eagles"
+        ]
+    },
+    {
+        "metro": "Johnson City",
+        "region": "TN",
+        "population": 66677,
+        "teams": [
+            "East Tennessee State Buccaneers",
+            "East Tennessee State Buccaneers",
+            "East Tennessee State Buccaneers",
+            "East Tennessee State Buccaneers",
+            "East Tennessee State Buccaneers",
+            "East Tennessee State Buccaneers"
+        ]
+    },
+    {
+        "metro": "Lynchburg",
+        "region": "VA",
+        "population": 80212,
+        "teams": [
+            "Liberty Flames",
+            "Liberty Flames",
+            "Liberty Flames",
+            "Liberty Flames",
+            "Liberty Flames",
+            "Liberty Flames"
+        ]
+    },
+    {
+        "metro": "Macon-Bibb County",
+        "region": "GA",
+        "population": 93072,
+        "teams": [
+            "Mercer Bears",
+            "Mercer Bears",
+            "Mercer Bears",
+            "Mercer Bears",
+            "Mercer Bears",
+            "Mercer Bears"
+        ]
+    },
+    {
+        "metro": "Muncie",
+        "region": "IN",
+        "population": 69010,
+        "teams": [
+            "Ball State Cardinals",
+            "Ball State Cardinals",
+            "Ball State Cardinals",
+            "Ball State Cardinals",
+            "Ball State Cardinals",
+            "Ball State Cardinals"
+        ]
+    },
+    {
+        "metro": "Inland Empire",
+        "region": "CA",
+        "population": 4200000,
+        "teams": [
+            "California-Riverside Highlanders",
+            "California-Riverside Highlanders",
+            "California-Riverside Highlanders",
+            "California-Riverside Highlanders",
+            "March Field Flyers",
+            "California-Riverside Highlanders"
+        ]
+    },
+    {
+        "metro": "Santa Maria-Santa Barbara",
+        "region": "CA",
+        "population": 106290,
+        "teams": [
+            "California-Santa Barbara Gauchos",
+            "California-Santa Barbara Gauchos",
+            "California-Santa Barbara Gauchos",
+            "California-Santa Barbara Gauchos",
+            "California-Santa Barbara Gauchos",
+            "California-Santa Barbara Gauchos"
+        ]
+    },
+    {
+        "metro": "Savannah",
+        "region": "GA",
+        "population": 146763,
+        "teams": [
+            "Savannah State Tigers",
+            "Armstrong State Pirates",
+            "Savannah State Tigers",
+            "Savannah State Tigers",
+            "Armstrong Pirates",
+            "Savannah State Tigers"
+        ]
+    },
+    {
+        "metro": "Wilmington",
+        "region": "NC",
+        "population": 117525,
+        "teams": [
+            "North Carolina-Wilmington Seahawks",
+            "North Carolina-Wilmington Seahawks",
+            "North Carolina-Wilmington Seahawks",
+            "Wilmington Fightin' Quakers",
+            "North Carolina-Wilmington Seahawks",
+            "North Carolina-Wilmington Seahawks"
+        ]
+    },
+    {
+        "metro": "Lorman",
+        "region": "MS",
+        "population": 1812,
+        "teams": [
+            "Alcorn State Braves",
+            "Alcorn State Braves",
+            "Alcorn State Braves",
+            "Alcorn State Braves",
+            "Alcorn State Braves",
+            "Alcorn State Braves"
+        ]
+    },
+    {
+        "metro": "Lewisburg",
+        "region": "PA",
+        "population": 5699,
+        "teams": [
+            "Bucknell Bison",
+            "Bucknell Bison",
+            "Bucknell Bison",
+            "Bucknell Bison",
+            "Bucknell Bison",
+            "Bucknell Bison"
+        ]
+    },
+    {
+        "metro": "Mount Pleasant",
+        "region": "MI",
+        "population": 26313,
+        "teams": [
+            "Central Michigan Chippewas",
+            "Central Michigan Chippewas",
+            "Central Michigan Chippewas",
+            "Central Michigan Chippewas",
+            "Central Michigan Chippewas",
+            "Central Michigan Chippewas"
+        ]
+    },
+    {
+        "metro": "Williamsburg",
+        "region": "VA",
+        "population": 15214,
+        "teams": [
+            "William & Mary Tribe",
+            "William & Mary Tribe",
+            "William & Mary Tribe",
+            "William & Mary Tribe",
+            "William & Mary Tribe",
+            "William & Mary Tribe"
+        ]
+    },
+    {
+        "metro": "Oxford",
+        "region": "OH",
+        "population": 22341,
+        "teams": [
+            "Miami RedHawks",
+            "Miami RedHawks",
+            "Miami RedHawks",
+            "Miami RedHawks",
+            "Miami RedHawks",
+            "Miami RedHawks"
+        ]
+    },
+    {
+        "metro": "Murfreesboro",
+        "region": "TN",
+        "population": 131947,
+        "teams": [
+            "Middle Tennessee Blue Raiders",
+            "Middle Tennessee Blue Raiders",
+            "Middle Tennessee Blue Raiders",
+            "Middle Tennessee Blue Raiders",
+            "Middle Tennessee Blue Raiders",
+            "Middle Tennessee Blue Raiders"
+        ]
+    },
+    {
+        "metro": "Itta Bena",
+        "region": "MS",
+        "population": 1931,
+        "teams": [
+            "Mississippi Valley State Delta Devils",
+            "Mississippi Valley State Delta Devils",
+            "Mississippi Valley State Delta Devils",
+            "Mississippi Valley State Delta Devils",
+            "Mississippi Valley State Delta Devils",
+            "Mississippi Valley State Delta Devils"
+        ]
+    },
+    {
+        "metro": "Natchitoches",
+        "region": "LA",
+        "population": 18319,
+        "teams": [
+            "Northwestern State Demons",
+            "Northwestern State Demons",
+            "Northwestern State Demons",
+            "Northwestern State Demons",
+            "Northwestern State Demons",
+            "Northwestern State Demons"
+        ]
+    },
+    {
+        "metro": "San Marcos",
+        "region": "TX",
+        "population": 61980,
+        "teams": [
+            "Texas State Bobcats",
+            "Texas State Bobcats",
+            "Texas State Bobcats",
+            "Texas State Bobcats",
+            "Texas State Bobcats",
+            "Texas State Bobcats"
+        ]
+    },
+    {
+        "metro": "Troy",
+        "region": "AL",
+        "population": 19191,
+        "teams": [
+            "Troy Trojans",
+            "Troy Trojans",
+            "Troy Trojans",
+            "Troy Trojans",
+            "Troy Trojans",
+            "Troy Trojans"
+        ]
+    },
+    {
+        "metro": "Annapolis",
+        "region": "MD",
+        "population": 39418,
+        "teams": [
+            "Navy Midshipmen",
+            "Navy Midshipmen",
+            "Navy Midshipmen",
+            "Navy Midshipmen",
+            "Navy Midshipmen",
+            "Navy Midshipmen"
+        ]
+    },
+    {
+        "metro": "Moscow",
+        "region": "ID",
+        "population": 25322,
+        "teams": [
+            "Idaho Vandals",
+            "Idaho Vandals",
+            "Idaho Vandals",
+            "Idaho Vandals",
+            "Idaho Vandals",
+            "Idaho Vandals"
+        ]
+    },
+    {
+        "metro": "Durham",
+        "region": "NH",
+        "population": 16431,
+        "teams": [
+            "New Hampshire Wildcats",
+            "New Hampshire Wildcats",
+            "New Hampshire Wildcats",
+            "New Hampshire Wildcats",
+            "New Hampshire Wildcats",
+            "New Hampshire Wildcats"
+        ]
+    },
+    {
+        "metro": "Fort Wayne",
+        "region": "IN",
+        "population": 264488,
+        "teams": [
+            "Fort Wayne Pistons",
+            "Fort Wayne Mastodons",
+            "Fort Wayne Mastodons",
+            "Fort Wayne Mastodons",
+            "Fort Wayne Mastodons"
+        ]
+    },
+    {
+        "metro": "Edinburg",
+        "region": "TX",
+        "population": 87650,
+        "teams": [
+            "UTRGV Vaqueros",
+            "UTRGV Vaqueros",
+            "UTRGV Vaqueros",
+            "UTRGV Vaqueros",
+            "UTRGV Vaqueros"
+        ]
+    },
+    {
+        "metro": "Peoria",
+        "region": "IL",
+        "population": 114265,
+        "teams": [
+            "Bradley Braves",
+            "Bradley Braves",
+            "Bradley Braves",
+            "Bradley Braves",
+            "Bradley Braves"
+        ]
+    },
+    {
+        "metro": "Allegany",
+        "region": "NY",
+        "population": 7662,
+        "teams": [
+            "St. Bonaventure Bonnies",
+            "St. Bonaventure Bonnies",
+            "St. Bonaventure Bonnies",
+            "St. Bonaventure Bonnies",
+            "St. Bonaventure Bonnies"
+        ]
+    },
+    {
+        "metro": "Huntsville",
+        "region": "TX",
+        "population": 41208,
+        "teams": [
+            "Sam Houston State Bearkats",
+            "Sam Houston State Bearkats",
+            "Sam Houston State Bearkats",
+            "Sam Houston State Bearkats",
+            "Sam Houston State Bearkats"
+        ]
+    },
+    {
+        "metro": "Nacogdoches",
+        "region": "TX",
+        "population": 33932,
+        "teams": [
+            "Stephen F. Austin Lumberjacks",
+            "Stephen F. Austin Lumberjacks",
+            "Stephen F. Austin Lumberjacks",
+            "Stephen F. Austin Lumberjacks",
+            "Stephen F. Austin Lumberjacks"
+        ]
+    },
+    {
+        "metro": "Amarillo",
+        "region": "TX",
+        "population": 199582,
+        "teams": [
+            "West Texas A&M Buffaloes",
+            "West Texas A&M Buffaloes",
+            "Amarillo Field Sky Giants",
+            "West Texas A&M Buffaloes",
+            "West Texas A&M Buffaloes"
+        ]
+    },
+    {
+        "metro": "Calhoun County",
+        "region": "AL",
+        "population": 115620,
+        "teams": [
+            "Jacksonville State Gamecocks",
+            "Jacksonville State Gamecocks",
+            "Jacksonville State Gamecocks",
+            "Jacksonville State Gamecocks",
+            "Jacksonville State Gamecocks"
+        ]
+    },
+    {
+        "metro": "Asheville",
+        "region": "NC",
+        "population": 89121,
+        "teams": [
+            "North Carolina-Asheville Bulldogs",
+            "North Carolina-Asheville Bulldogs",
+            "North Carolina-Asheville Bulldogs",
+            "North Carolina-Asheville Bulldogs",
+            "North Carolina-Asheville Bulldogs"
+        ]
+    },
+    {
+        "metro": "Bakersfield",
+        "region": "CA",
+        "population": 376380,
+        "teams": [
+            "Cal State Bakersfield Roadrunners",
+            "Cal State Bakersfield Roadrunners",
+            "Cal State Bakersfield Roadrunners",
+            "Cal State Bakersfield Roadrunners",
+            "Cal State Bakersfield Roadrunners"
+        ]
+    },
+    {
+        "metro": "Binghamton",
+        "region": "NY",
+        "population": 45672,
+        "teams": [
+            "Binghamton Bearcats",
+            "Binghamton Bearcats",
+            "Binghamton Bearcats",
+            "Binghamton Bearcats",
+            "Binghamton Bearcats"
+        ]
+    },
+    {
+        "metro": "Burlington",
+        "region": "NC",
+        "population": 52709,
+        "teams": [
+            "Elon Phoenix",
+            "Elon Phoenix",
+            "Elon Phoenix",
+            "Elon Phoenix",
+            "Elon Phoenix"
+        ]
+    },
+    {
+        "metro": "Cape Coral-Fort Myers",
+        "region": "FL",
+        "population": 77146,
+        "teams": [
+            "Florida Gulf Coast Eagles",
+            "Florida Gulf Coast Eagles",
+            "Florida Gulf Coast Eagles",
+            "Florida Gulf Coast Eagles",
+            "Florida Gulf Coast Eagles"
+        ]
+    },
+    {
+        "metro": "Cape Girardeau",
+        "region": "MO-IL",
+        "population": 97422,
+        "teams": [
+            "Southeast Missouri State Redhawks",
+            "Southeast Missouri State Redhawks",
+            "Southeast Missouri State Redhawks",
+            "Southeast Missouri State Redhawks",
+            "Southeast Missouri State Redhawks"
+        ]
+    },
+    {
+        "metro": "Clarksville",
+        "region": "TN-KY",
+        "population": 153205,
+        "teams": [
+            "Austin Peay Governors",
+            "Austin Peay Governors",
+            "Austin Peay Governors",
+            "Austin Peay Governors",
+            "Austin Peay Governors"
+        ]
+    },
+    {
+        "metro": "Corpus Christi",
+        "region": "TX",
+        "population": 325733,
+        "teams": [
+            "Texas A&M-Corpus Christi Islanders",
+            "Texas A&M-Corpus Christi Islanders",
+            "Texas A&M-Corpus Christi Islanders",
+            "Texas A&M-Corpus Christi Islanders",
+            "Texas A&M-Corpus Christi Islanders"
+        ]
+    },
+    {
+        "metro": "Dover",
+        "region": "DE",
+        "population": 37786,
+        "teams": [
+            "Delaware State Hornets",
+            "Delaware State Hornets",
+            "Delaware State Hornets",
+            "Delaware State Hornets",
+            "Delaware State Hornets"
+        ]
+    },
+    {
+        "metro": "Grand Forks",
+        "region": "ND",
+        "population": 57339,
+        "teams": [
+            "North Dakota Fighting Hawks",
+            "North Dakota Fighting Hawks",
+            "North Dakota Fighting Hawks",
+            "North Dakota Fighting Hawks",
+            "North Dakota Fighting Hawks"
+        ]
+    },
+    {
+        "metro": "Piedmont Triad",
+        "region": "NC",
+        "population": 1640717,
+        "teams": [
+            "High Point Panthers",
+            "High Point Panthers",
+            "High Point Panthers",
+            "High Point Panthers",
+            "High Point Panthers"
+        ]
+    },
+    {
+        "metro": "Hammond",
+        "region": "LA",
+        "population": 20609,
+        "teams": [
+            "Southeastern Louisiana Lions",
+            "Southeastern Louisiana Lions",
+            "Southeastern Louisiana Lions",
+            "Southeastern Louisiana Lions",
+            "Southeastern Louisiana Lions"
+        ]
+    },
+    {
+        "metro": "Houma-Thibodaux",
+        "region": "LA",
+        "population": 208178,
+        "teams": [
+            "Nicholls State Colonels",
+            "Nicholls State Colonels",
+            "Nicholls State Colonels",
+            "Nicholls State Colonels",
+            "Nicholls State Colonels"
+        ]
+    },
+    {
+        "metro": "Huntsville",
+        "region": "AL",
+        "population": 193079,
+        "teams": [
+            "Alabama A&M Bulldogs",
+            "Alabama A&M Bulldogs",
+            "Alabama A&M Bulldogs",
+            "Alabama A&M Bulldogs",
+            "Alabama A&M Bulldogs"
+        ]
+    },
+    {
+        "metro": "Johnstown",
+        "region": "PA",
+        "population": 19712,
+        "teams": [
+            "Saint Francis Red Flash",
+            "Saint Francis Red Flash",
+            "Saint Francis Red Flash",
+            "Saint Francis Red Flash",
+            "Saint Francis Red Flash"
+        ]
+    },
+    {
+        "metro": "Montgomery",
+        "region": "AL",
+        "population": 200022,
+        "teams": [
+            "Alabama State Hornets",
+            "Alabama State Hornets",
+            "Alabama State Hornets",
+            "Alabama State Hornets",
+            "Alabama State Hornets"
+        ]
+    },
+    {
+        "metro": "Ogden-Clearfield",
+        "region": "UT",
+        "population": 547184,
+        "teams": [
+            "Weber State Wildcats",
+            "Weber State Wildcats",
+            "Weber State Wildcats",
+            "Weber State Wildcats",
+            "Weber State Wildcats"
+        ]
+    },
+    {
+        "metro": "Pine Bluff",
+        "region": "AR",
+        "population": 43841,
+        "teams": [
+            "Arkansas-Pine Bluff Golden Lions",
+            "Arkansas-Pine Bluff Golden Lions",
+            "Arkansas-Pine Bluff Golden Lions",
+            "Arkansas-Pine Bluff Golden Lions",
+            "Arkansas-Pine Bluff Golden Lions"
+        ]
+    },
+    {
+        "metro": "Trenton",
+        "region": "NJ",
+        "population": 84056,
+        "teams": [
+            "Rider Broncs",
+            "Rider Broncs",
+            "Rider Broncs",
+            "Rider Broncs",
+            "Rider Broncs"
+        ]
+    },
+    {
+        "metro": "Charleston\u2013Mattoon",
+        "region": "IL",
+        "population": 61980,
+        "teams": [
+            "Eastern Illinois Panthers",
+            "Eastern Illinois Panthers",
+            "Eastern Illinois Panthers",
+            "Eastern Illinois Panthers",
+            "Eastern Illinois Panthers"
+        ]
+    },
+    {
+        "metro": "Cedar City",
+        "region": "UT",
+        "population": 31223,
+        "teams": [
+            "Southern Utah Thunderbirds",
+            "Southern Utah Thunderbirds",
+            "Southern Utah Thunderbirds",
+            "Southern Utah Thunderbirds",
+            "Southern Utah Thunderbirds"
+        ]
+    },
+    {
+        "metro": "Valparaiso",
+        "region": "IN",
+        "population": 33104,
+        "teams": [
+            "Valparaiso Crusaders",
+            "Valparaiso Crusaders",
+            "Valparaiso Crusaders",
+            "Valparaiso Crusaders",
+            "Valparaiso Crusaders"
+        ]
+    },
+    {
+        "metro": "Buies Creek",
+        "region": "NC",
+        "population": 2942,
+        "teams": [
+            "Campbell Fighting Camels",
+            "Campbell Fighting Camels",
+            "Campbell Fighting Camels",
+            "Campbell Fighting Camels",
+            "Campbell Fighting Camels"
+        ]
+    },
+    {
+        "metro": "Poughkeepsie",
+        "region": "NY",
+        "population": 30267,
+        "teams": [
+            "Marist Red Foxes",
+            "Marist Red Foxes",
+            "Marist Red Foxes",
+            "Marist Red Foxes",
+            "Marist Red Foxes"
+        ]
+    },
+    {
+        "metro": "Morehead",
+        "region": "KY",
+        "population": 7758,
+        "teams": [
+            "Morehead State Eagles",
+            "Morehead State Eagles",
+            "Morehead State Eagles",
+            "Morehead State Eagles",
+            "Morehead State Eagles"
+        ]
+    },
+    {
+        "metro": "Murray",
+        "region": "KY",
+        "population": 19006,
+        "teams": [
+            "Murray State Racers",
+            "Murray State Racers",
+            "Murray State Racers",
+            "Murray State Racers",
+            "Murray State Racers"
+        ]
+    },
+    {
+        "metro": "Orangeburg",
+        "region": "SC",
+        "population": 13196,
+        "teams": [
+            "South Carolina State Bulldogs",
+            "South Carolina State Bulldogs",
+            "South Carolina State Bulldogs",
+            "South Carolina State Bulldogs",
+            "South Carolina State Bulldogs"
+        ]
+    },
+    {
+        "metro": "Brookings",
+        "region": "SD",
+        "population": 23895,
+        "teams": [
+            "South Dakota State Jackrabbits",
+            "South Dakota State Jackrabbits",
+            "South Dakota State Jackrabbits",
+            "South Dakota State Jackrabbits",
+            "South Dakota State Jackrabbits"
+        ]
+    },
+    {
+        "metro": "Stony Brook",
+        "region": "NY",
+        "population": 13740,
+        "teams": [
+            "Stony Brook Seawolves",
+            "Stony Brook Seawolves",
+            "Stony Brook Seawolves",
+            "Stony Brook Seawolves",
+            "Stony Brook Seawolves"
+        ]
+    },
+    {
+        "metro": "Cookeville",
+        "region": "TN",
+        "population": 32622,
+        "teams": [
+            "Tennessee Tech Golden Eagles",
+            "Tennessee Tech Golden Eagles",
+            "Tennessee Tech Golden Eagles",
+            "Tennessee Tech Golden Eagles",
+            "Tennessee Tech Golden Eagles"
+        ]
+    },
+    {
+        "metro": "Davis",
+        "region": "CA",
+        "population": 68111,
+        "teams": [
+            "California-Davis Aggies",
+            "California-Davis Aggies",
+            "California-Davis Aggies",
+            "California-Davis Aggies",
+            "California-Davis Aggies"
+        ]
+    },
+    {
+        "metro": "Martin",
+        "region": "TN",
+        "population": 10768,
+        "teams": [
+            "Tennessee-Martin Skyhawks",
+            "Tennessee-Martin Skyhawks",
+            "Tennessee-Martin Skyhawks",
+            "Tennessee-Martin Skyhawks",
+            "Tennessee-Martin Skyhawks"
+        ]
+    },
+    {
+        "metro": "Macomb",
+        "region": "IL",
+        "population": 18352,
+        "teams": [
+            "Western Illinois Leathernecks",
+            "Western Illinois Leathernecks",
+            "Western Illinois Leathernecks",
+            "Western Illinois Leathernecks",
+            "Western Illinois Leathernecks"
+        ]
+    },
+    {
+        "metro": "Harrisburg-Carlisle",
+        "region": "PA",
+        "population": 647390,
+        "teams": [
+            "Carlisle Indians",
+            "Dickinson Red Devils",
+            "Dickinson Red Devils"
+        ]
+    },
+    {
+        "metro": "Portland-South Portland",
+        "region": "ME",
+        "population": 66937,
+        "teams": [
+            "Bates Bobcats",
+            "Bowdoin Polar Bears",
+            "Bates Bobcats",
+            "Bowdoin Polar Bears"
+        ]
+    },
+    {
+        "metro": "Salisbury",
+        "region": "MD",
+        "population": 110291,
+        "teams": [
+            "Maryland-Eastern Shore Hawks",
+            "Maryland-Eastern Shore Hawks",
+            "Maryland-Eastern Shore Hawks",
+            "Maryland-Eastern Shore Hawks"
+        ]
+    },
+    {
+        "metro": "Farmville",
+        "region": "VA",
+        "population": 8140,
+        "teams": [
+            "Longwood Lancers",
+            "Longwood Lancers",
+            "Longwood Lancers",
+            "Longwood Lancers"
+        ]
+    },
+    {
+        "metro": "Long Branch",
+        "region": "NJ",
+        "population": 30763,
+        "teams": [
+            "Monmouth Hawks",
+            "Monmouth Hawks",
+            "Monmouth Hawks",
+            "Monmouth Hawks"
+        ]
+    },
+    {
+        "metro": "Emmitsburg",
+        "region": "MD",
+        "population": 3038,
+        "teams": [
+            "Mount St. Mary's Mountaineers",
+            "Mount St. Mary's Mountaineers",
+            "Mount St. Mary's Mountaineers",
+            "Mount St. Mary's Mountaineers"
+        ]
+    },
+    {
+        "metro": "Vermillion",
+        "region": "SD",
+        "population": 10844,
+        "teams": [
+            "South Dakota Coyotes",
+            "South Dakota Coyotes",
+            "South Dakota Coyotes",
+            "South Dakota Coyotes"
+        ]
+    },
+    {
+        "metro": "Williamstown",
+        "region": "MA",
+        "population": 7758,
+        "teams": [
+            "Williams Ephs",
+            "Williams Ephs",
+            "Williams Ephs"
+        ]
+    },
+    {
+        "metro": "Augusta Metro Area",
+        "region": "GA-SC",
+        "population": 583632,
+        "teams": [
+            "Augusta State Jaguars",
+            "Augusta State Jaguars",
+            "Augusta State Jaguars"
+        ]
+    },
+    {
+        "metro": "Cedar Rapids",
+        "region": "IA",
+        "population": 131127,
+        "teams": [
+            "Cornell College Rams",
+            "Coe Kohawks",
+            "Cornell College Rams"
+        ]
+    },
+    {
+        "metro": "Quad Cities",
+        "region": "IL",
+        "population": 474937,
+        "teams": [
+            "Tri-Cities Blackhawks",
+            "Rock Island Independents"
+        ]
+    },
+    {
+        "metro": "Utica-Rome",
+        "region": "NY",
+        "population": 299397,
+        "teams": [
+            "Utica Pioneers",
+            "Utica Pioneers",
+            "Utica Pioneers"
+        ]
+    },
+    {
+        "metro": "Twin Ports",
+        "region": "MN",
+        "population": 279771,
+        "teams": [
+            "Duluth Eskimos",
+            "Duluth Kellys"
+        ]
+    },
+    {
+        "metro": "Georgetown,TX",
+        "region": "",
+        "population": 67140,
+        "teams": [
+            "Southwestern Pirates",
+            "Southwestern Pirates"
+        ]
+    },
+    {
+        "metro": "West Chester",
+        "region": "PA",
+        "population": 19928,
+        "teams": [
+            "West Chester Golden Rams",
+            "West Chester Golden Rams",
+            "West Chester Golden Rams"
+        ]
+    },
+    {
+        "metro": "Quebec City",
+        "region": "QC",
+        "population": 538238,
+        "teams": [
+            "Quebec Nordiques",
+            "Quebec Athletic Club/Bulldogs"
+        ]
+    },
+    {
+        "metro": "Appleton",
+        "region": "WI",
+        "population": 74370,
+        "teams": [
+            "Lawrence Vikings",
+            "Lawrence Vikings"
+        ]
+    },
+    {
+        "metro": "Charleston",
+        "region": "WV",
+        "population": 49138,
+        "teams": [
+            "Charleston Golden Eagles",
+            "West Virginia State Yellow Jackets"
+        ]
+    },
+    {
+        "metro": "Enid",
+        "region": "OK",
+        "population": 51004,
+        "teams": [
+            "Phillips Haymakers"
+        ]
+    },
+    {
+        "metro": "Erie",
+        "region": "PA",
+        "population": 98593,
+        "teams": [
+            "Allegheny Gators"
+        ]
+    },
+    {
+        "metro": "Gettysburg",
+        "region": "PA",
+        "population": 7700,
+        "teams": [
+            "Gettysburg Bullets",
+            "Gettysburg Bullets"
+        ]
+    },
+    {
+        "metro": "Jackson",
+        "region": "MS",
+        "population": 169148,
+        "teams": [
+            "Mississippi College Choctaws",
+            "Mississippi College Choctaws"
+        ]
+    },
+    {
+        "metro": "Janesville-Beloit",
+        "region": "WI",
+        "population": 100541,
+        "teams": [
+            "Beloit Buccaneers"
+        ]
+    },
+    {
+        "metro": "Lancaster",
+        "region": "PA",
+        "population": 59218,
+        "teams": [
+            "Millersville Marauders",
+            "Franklin & Marshall Diplomats"
+        ]
+    },
+    {
+        "metro": "Norwich-New London",
+        "region": "CT",
+        "population": 39556,
+        "teams": [
+            "Coast Guard Bears",
+            "Coast Guard Bears"
+        ]
+    },
+    {
+        "metro": "Racine",
+        "region": "WI",
+        "population": 77571,
+        "teams": [
+            "Racine Tornadoes",
+            "Racine Legion"
+        ]
+    },
+    {
+        "metro": "Springfield",
+        "region": "OH",
+        "population": 59087,
+        "teams": [
+            "Wittenberg Tigers"
+        ]
+    },
+    {
+        "metro": "Topeka",
+        "region": "KS",
+        "population": 126808,
+        "teams": [
+            "Washburn Ichabods",
+            "Washburn Ichabods"
+        ]
+    },
+    {
+        "metro": "Williamsport",
+        "region": "PA",
+        "population": 28834,
+        "teams": [
+            "Lycoming Warriors",
+            "Lock Haven Bald Eagles"
+        ]
+    },
+    {
+        "metro": "Laramie",
+        "region": "WY",
+        "population": 32382,
+        "teams": [
+            "Fort Warren Broncos"
+        ]
+    },
+    {
+        "metro": "Danville",
+        "region": "KY",
+        "population": 16802,
+        "teams": [
+            "Centre Colonels"
+        ]
+    },
+    {
+        "metro": "Waterville",
+        "region": "ME",
+        "population": 16406,
+        "teams": [
+            "Colby Mules",
+            "Colby Mules"
+        ]
+    },
+    {
+        "metro": "Lebanon",
+        "region": "TN",
+        "population": 31317,
+        "teams": [
+            "Cumberland Bulldogs"
+        ]
+    },
+    {
+        "metro": "Grinnell",
+        "region": "IA",
+        "population": 9151,
+        "teams": [
+            "Grinnell Pioneers"
+        ]
+    },
+    {
+        "metro": "Galesburg",
+        "region": "IL",
+        "population": 30960,
+        "teams": [
+            "Knox Prairie Fire",
+            "Lombard"
+        ]
+    },
+    {
+        "metro": "Sewanee",
+        "region": "TN",
+        "population": 2311,
+        "teams": [
+            "Sewanee Tigers",
+            "Sewanee Tigers"
+        ]
+    },
+    {
+        "metro": "Swarthmore",
+        "region": "PA",
+        "population": 6239,
+        "teams": [
+            "Swarthmore Garnet Tide"
+        ]
+    },
+    {
+        "metro": "Crawfordsville",
+        "region": "IN",
+        "population": 16001,
+        "teams": [
+            "Wabash Little Giants"
+        ]
+    },
+    {
+        "metro": "Chestertown",
+        "region": "MD",
+        "population": 5080,
+        "teams": [
+            "Washington College Shoremen"
+        ]
+    },
+    {
+        "metro": "Gunnison",
+        "region": "CO",
+        "population": 6261,
+        "teams": [
+            "Western State Mountaineers"
+        ]
+    },
+    {
+        "metro": "Newburgh",
+        "region": "NY",
+        "population": 28200,
+        "teams": [
+            "Mount Saint Mary Blueknights",
+            "Mount Saint Mary Blueknights"
+        ]
+    },
+    {
+        "metro": "Old Westbury",
+        "region": "NY",
+        "population": 4743,
+        "teams": [
+            "LIU Post Pioneers",
+            "NYIT Bears"
+        ]
+    },
+    {
+        "metro": "Portsmouth",
+        "region": "OH",
+        "population": 20422,
+        "teams": [
+            "Portsmouth Spartans"
+        ]
+    },
+    {
+        "metro": "Pottsville",
+        "region": "PA",
+        "population": 13738,
+        "teams": [
+            "Pottsville Maroons"
+        ]
+    },
+    {
+        "metro": "Albany",
+        "region": "GA",
+        "population": 3038,
+        "teams": [
+            "Albany State Golden Rams"
+        ]
+    },
+    {
+        "metro": "Battle Creek",
+        "region": "MI",
+        "population": 51534,
+        "teams": [
+            "Albion Britons"
+        ]
+    },
+    {
+        "metro": "Bloomsburg-Berwick",
+        "region": "PA",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Chico",
+        "region": "CA",
+        "population": 91567,
+        "teams": [
+            "Chico State Wildcats"
+        ]
+    },
+    {
+        "metro": "Decatur",
+        "region": "IL",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Dubuque",
+        "region": "IA",
+        "population": 58531,
+        "teams": [
+            "Clarke Crusaders"
+        ]
+    },
+    {
+        "metro": "Florence",
+        "region": "SC",
+        "population": 38317,
+        "teams": [
+            "Francis Marion Patriots"
+        ]
+    },
+    {
+        "metro": "Grand Rapids Metro Area",
+        "region": "WI",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Lakeland-Winter Haven",
+        "region": "FL",
+        "population": 666149,
+        "teams": [
+            "Florida Southern Moccasins"
+        ]
+    },
+    {
+        "metro": "Owensboro",
+        "region": "KY",
+        "population": 59273,
+        "teams": [
+            "Kentucky Wesleyan Panthers"
+        ]
+    },
+    {
+        "metro": "Pueblo",
+        "region": "CO",
+        "population": 110291,
+        "teams": [
+            "CSU\u2013Pueblo ThunderWolves"
+        ]
+    },
+    {
+        "metro": "Rockford",
+        "region": "IL",
+        "population": 147651,
+        "teams": [
+            "Camp Grant Warriors"
+        ]
+    },
+    {
+        "metro": "Wyoming Valley",
+        "region": "PA",
+        "population": 563631,
+        "teams": [
+            "Scranton Royals"
+        ]
+    },
+    {
+        "metro": "Vallejo-Fairfield",
+        "region": "CA",
+        "population": 440207,
+        "teams": [
+            "Mare Island Marines"
+        ]
+    },
+    {
+        "metro": "Walla Walla",
+        "region": "WA",
+        "population": 32132,
+        "teams": [
+            "Whitman Missionaries"
+        ]
+    },
+    {
+        "metro": "Winfield",
+        "region": "KS",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Marion",
+        "region": "OH",
+        "population": 36310,
+        "teams": [
+            "Oorang Indians"
+        ]
+    },
+    {
+        "metro": "Danville",
+        "region": "IN",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Wooster",
+        "region": "OH",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Mitchell",
+        "region": "SD",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Granville",
+        "region": "OH",
+        "population": 5646,
+        "teams": [
+            "Denison Big Red"
+        ]
+    },
+    {
+        "metro": "Greencastle",
+        "region": "IN",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Ada",
+        "region": "OK",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Emporia",
+        "region": "KS",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Due West",
+        "region": "SC",
+        "population": 1292,
+        "teams": [
+            "Erskine The Flying Fleet"
+        ]
+    },
+    {
+        "metro": "Columbus",
+        "region": "GA",
+        "population": 197485,
+        "teams": [
+            "Fort Benning Doughboys"
+        ]
+    },
+    {
+        "metro": "Hampden-Sydney",
+        "region": "VA",
+        "population": 1450,
+        "teams": [
+            "Hampden-Sydney Tigers"
+        ]
+    },
+    {
+        "metro": "North Manchester",
+        "region": "IN",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Marietta",
+        "region": "OH",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Maryville",
+        "region": "TN",
+        "population": 28703,
+        "teams": [
+            "Maryville Scots"
+        ]
+    },
+    {
+        "metro": "New Concord",
+        "region": "OH",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Maryville",
+        "region": "MO",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Oberlin",
+        "region": "OH",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Pittsburg",
+        "region": "KS",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Quantico",
+        "region": "VA",
+        "population": 540,
+        "teams": [
+            "Quantico Marines Devil Dogs"
+        ]
+    },
+    {
+        "metro": "Ripon",
+        "region": "WI",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Salem",
+        "region": "VA",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Indianola",
+        "region": "IA",
+        "population": 15785,
+        "teams": [
+            "Simpson Storm"
+        ]
+    },
+    {
+        "metro": "Canton",
+        "region": "NY",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Potsdam",
+        "region": "NY",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Warrensburg",
+        "region": "MO",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Stevens Point",
+        "region": "WI",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Buckhannon",
+        "region": "WV",
+        "population": 5612,
+        "teams": [
+            "West Virginia Wesleyan Bobcats"
+        ]
+    },
+    {
+        "metro": "Fulton",
+        "region": "MO",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "New Wilmington",
+        "region": "PA",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Cheyney",
+        "region": "PA",
+        "population": 988,
+        "teams": [
+            "Cheyney Wolves"
+        ]
+    },
+    {
+        "metro": "Cleveland",
+        "region": "MS",
+        "population": 12101,
+        "teams": [
+            "Delta State Statesmen"
+        ]
+    },
+    {
+        "metro": "Oskaloosa",
+        "region": "IA",
+        "population": 11523,
+        "teams": [
+            "William Penn Statesmen"
+        ]
+    },
+    {
+        "metro": "Brockport",
+        "region": "NY",
+        "population": 8319,
+        "teams": [
+            "Brockport Golden Eagles"
+        ]
+    },
+    {
+        "metro": "Findlay",
+        "region": "OH",
+        "population": 41422,
+        "teams": [
+            "Findlay Oilers"
+        ]
+    },
+    {
+        "metro": "Hilo",
+        "region": "HI",
+        "population": 43263,
+        "teams": [
+            "Hawaii\u2013Hilo Vulcans"
+        ]
+    },
+    {
+        "metro": "Harrison",
+        "region": "NY",
+        "population": 28340,
+        "teams": [
+            "Manhattanville Valiants"
+        ]
+    },
+    {
+        "metro": "Orange City",
+        "region": "IA",
+        "population": 6179,
+        "teams": [
+            "Northwestern Red Raiders"
+        ]
+    },
+    {
+        "metro": "Bolivar",
+        "region": "MO",
+        "population": 10795,
+        "teams": [
+            "Southwest Baptist Bearcats"
+        ]
+    },
+    {
+        "metro": "Kirksville",
+        "region": "MO",
+        "population": 17519,
+        "teams": [
+            "Truman Bulldogs"
+        ]
+    },
+    {
+        "metro": "Valley City",
+        "region": "ND",
+        "population": 87650,
+        "teams": [
+            "Valley City Vikings"
+        ]
+    },
+    {
+        "metro": "Champaign County",
+        "region": "IL",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Dillon",
+        "region": "MT",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "Mansfield",
+        "region": "CT",
+        "population": 0,
+        "teams": []
+    },
+    {
+        "metro": "South Bend-Mishawaka",
+        "region": "IN-MI",
+        "population": 321815,
+        "teams": []
+    },
+    {
+        "metro": "Elizabethtown Metro Area",
+        "region": "KY",
+        "population": 150430,
+        "teams": []
+    }
+]

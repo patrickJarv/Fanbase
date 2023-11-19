@@ -1,0 +1,6552 @@
+[
+    {
+        "key": "Green Bay, WI",
+        "values": [
+            {
+                "year": 1929,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1930,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1931,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1936,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1939,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1944,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1961,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1962,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1965,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1966,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1967,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1968,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1997,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            },
+            {
+                "year": 2011,
+                "team": "Green Bay Packers",
+                "sport": "nfl"
+            }
+        ],
+        "population": 320050
+    },
+    {
+        "key": "Sarnia, ON",
+        "values": [
+            {
+                "year": 1934,
+                "team": "Sarnia Imperials",
+                "sport": "cfl"
+            },
+            {
+                "year": 1936,
+                "team": "Sarnia Imperials",
+                "sport": "cfl"
+            }
+        ],
+        "population": 96151
+    },
+    {
+        "key": "Hamilton, ON",
+        "values": [
+            {
+                "year": 1912,
+                "team": "Hamilton Alerts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1913,
+                "team": "Hamilton Tigers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1915,
+                "team": "Hamilton Tigers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1928,
+                "team": "Hamilton Tigers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1929,
+                "team": "Hamilton Tigers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1932,
+                "team": "Hamilton Tigers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1943,
+                "team": "Hamilton Flying Wildcats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1953,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1957,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1963,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1965,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1967,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1972,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1986,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            },
+            {
+                "year": 1999,
+                "team": "Hamilton Tiger-Cats",
+                "sport": "cfl"
+            }
+        ],
+        "population": 747545
+    },
+    {
+        "key": "Regina, SK",
+        "values": [
+            {
+                "year": 1966,
+                "team": "Saskatchewan Roughriders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1989,
+                "team": "Saskatchewan Roughriders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2007,
+                "team": "Saskatchewan Roughriders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2013,
+                "team": "Saskatchewan Roughriders",
+                "sport": "cfl"
+            }
+        ],
+        "population": 236481
+    },
+    {
+        "key": "Edmonton, AB",
+        "values": [
+            {
+                "year": 1954,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1955,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1956,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1975,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1978,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1979,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1980,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1981,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1982,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1984,
+                "team": "Edmonton Oilers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1985,
+                "team": "Edmonton Oilers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1987,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 1987,
+                "team": "Edmonton Oilers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1988,
+                "team": "Edmonton Oilers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1990,
+                "team": "Edmonton Oilers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1993,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 2003,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 2005,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            },
+            {
+                "year": 2015,
+                "team": "Edmonton Eskimos",
+                "sport": "cfl"
+            }
+        ],
+        "population": 1321426
+    },
+    {
+        "key": "Winnipeg, MB",
+        "values": [
+            {
+                "year": 1935,
+                "team": "Winnipeg \u2018Pegs",
+                "sport": "cfl"
+            },
+            {
+                "year": 1939,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1941,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1958,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1959,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1961,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1962,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1984,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1988,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1990,
+                "team": "Winnipeg Blue Bombers",
+                "sport": "cfl"
+            }
+        ],
+        "population": 778489
+    },
+    {
+        "key": "Ottawa, ON",
+        "values": [
+            {
+                "year": 1925,
+                "team": "Ottawa Senators",
+                "sport": "cfl"
+            },
+            {
+                "year": 1926,
+                "team": "Ottawa Senators",
+                "sport": "cfl"
+            },
+            {
+                "year": 1940,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1951,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1960,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1968,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1969,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1973,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1976,
+                "team": "Ottawa Rough Riders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2016,
+                "team": "Ottawa Redblacks",
+                "sport": "cfl"
+            }
+        ],
+        "population": 1323783
+    },
+    {
+        "key": "Montreal, QC",
+        "values": [
+            {
+                "year": 1919,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1924,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1925,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1926,
+                "team": "Montreal Maroons",
+                "sport": "nhl"
+            },
+            {
+                "year": 1930,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1931,
+                "team": "Montreal AAA Winged Wheelers",
+                "sport": "cfl"
+            },
+            {
+                "year": 1931,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1935,
+                "team": "Montreal Maroons",
+                "sport": "nhl"
+            },
+            {
+                "year": 1944,
+                "team": "St. Hyacinthe-Donnacona Navy",
+                "sport": "cfl"
+            },
+            {
+                "year": 1944,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1946,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1949,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 1953,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1956,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1957,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1958,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1959,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1960,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1965,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1966,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1968,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1969,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1970,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 1971,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1973,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1974,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 1976,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1977,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 1977,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1978,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1979,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1986,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 1993,
+                "team": "Montreal Canadiens",
+                "sport": "nhl"
+            },
+            {
+                "year": 2002,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 2009,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            },
+            {
+                "year": 2010,
+                "team": "Montreal Alouettes",
+                "sport": "cfl"
+            }
+        ],
+        "population": 4098927
+    },
+    {
+        "key": "Greater Boston, MA",
+        "values": [
+            {
+                "year": 1876,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1891,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1899,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1900,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1903,
+                "team": "Boston Americans",
+                "sport": "mlb"
+            },
+            {
+                "year": 1911,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1912,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1913,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1914,
+                "team": "Boston Braves",
+                "sport": "mlb"
+            },
+            {
+                "year": 1914,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1915,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1916,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1918,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1920,
+                "team": "Harvard Crimson",
+                "sport": "football_m"
+            },
+            {
+                "year": 1929,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1939,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1941,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1957,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1959,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1960,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1961,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1962,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1963,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1964,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1965,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1966,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1968,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1969,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1970,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1972,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1974,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1976,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1981,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1984,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 1986,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 2002,
+                "team": "New England Patriots",
+                "sport": "nfl"
+            },
+            {
+                "year": 2004,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 2004,
+                "team": "New England Patriots",
+                "sport": "nfl"
+            },
+            {
+                "year": 2005,
+                "team": "New England Patriots",
+                "sport": "nfl"
+            },
+            {
+                "year": 2007,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 2008,
+                "team": "Boston Celtics",
+                "sport": "nba"
+            },
+            {
+                "year": 2011,
+                "team": "Boston Bruins",
+                "sport": "nhl"
+            },
+            {
+                "year": 2013,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 2015,
+                "team": "New England Patriots",
+                "sport": "nfl"
+            },
+            {
+                "year": 2017,
+                "team": "New England Patriots",
+                "sport": "nfl"
+            },
+            {
+                "year": 2018,
+                "team": "Boston Red Sox",
+                "sport": "mlb"
+            }
+        ],
+        "population": 4836531
+    },
+    {
+        "key": "Pittsburgh, PA",
+        "values": [
+            {
+                "year": 1909,
+                "team": "Pittsburgh Pirates",
+                "sport": "mlb"
+            },
+            {
+                "year": 1911,
+                "team": "Pittsburgh Panthers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1917,
+                "team": "Pittsburgh Panthers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1919,
+                "team": "Pittsburgh Panthers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1925,
+                "team": "Pittsburgh Pirates",
+                "sport": "mlb"
+            },
+            {
+                "year": 1938,
+                "team": "Pittsburgh Panthers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1960,
+                "team": "Pittsburgh Pirates",
+                "sport": "mlb"
+            },
+            {
+                "year": 1971,
+                "team": "Pittsburgh Pirates",
+                "sport": "mlb"
+            },
+            {
+                "year": 1975,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1976,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1977,
+                "team": "Pittsburgh Panthers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1979,
+                "team": "Pittsburgh Pirates",
+                "sport": "mlb"
+            },
+            {
+                "year": 1979,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1980,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1991,
+                "team": "Pittsburgh Penguins",
+                "sport": "nhl"
+            },
+            {
+                "year": 1992,
+                "team": "Pittsburgh Penguins",
+                "sport": "nhl"
+            },
+            {
+                "year": 2006,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 2009,
+                "team": "Pittsburgh Steelers",
+                "sport": "nfl"
+            },
+            {
+                "year": 2009,
+                "team": "Pittsburgh Penguins",
+                "sport": "nhl"
+            },
+            {
+                "year": 2016,
+                "team": "Pittsburgh Penguins",
+                "sport": "nhl"
+            },
+            {
+                "year": 2017,
+                "team": "Pittsburgh Penguins",
+                "sport": "nhl"
+            }
+        ],
+        "population": 2333367
+    },
+    {
+        "key": "Toronto, ON",
+        "values": [
+            {
+                "year": 1914,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1918,
+                "team": "Toronto Arenas",
+                "sport": "nhl"
+            },
+            {
+                "year": 1921,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1927,
+                "team": "Toronto Balmy Beach",
+                "sport": "cfl"
+            },
+            {
+                "year": 1930,
+                "team": "Toronto Balmy Beach",
+                "sport": "cfl"
+            },
+            {
+                "year": 1932,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1933,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1937,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1938,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1942,
+                "team": "Toronto RCAF Hurricanes",
+                "sport": "cfl"
+            },
+            {
+                "year": 1942,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1945,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1945,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1946,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1947,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1947,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1948,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1949,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1950,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1951,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1952,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1962,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1963,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1964,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1967,
+                "team": "Toronto Maple Leafs",
+                "sport": "nhl"
+            },
+            {
+                "year": 1983,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1991,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1992,
+                "team": "Toronto Blue Jays",
+                "sport": "mlb"
+            },
+            {
+                "year": 1993,
+                "team": "Toronto Blue Jays",
+                "sport": "mlb"
+            },
+            {
+                "year": 1996,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 1997,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 2004,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 2012,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 2017,
+                "team": "Toronto Argonauts",
+                "sport": "cfl"
+            },
+            {
+                "year": 2017,
+                "team": "Toronto FC",
+                "sport": "mls"
+            }
+        ],
+        "population": 5928040
+    },
+    {
+        "key": "Calgary, AB",
+        "values": [
+            {
+                "year": 1948,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1971,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1989,
+                "team": "Calgary Flames",
+                "sport": "nhl"
+            },
+            {
+                "year": 1992,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 1998,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2001,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2008,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            },
+            {
+                "year": 2014,
+                "team": "Calgary Stampeders",
+                "sport": "cfl"
+            }
+        ],
+        "population": 1392609
+    },
+    {
+        "key": "Metro Detroit, MI",
+        "values": [
+            {
+                "year": 1935,
+                "team": "Detroit Tigers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1935,
+                "team": "Detroit Lions",
+                "sport": "nfl"
+            },
+            {
+                "year": 1936,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1937,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1943,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1945,
+                "team": "Detroit Tigers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1950,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1952,
+                "team": "Detroit Lions",
+                "sport": "nfl"
+            },
+            {
+                "year": 1952,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1953,
+                "team": "Detroit Lions",
+                "sport": "nfl"
+            },
+            {
+                "year": 1954,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1955,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1957,
+                "team": "Detroit Lions",
+                "sport": "nfl"
+            },
+            {
+                "year": 1968,
+                "team": "Detroit Tigers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1984,
+                "team": "Detroit Tigers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1989,
+                "team": "Detroit Pistons",
+                "sport": "nba"
+            },
+            {
+                "year": 1990,
+                "team": "Detroit Pistons",
+                "sport": "nba"
+            },
+            {
+                "year": 1997,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 1998,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 2002,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            },
+            {
+                "year": 2004,
+                "team": "Detroit Pistons",
+                "sport": "nba"
+            },
+            {
+                "year": 2008,
+                "team": "Detroit Red Wings",
+                "sport": "nhl"
+            }
+        ],
+        "population": 4313002
+    },
+    {
+        "key": "Canton, OH",
+        "values": [
+            {
+                "year": 1922,
+                "team": "Canton Bulldogs",
+                "sport": "nfl"
+            },
+            {
+                "year": 1923,
+                "team": "Canton Bulldogs",
+                "sport": "nfl"
+            }
+        ],
+        "population": 399927
+    },
+    {
+        "key": "St. Louis, MO",
+        "values": [
+            {
+                "year": 1926,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1931,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1934,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1942,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1944,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1946,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1958,
+                "team": "St. Louis Hawks",
+                "sport": "nba"
+            },
+            {
+                "year": 1964,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1967,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 1982,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 2000,
+                "team": "St. Louis Rams",
+                "sport": "nfl"
+            },
+            {
+                "year": 2006,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            },
+            {
+                "year": 2011,
+                "team": "St. Louis Cardinals",
+                "sport": "mlb"
+            }
+        ],
+        "population": 2807338
+    },
+    {
+        "key": "Cleveland, OH",
+        "values": [
+            {
+                "year": 1920,
+                "team": "Cleveland Indians",
+                "sport": "mlb"
+            },
+            {
+                "year": 1924,
+                "team": "Cleveland Bulldogs",
+                "sport": "nfl"
+            },
+            {
+                "year": 1945,
+                "team": "Cleveland Rams",
+                "sport": "nfl"
+            },
+            {
+                "year": 1948,
+                "team": "Cleveland Indians",
+                "sport": "mlb"
+            },
+            {
+                "year": 1950,
+                "team": "Cleveland Browns",
+                "sport": "nfl"
+            },
+            {
+                "year": 1954,
+                "team": "Cleveland Browns",
+                "sport": "nfl"
+            },
+            {
+                "year": 1955,
+                "team": "Cleveland Browns",
+                "sport": "nfl"
+            },
+            {
+                "year": 1964,
+                "team": "Cleveland Browns",
+                "sport": "nfl"
+            },
+            {
+                "year": 2016,
+                "team": "Cleveland Cavaliers",
+                "sport": "nba"
+            }
+        ],
+        "population": 2058844
+    },
+    {
+        "key": "San Francisco Bay Area, CA",
+        "values": [
+            {
+                "year": 1921,
+                "team": "California Golden Bears",
+                "sport": "football_m"
+            },
+            {
+                "year": 1922,
+                "team": "California Golden Bears",
+                "sport": "football_m"
+            },
+            {
+                "year": 1923,
+                "team": "California Golden Bears",
+                "sport": "football_m"
+            },
+            {
+                "year": 1927,
+                "team": "Stanford Cardinal",
+                "sport": "football_m"
+            },
+            {
+                "year": 1942,
+                "team": "Stanford Cardinal",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1947,
+                "team": "California Golden Bears",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1955,
+                "team": "San Francisco Dons",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1956,
+                "team": "San Francisco Dons",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1957,
+                "team": "California Golden Bears",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1959,
+                "team": "California Golden Bears",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1972,
+                "team": "Oakland Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1973,
+                "team": "Oakland Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1974,
+                "team": "Oakland Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1975,
+                "team": "Golden State Warriors",
+                "sport": "nba"
+            },
+            {
+                "year": 1977,
+                "team": "Oakland Raiders",
+                "sport": "nfl"
+            },
+            {
+                "year": 1981,
+                "team": "Oakland Raiders",
+                "sport": "nfl"
+            },
+            {
+                "year": 1982,
+                "team": "San Francisco 49ers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1985,
+                "team": "San Francisco 49ers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1987,
+                "team": "Stanford Cardinal",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1988,
+                "team": "Stanford Cardinal",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1989,
+                "team": "Oakland Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1989,
+                "team": "San Francisco 49ers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1990,
+                "team": "San Francisco 49ers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1990,
+                "team": "Stanford Cardinal",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1992,
+                "team": "Stanford Cardinal",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1992,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1994,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1995,
+                "team": "San Francisco 49ers",
+                "sport": "nfl"
+            },
+            {
+                "year": 1996,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1997,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2001,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2004,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2010,
+                "team": "San Francisco Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 2011,
+                "team": "Stanford Cardinal",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2012,
+                "team": "San Francisco Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 2014,
+                "team": "San Francisco Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 2015,
+                "team": "Golden State Warriors",
+                "sport": "nba"
+            },
+            {
+                "year": 2016,
+                "team": "Stanford Cardinal",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2017,
+                "team": "Golden State Warriors",
+                "sport": "nba"
+            },
+            {
+                "year": 2017,
+                "team": "Stanford Cardinal",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2018,
+                "team": "Golden State Warriors",
+                "sport": "nba"
+            }
+        ],
+        "population": 4727357
+    },
+    {
+        "key": "Baltimore, MD",
+        "values": [
+            {
+                "year": 1948,
+                "team": "Baltimore Bullets",
+                "sport": "nba"
+            },
+            {
+                "year": 1958,
+                "team": "Baltimore Colts",
+                "sport": "nfl"
+            },
+            {
+                "year": 1959,
+                "team": "Baltimore Colts",
+                "sport": "nfl"
+            },
+            {
+                "year": 1966,
+                "team": "Baltimore Orioles",
+                "sport": "mlb"
+            },
+            {
+                "year": 1970,
+                "team": "Baltimore Orioles",
+                "sport": "mlb"
+            },
+            {
+                "year": 1971,
+                "team": "Baltimore Colts",
+                "sport": "nfl"
+            },
+            {
+                "year": 1983,
+                "team": "Baltimore Orioles",
+                "sport": "mlb"
+            },
+            {
+                "year": 1995,
+                "team": "Baltimore Stallions",
+                "sport": "cfl"
+            },
+            {
+                "year": 2001,
+                "team": "Baltimore Ravens",
+                "sport": "nfl"
+            },
+            {
+                "year": 2013,
+                "team": "Baltimore Ravens",
+                "sport": "nfl"
+            }
+        ],
+        "population": 2808175
+    },
+    {
+        "key": "Chicago, IL",
+        "values": [
+            {
+                "year": 1906,
+                "team": "Chicago White Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1906,
+                "team": "Chicago Maroons",
+                "sport": "football_m"
+            },
+            {
+                "year": 1907,
+                "team": "Chicago Cubs",
+                "sport": "mlb"
+            },
+            {
+                "year": 1908,
+                "team": "Chicago Cubs",
+                "sport": "mlb"
+            },
+            {
+                "year": 1917,
+                "team": "Chicago White Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 1925,
+                "team": "Chicago Cardinals",
+                "sport": "nfl"
+            },
+            {
+                "year": 1932,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1933,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1934,
+                "team": "Chicago Black Hawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 1938,
+                "team": "Chicago Black Hawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 1940,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1941,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1943,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1946,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1947,
+                "team": "Chicago Cardinals",
+                "sport": "nfl"
+            },
+            {
+                "year": 1961,
+                "team": "Chicago Black Hawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 1963,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1963,
+                "team": "Loyola Ramblers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1986,
+                "team": "Chicago Bears",
+                "sport": "nfl"
+            },
+            {
+                "year": 1991,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1992,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1993,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1996,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1997,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1998,
+                "team": "Chicago Bulls",
+                "sport": "nba"
+            },
+            {
+                "year": 1998,
+                "team": "Chicago Fire",
+                "sport": "mls"
+            },
+            {
+                "year": 2005,
+                "team": "Chicago White Sox",
+                "sport": "mlb"
+            },
+            {
+                "year": 2010,
+                "team": "Chicago Blackhawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 2013,
+                "team": "Chicago Blackhawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 2015,
+                "team": "Chicago Blackhawks",
+                "sport": "nhl"
+            },
+            {
+                "year": 2016,
+                "team": "Chicago Cubs",
+                "sport": "mlb"
+            },
+            {
+                "year": 2018,
+                "team": "Loyola Ramblers",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 9533040
+    },
+    {
+        "key": "Greater Philadelphia, PA",
+        "values": [
+            {
+                "year": 1896,
+                "team": "Pennsylvania Quakers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1898,
+                "team": "Pennsylvania Quakers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1905,
+                "team": "Pennsylvania Quakers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1909,
+                "team": "Pennsylvania Quakers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1910,
+                "team": "Philadelphia Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1911,
+                "team": "Philadelphia Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1913,
+                "team": "Philadelphia Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1926,
+                "team": "Frankford Yellow Jackets",
+                "sport": "nfl"
+            },
+            {
+                "year": 1929,
+                "team": "Philadelphia Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1930,
+                "team": "Philadelphia Athletics",
+                "sport": "mlb"
+            },
+            {
+                "year": 1947,
+                "team": "Philadelphia Warriors",
+                "sport": "nba"
+            },
+            {
+                "year": 1948,
+                "team": "Philadelphia Eagles",
+                "sport": "nfl"
+            },
+            {
+                "year": 1949,
+                "team": "Philadelphia Eagles",
+                "sport": "nfl"
+            },
+            {
+                "year": 1954,
+                "team": "La Salle Explorers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1956,
+                "team": "Philadelphia Warriors",
+                "sport": "nba"
+            },
+            {
+                "year": 1960,
+                "team": "Philadelphia Eagles",
+                "sport": "nfl"
+            },
+            {
+                "year": 1967,
+                "team": "Philadelphia 76ers",
+                "sport": "nba"
+            },
+            {
+                "year": 1974,
+                "team": "Philadelphia Flyers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1975,
+                "team": "Philadelphia Flyers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1980,
+                "team": "Philadelphia Phillies",
+                "sport": "mlb"
+            },
+            {
+                "year": 1983,
+                "team": "Philadelphia 76ers",
+                "sport": "nba"
+            },
+            {
+                "year": 1985,
+                "team": "Villanova Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2008,
+                "team": "Philadelphia Phillies",
+                "sport": "mlb"
+            },
+            {
+                "year": 2010,
+                "team": "Villanova Wildcats",
+                "sport": "football_m"
+            },
+            {
+                "year": 2016,
+                "team": "Villanova Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2018,
+                "team": "Philadelphia Eagles",
+                "sport": "nfl"
+            }
+        ],
+        "population": 6096120
+    },
+    {
+        "key": "New York Metro Area",
+        "values": [
+            {
+                "year": 1905,
+                "team": "New York Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 1921,
+                "team": "New York Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 1922,
+                "team": "New York Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 1923,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1927,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1927,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1928,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1928,
+                "team": "New York Rangers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1932,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1933,
+                "team": "New York Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 1933,
+                "team": "New York Rangers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1934,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1936,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1937,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1938,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1938,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1939,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1940,
+                "team": "New York Rangers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1941,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1943,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1947,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1949,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1950,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1950,
+                "team": "City College of New York Beavers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1951,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1952,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1953,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1954,
+                "team": "New York Giants",
+                "sport": "mlb"
+            },
+            {
+                "year": 1955,
+                "team": "Brooklyn Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1956,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1956,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1958,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1961,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1962,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1969,
+                "team": "New York Mets",
+                "sport": "mlb"
+            },
+            {
+                "year": 1969,
+                "team": "New York Jets",
+                "sport": "nfl"
+            },
+            {
+                "year": 1970,
+                "team": "New York Knicks",
+                "sport": "nba"
+            },
+            {
+                "year": 1973,
+                "team": "New York Knicks",
+                "sport": "nba"
+            },
+            {
+                "year": 1977,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1978,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1980,
+                "team": "New York Islanders",
+                "sport": "nhl"
+            },
+            {
+                "year": 1981,
+                "team": "New York Islanders",
+                "sport": "nhl"
+            },
+            {
+                "year": 1982,
+                "team": "New York Islanders",
+                "sport": "nhl"
+            },
+            {
+                "year": 1983,
+                "team": "New York Islanders",
+                "sport": "nhl"
+            },
+            {
+                "year": 1986,
+                "team": "New York Mets",
+                "sport": "mlb"
+            },
+            {
+                "year": 1987,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1991,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 1994,
+                "team": "New York Rangers",
+                "sport": "nhl"
+            },
+            {
+                "year": 1995,
+                "team": "New Jersey Devils",
+                "sport": "nhl"
+            },
+            {
+                "year": 1996,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1998,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 1999,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 2000,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 2000,
+                "team": "New Jersey Devils",
+                "sport": "nhl"
+            },
+            {
+                "year": 2003,
+                "team": "New Jersey Devils",
+                "sport": "nhl"
+            },
+            {
+                "year": 2008,
+                "team": "New York Giants",
+                "sport": "nfl"
+            },
+            {
+                "year": 2009,
+                "team": "New York Yankees",
+                "sport": "mlb"
+            },
+            {
+                "year": 2012,
+                "team": "New York Giants",
+                "sport": "nfl"
+            }
+        ],
+        "population": 20320876
+    },
+    {
+        "key": "Vancouver, BC",
+        "values": [
+            {
+                "year": 1964,
+                "team": "BC Lions",
+                "sport": "cfl"
+            },
+            {
+                "year": 1985,
+                "team": "BC Lions",
+                "sport": "cfl"
+            },
+            {
+                "year": 1994,
+                "team": "BC Lions",
+                "sport": "cfl"
+            },
+            {
+                "year": 2000,
+                "team": "BC Lions",
+                "sport": "cfl"
+            },
+            {
+                "year": 2006,
+                "team": "BC Lions",
+                "sport": "cfl"
+            },
+            {
+                "year": 2011,
+                "team": "BC Lions",
+                "sport": "cfl"
+            }
+        ],
+        "population": 2463431
+    },
+    {
+        "key": "Kansas City, MO",
+        "values": [
+            {
+                "year": 1970,
+                "team": "Kansas City Chiefs",
+                "sport": "nfl"
+            },
+            {
+                "year": 1985,
+                "team": "Kansas City Royals",
+                "sport": "mlb"
+            },
+            {
+                "year": 2000,
+                "team": "Kansas City Wizards",
+                "sport": "mls"
+            },
+            {
+                "year": 2013,
+                "team": "Sporting Kansas City",
+                "sport": "mls"
+            },
+            {
+                "year": 2015,
+                "team": "Kansas City Royals",
+                "sport": "mlb"
+            }
+        ],
+        "population": 2128912
+    },
+    {
+        "key": "Cincinnati, OH",
+        "values": [
+            {
+                "year": 1919,
+                "team": "Cincinnati Reds",
+                "sport": "mlb"
+            },
+            {
+                "year": 1940,
+                "team": "Cincinnati Reds",
+                "sport": "mlb"
+            },
+            {
+                "year": 1961,
+                "team": "Cincinnati Bearcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1962,
+                "team": "Cincinnati Bearcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1975,
+                "team": "Cincinnati Reds",
+                "sport": "mlb"
+            },
+            {
+                "year": 1976,
+                "team": "Cincinnati Reds",
+                "sport": "mlb"
+            },
+            {
+                "year": 1990,
+                "team": "Cincinnati Reds",
+                "sport": "mlb"
+            }
+        ],
+        "population": 2179082
+    },
+    {
+        "key": "Denver, CO",
+        "values": [
+            {
+                "year": 1996,
+                "team": "Colorado Avalanche",
+                "sport": "nhl"
+            },
+            {
+                "year": 1998,
+                "team": "Denver Broncos",
+                "sport": "nfl"
+            },
+            {
+                "year": 1999,
+                "team": "Denver Broncos",
+                "sport": "nfl"
+            },
+            {
+                "year": 2001,
+                "team": "Colorado Avalanche",
+                "sport": "nhl"
+            },
+            {
+                "year": 2010,
+                "team": "Colorado Rapids",
+                "sport": "mls"
+            },
+            {
+                "year": 2016,
+                "team": "Denver Broncos",
+                "sport": "nfl"
+            }
+        ],
+        "population": 2888227
+    },
+    {
+        "key": "Greater Los Angeles, CA",
+        "values": [
+            {
+                "year": 1932,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1933,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1948,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1951,
+                "team": "Los Angeles Rams",
+                "sport": "nfl"
+            },
+            {
+                "year": 1955,
+                "team": "UCLA Bruins",
+                "sport": "football_m"
+            },
+            {
+                "year": 1958,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1959,
+                "team": "Los Angeles Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1961,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1963,
+                "team": "Los Angeles Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1963,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1963,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1964,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1965,
+                "team": "Los Angeles Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1965,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1967,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1968,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1968,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1968,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1969,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1970,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1970,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1971,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1971,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1972,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1972,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1972,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1973,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1973,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1973,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1974,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1975,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1975,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1978,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1979,
+                "team": "Cal State Fullerton Titans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1979,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1980,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1981,
+                "team": "Los Angeles Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1982,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1984,
+                "team": "Los Angeles Raiders",
+                "sport": "nfl"
+            },
+            {
+                "year": 1984,
+                "team": "Cal State Fullerton Titans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1984,
+                "team": "UCLA Bruins",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1985,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1987,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1988,
+                "team": "Los Angeles Dodgers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1988,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1989,
+                "team": "Long Beach State 49ers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1990,
+                "team": "UCLA Bruins",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1991,
+                "team": "UCLA Bruins",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1992,
+                "team": "Pepperdine Waves",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1993,
+                "team": "Long Beach State 49ers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1995,
+                "team": "Cal State Fullerton Titans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1995,
+                "team": "UCLA Bruins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1998,
+                "team": "USC Trojans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1998,
+                "team": "Long Beach State 49ers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2000,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 2001,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 2002,
+                "team": "Anaheim Angels",
+                "sport": "mlb"
+            },
+            {
+                "year": 2002,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 2002,
+                "team": "Los Angeles Galaxy",
+                "sport": "mls"
+            },
+            {
+                "year": 2004,
+                "team": "Cal State Fullerton Titans",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2004,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 2005,
+                "team": "Los Angeles Galaxy",
+                "sport": "mls"
+            },
+            {
+                "year": 2005,
+                "team": "USC Trojans",
+                "sport": "football_m"
+            },
+            {
+                "year": 2007,
+                "team": "Anaheim Ducks",
+                "sport": "nhl"
+            },
+            {
+                "year": 2009,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 2010,
+                "team": "Los Angeles Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 2011,
+                "team": "Los Angeles Galaxy",
+                "sport": "mls"
+            },
+            {
+                "year": 2011,
+                "team": "UCLA Bruins",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2012,
+                "team": "Los Angeles Kings",
+                "sport": "nhl"
+            },
+            {
+                "year": 2012,
+                "team": "Los Angeles Galaxy",
+                "sport": "mls"
+            },
+            {
+                "year": 2013,
+                "team": "UCLA Bruins",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2013,
+                "team": "UCLA Bruins",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2014,
+                "team": "Los Angeles Kings",
+                "sport": "nhl"
+            },
+            {
+                "year": 2014,
+                "team": "Los Angeles Galaxy",
+                "sport": "mls"
+            }
+        ],
+        "population": 13353907
+    },
+    {
+        "key": "San Antonio, TX",
+        "values": [
+            {
+                "year": 1999,
+                "team": "San Antonio Spurs",
+                "sport": "nba"
+            },
+            {
+                "year": 2003,
+                "team": "San Antonio Spurs",
+                "sport": "nba"
+            },
+            {
+                "year": 2005,
+                "team": "San Antonio Spurs",
+                "sport": "nba"
+            },
+            {
+                "year": 2007,
+                "team": "San Antonio Spurs",
+                "sport": "nba"
+            },
+            {
+                "year": 2014,
+                "team": "San Antonio Spurs",
+                "sport": "nba"
+            }
+        ],
+        "population": 2473974
+    },
+    {
+        "key": "Twin Cities, MN",
+        "values": [
+            {
+                "year": 1935,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1936,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1937,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1941,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1942,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1949,
+                "team": "Minneapolis Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1950,
+                "team": "Minneapolis Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1952,
+                "team": "Minneapolis Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1953,
+                "team": "Minneapolis Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1954,
+                "team": "Minneapolis Lakers",
+                "sport": "nba"
+            },
+            {
+                "year": 1956,
+                "team": "Minnesota Golden Gophers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1960,
+                "team": "Minnesota Golden Gophers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1961,
+                "team": "Minnesota Golden Gophers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1964,
+                "team": "Minnesota Golden Gophers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1987,
+                "team": "Minnesota Twins",
+                "sport": "mlb"
+            },
+            {
+                "year": 1991,
+                "team": "Minnesota Twins",
+                "sport": "mlb"
+            }
+        ],
+        "population": 3600618
+    },
+    {
+        "key": "Washington, DC Metro Area",
+        "values": [
+            {
+                "year": 1924,
+                "team": "Washington Senators",
+                "sport": "mlb"
+            },
+            {
+                "year": 1937,
+                "team": "Washington Redskins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1942,
+                "team": "Washington Redskins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1954,
+                "team": "Maryland Terrapins",
+                "sport": "football_m"
+            },
+            {
+                "year": 1978,
+                "team": "Washington Bullets",
+                "sport": "nba"
+            },
+            {
+                "year": 1983,
+                "team": "Washington Redskins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1984,
+                "team": "Georgetown Hoyas",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1985,
+                "team": "George Mason Patriots",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1988,
+                "team": "Washington Redskins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1992,
+                "team": "Washington Redskins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1996,
+                "team": "D.C. United",
+                "sport": "mls"
+            },
+            {
+                "year": 1997,
+                "team": "D.C. United",
+                "sport": "mls"
+            },
+            {
+                "year": 1999,
+                "team": "D.C. United",
+                "sport": "mls"
+            },
+            {
+                "year": 2002,
+                "team": "Maryland Terrapins",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2004,
+                "team": "D.C. United",
+                "sport": "mls"
+            },
+            {
+                "year": 2006,
+                "team": "Maryland Terrapins",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2018,
+                "team": "Washington Capitals",
+                "sport": "nhl"
+            }
+        ],
+        "population": 6216589
+    },
+    {
+        "key": "Greater Raleigh, NC",
+        "values": [
+            {
+                "year": 1957,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1974,
+                "team": "North Carolina State Wolfpack",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1982,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1982,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1983,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1983,
+                "team": "North Carolina State Wolfpack",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1984,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1986,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1987,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1988,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1989,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1990,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1991,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1991,
+                "team": "Duke Blue Devils",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1992,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1992,
+                "team": "Duke Blue Devils",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1993,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1993,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1994,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1994,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1996,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1997,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 1999,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2000,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2001,
+                "team": "Duke Blue Devils",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2003,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2005,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2006,
+                "team": "Carolina Hurricanes",
+                "sport": "nhl"
+            },
+            {
+                "year": 2006,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2008,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2009,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2009,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2010,
+                "team": "Duke Blue Devils",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2012,
+                "team": "North Carolina Tar Heels",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2015,
+                "team": "Duke Blue Devils",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2017,
+                "team": "North Carolina Tar Heels",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 567428
+    },
+    {
+        "key": "Syracuse, NY",
+        "values": [
+            {
+                "year": 1955,
+                "team": "Syracuse Nationals",
+                "sport": "nba"
+            },
+            {
+                "year": 1960,
+                "team": "Syracuse Orange",
+                "sport": "football_m"
+            },
+            {
+                "year": 2003,
+                "team": "Syracuse Orange",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 654841
+    },
+    {
+        "key": "Milwaukee, WI",
+        "values": [
+            {
+                "year": 1957,
+                "team": "Milwaukee Brewers",
+                "sport": "mlb"
+            },
+            {
+                "year": 1971,
+                "team": "Milwaukee Bucks",
+                "sport": "nba"
+            },
+            {
+                "year": 1977,
+                "team": "Marquette Golden Eagles",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 1576236
+    },
+    {
+        "key": "Greater Miami Area, FL",
+        "values": [
+            {
+                "year": 1973,
+                "team": "Miami Dolphins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1974,
+                "team": "Miami Dolphins",
+                "sport": "nfl"
+            },
+            {
+                "year": 1982,
+                "team": "Miami Hurricanes",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1984,
+                "team": "Miami Hurricanes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1985,
+                "team": "Miami Hurricanes",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1988,
+                "team": "Miami Hurricanes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1990,
+                "team": "Miami Hurricanes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1992,
+                "team": "Miami Hurricanes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1997,
+                "team": "Florida Marlins",
+                "sport": "mlb"
+            },
+            {
+                "year": 1999,
+                "team": "Miami Hurricanes",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2001,
+                "team": "Miami Hurricanes",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2002,
+                "team": "Miami Hurricanes",
+                "sport": "football_m"
+            },
+            {
+                "year": 2003,
+                "team": "Florida Marlins",
+                "sport": "mlb"
+            },
+            {
+                "year": 2006,
+                "team": "Miami Heat",
+                "sport": "nba"
+            },
+            {
+                "year": 2012,
+                "team": "Miami Heat",
+                "sport": "nba"
+            },
+            {
+                "year": 2013,
+                "team": "Miami Heat",
+                "sport": "nba"
+            }
+        ],
+        "population": 6158824
+    },
+    {
+        "key": "San Jose-Santa Clara, CA",
+        "values": [
+            {
+                "year": 2001,
+                "team": "San Jose Earthquakes",
+                "sport": "mls"
+            },
+            {
+                "year": 2001,
+                "team": "Santa Clara Broncos",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2003,
+                "team": "San Jose Earthquakes",
+                "sport": "mls"
+            }
+        ],
+        "population": 1998463
+    },
+    {
+        "key": "Dallas-Fort Worth, TX",
+        "values": [
+            {
+                "year": 1939,
+                "team": "Texas Christian Horned Frogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1972,
+                "team": "Dallas Cowboys",
+                "sport": "nfl"
+            },
+            {
+                "year": 1978,
+                "team": "Dallas Cowboys",
+                "sport": "nfl"
+            },
+            {
+                "year": 1993,
+                "team": "Dallas Cowboys",
+                "sport": "nfl"
+            },
+            {
+                "year": 1994,
+                "team": "Dallas Cowboys",
+                "sport": "nfl"
+            },
+            {
+                "year": 1996,
+                "team": "Dallas Cowboys",
+                "sport": "nfl"
+            },
+            {
+                "year": 1999,
+                "team": "Dallas Stars",
+                "sport": "nhl"
+            },
+            {
+                "year": 2011,
+                "team": "Dallas Mavericks",
+                "sport": "nba"
+            }
+        ],
+        "population": 7399662
+    },
+    {
+        "key": "Rochester, NY",
+        "values": [
+            {
+                "year": 1951,
+                "team": "Rochester Royals",
+                "sport": "nba"
+            }
+        ],
+        "population": 1077948
+    },
+    {
+        "key": "Salt Lake City, UT",
+        "values": [
+            {
+                "year": 1944,
+                "team": "Utah Utes",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2009,
+                "team": "Real Salt Lake",
+                "sport": "mls"
+            }
+        ],
+        "population": 1203105
+    },
+    {
+        "key": "Portland Metro Area, OR",
+        "values": [
+            {
+                "year": 1977,
+                "team": "Portland Trail Blazers",
+                "sport": "nba"
+            },
+            {
+                "year": 2002,
+                "team": "Portland Pilots",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2005,
+                "team": "Portland Pilots",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2015,
+                "team": "Portland Timbers",
+                "sport": "mls"
+            }
+        ],
+        "population": 2453168
+    },
+    {
+        "key": "New Orleans, LA",
+        "values": [
+            {
+                "year": 2010,
+                "team": "New Orleans Saints",
+                "sport": "nfl"
+            }
+        ],
+        "population": 1275762
+    },
+    {
+        "key": "Seattle,WA",
+        "values": [
+            {
+                "year": 1979,
+                "team": "Seattle SuperSonics",
+                "sport": "nba"
+            },
+            {
+                "year": 1992,
+                "team": "Washington Huskies",
+                "sport": "football_m"
+            },
+            {
+                "year": 2005,
+                "team": "Washington Huskies",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2014,
+                "team": "Seattle Seahawks",
+                "sport": "nfl"
+            },
+            {
+                "year": 2016,
+                "team": "Seattle Sounders FC",
+                "sport": "mls"
+            }
+        ],
+        "population": 3867046
+    },
+    {
+        "key": "Houston, TX",
+        "values": [
+            {
+                "year": 1994,
+                "team": "Houston Rockets",
+                "sport": "nba"
+            },
+            {
+                "year": 1995,
+                "team": "Houston Rockets",
+                "sport": "nba"
+            },
+            {
+                "year": 2003,
+                "team": "Rice Owls",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2006,
+                "team": "Houston Dynamo",
+                "sport": "mls"
+            },
+            {
+                "year": 2007,
+                "team": "Houston Dynamo",
+                "sport": "mls"
+            },
+            {
+                "year": 2017,
+                "team": "Houston Astros",
+                "sport": "mlb"
+            }
+        ],
+        "population": 6892427
+    },
+    {
+        "key": "Tampa Bay Area, FL",
+        "values": [
+            {
+                "year": 2003,
+                "team": "Tampa Bay Buccaneers",
+                "sport": "nfl"
+            },
+            {
+                "year": 2004,
+                "team": "Tampa Bay Lightning",
+                "sport": "nhl"
+            }
+        ],
+        "population": 3091399
+    },
+    {
+        "key": "Providence, RI",
+        "values": [
+            {
+                "year": 1928,
+                "team": "Providence Steam Roller",
+                "sport": "nfl"
+            }
+        ],
+        "population": 1621122
+    },
+    {
+        "key": "Indianapolis Metro Area, IN",
+        "values": [
+            {
+                "year": 2007,
+                "team": "Indianapolis Colts",
+                "sport": "nfl"
+            }
+        ],
+        "population": 2028614
+    },
+    {
+        "key": "Columbus, OH",
+        "values": [
+            {
+                "year": 1943,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1955,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1958,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1960,
+                "team": "Ohio State Buckeyes",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1962,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1966,
+                "team": "Ohio State Buckeyes",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1969,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 1971,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 2003,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            },
+            {
+                "year": 2008,
+                "team": "Columbus Crew",
+                "sport": "mls"
+            },
+            {
+                "year": 2015,
+                "team": "Ohio State Buckeyes",
+                "sport": "football_m"
+            }
+        ],
+        "population": 2078725
+    },
+    {
+        "key": "Metro Phoenix, AZ",
+        "values": [
+            {
+                "year": 1965,
+                "team": "Arizona State Sun Devils",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1967,
+                "team": "Arizona State Sun Devils",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1969,
+                "team": "Arizona State Sun Devils",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1977,
+                "team": "Arizona State Sun Devils",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1981,
+                "team": "Arizona State Sun Devils",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2001,
+                "team": "Arizona Diamondbacks",
+                "sport": "mlb"
+            }
+        ],
+        "population": 4737270
+    },
+    {
+        "key": "Atlanta, GA",
+        "values": [
+            {
+                "year": 1918,
+                "team": "Georgia Tech Yellow Jackets",
+                "sport": "football_m"
+            },
+            {
+                "year": 1929,
+                "team": "Georgia Tech Yellow Jackets",
+                "sport": "football_m"
+            },
+            {
+                "year": 1991,
+                "team": "Georgia Tech Yellow Jackets",
+                "sport": "football_m"
+            },
+            {
+                "year": 1995,
+                "team": "Atlanta Braves",
+                "sport": "mlb"
+            }
+        ],
+        "population": 5884736
+    },
+    {
+        "key": "Princeton, NJ",
+        "values": [
+            {
+                "year": 1870,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1871,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1873,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1874,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1879,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1880,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1881,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1886,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1890,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1894,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1897,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1904,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1907,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1912,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1923,
+                "team": "Princeton Tigers",
+                "sport": "football_m"
+            }
+        ],
+        "population": 30168
+    },
+    {
+        "key": "West Point, NY",
+        "values": [
+            {
+                "year": 1915,
+                "team": "Army Black Knights",
+                "sport": "football_m"
+            },
+            {
+                "year": 1945,
+                "team": "Army Black Knights",
+                "sport": "football_m"
+            },
+            {
+                "year": 1946,
+                "team": "Army Black Knights",
+                "sport": "football_m"
+            }
+        ],
+        "population": 6763
+    },
+    {
+        "key": "Statesboro, GA",
+        "values": [
+            {
+                "year": 1986,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            },
+            {
+                "year": 1987,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            },
+            {
+                "year": 1990,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            },
+            {
+                "year": 1991,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            },
+            {
+                "year": 2000,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            },
+            {
+                "year": 2001,
+                "team": "Georgia Southern Eagles",
+                "sport": "football_m"
+            }
+        ],
+        "population": 71214
+    },
+    {
+        "key": "State College, PA",
+        "values": [
+            {
+                "year": 1912,
+                "team": "Penn State Nittany Lions",
+                "sport": "football_m"
+            },
+            {
+                "year": 1913,
+                "team": "Penn State Nittany Lions",
+                "sport": "football_m"
+            },
+            {
+                "year": 1983,
+                "team": "Penn State Nittany Lions",
+                "sport": "football_m"
+            },
+            {
+                "year": 1987,
+                "team": "Penn State Nittany Lions",
+                "sport": "football_m"
+            },
+            {
+                "year": 1999,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2007,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2008,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2009,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2010,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2013,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2014,
+                "team": "Penn State Nittany Lions",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2015,
+                "team": "Penn State Nittany Lions",
+                "sport": "soccer_w"
+            }
+        ],
+        "population": 162660
+    },
+    {
+        "key": "Tuscaloosa, AL",
+        "values": [
+            {
+                "year": 1926,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1927,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1931,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1962,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1965,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1966,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1974,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1979,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1980,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 1993,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 2010,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 2012,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 2013,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 2016,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            },
+            {
+                "year": 2018,
+                "team": "Alabama Crimson Tide",
+                "sport": "football_m"
+            }
+        ],
+        "population": 242799
+    },
+    {
+        "key": "Notre Dame, IN",
+        "values": [
+            {
+                "year": 1920,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1925,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1930,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1931,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1944,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1947,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1948,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1950,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1965,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1967,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1974,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1978,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1989,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "football_m"
+            },
+            {
+                "year": 1995,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2001,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2004,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2010,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2018,
+                "team": "Notre Dame Fighting Irish",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 321815
+    },
+    {
+        "key": "Boone, NC",
+        "values": [
+            {
+                "year": 2006,
+                "team": "Appalachian State Mountaineers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2007,
+                "team": "Appalachian State Mountaineers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2008,
+                "team": "Appalachian State Mountaineers",
+                "sport": "football_m"
+            }
+        ],
+        "population": 55423
+    },
+    {
+        "key": "Stillwater, OK",
+        "values": [
+            {
+                "year": 1945,
+                "team": "Oklahoma State Cowboys",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1946,
+                "team": "Oklahoma State Cowboys",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1959,
+                "team": "Oklahoma State Cowboys",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 80850
+    },
+    {
+        "key": "Corvallis, OR",
+        "values": [
+            {
+                "year": 2006,
+                "team": "Oregon State Beavers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2007,
+                "team": "Oregon State Beavers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2018,
+                "team": "Oregon State Beavers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 90951
+    },
+    {
+        "key": "Ann Arbor, MI",
+        "values": [
+            {
+                "year": 1902,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1903,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1904,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1905,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1919,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1924,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1934,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1949,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            },
+            {
+                "year": 1953,
+                "team": "Michigan Wolverines",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1962,
+                "team": "Michigan Wolverines",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1989,
+                "team": "Michigan Wolverines",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1998,
+                "team": "Michigan Wolverines",
+                "sport": "football_m"
+            }
+        ],
+        "population": 367627
+    },
+    {
+        "key": "Lincoln, NE",
+        "values": [
+            {
+                "year": 1971,
+                "team": "Nebraska Cornhuskers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1972,
+                "team": "Nebraska Cornhuskers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1995,
+                "team": "Nebraska Cornhuskers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1995,
+                "team": "Nebraska Cornhuskers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1996,
+                "team": "Nebraska Cornhuskers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1998,
+                "team": "Nebraska Cornhuskers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2000,
+                "team": "Nebraska Cornhuskers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2006,
+                "team": "Nebraska Cornhuskers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2015,
+                "team": "Nebraska Cornhuskers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2017,
+                "team": "Nebraska Cornhuskers",
+                "sport": "volleyball_w"
+            }
+        ],
+        "population": 331519
+    },
+    {
+        "key": "Newark, DE",
+        "values": [],
+        "population": 33398
+    },
+    {
+        "key": "Bloomington, IN",
+        "values": [
+            {
+                "year": 1940,
+                "team": "Indiana Hoosiers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1953,
+                "team": "Indiana Hoosiers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1976,
+                "team": "Indiana Hoosiers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1981,
+                "team": "Indiana Hoosiers",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1987,
+                "team": "Indiana Hoosiers",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 167825
+    },
+    {
+        "key": "Ithaca, NY",
+        "values": [
+            {
+                "year": 1916,
+                "team": "Cornell Big Red",
+                "sport": "football_m"
+            },
+            {
+                "year": 1922,
+                "team": "Cornell Big Red",
+                "sport": "football_m"
+            },
+            {
+                "year": 1923,
+                "team": "Cornell Big Red",
+                "sport": "football_m"
+            }
+        ],
+        "population": 104802
+    },
+    {
+        "key": "Fargo, ND",
+        "values": [],
+        "population": 241356
+    },
+    {
+        "key": "Lawrence, KS",
+        "values": [
+            {
+                "year": 1952,
+                "team": "Kansas Jayhawks",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1988,
+                "team": "Kansas Jayhawks",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2008,
+                "team": "Kansas Jayhawks",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 120793
+    },
+    {
+        "key": "Gainesville, FL",
+        "values": [
+            {
+                "year": 1997,
+                "team": "Florida Gators",
+                "sport": "football_m"
+            },
+            {
+                "year": 1998,
+                "team": "Florida Gators",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2006,
+                "team": "Florida Gators",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2007,
+                "team": "Florida Gators",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2007,
+                "team": "Florida Gators",
+                "sport": "football_m"
+            },
+            {
+                "year": 2009,
+                "team": "Florida Gators",
+                "sport": "football_m"
+            },
+            {
+                "year": 2017,
+                "team": "Florida Gators",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 284687
+    },
+    {
+        "key": "Oxford, MS",
+        "values": [
+            {
+                "year": 1961,
+                "team": "Ole Miss Rebels",
+                "sport": "football_m"
+            }
+        ],
+        "population": 43975
+    },
+    {
+        "key": "New Haven, CT",
+        "values": [
+            {
+                "year": 1875,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1877,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1878,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1881,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1882,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1883,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1884,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1885,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1887,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1888,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1889,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1892,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1893,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1895,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1901,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1908,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1910,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1928,
+                "team": "Yale Bulldogs",
+                "sport": "football_m"
+            }
+        ],
+        "population": 860435
+    },
+    {
+        "key": "Richmond, KY",
+        "values": [],
+        "population": 99972
+    },
+    {
+        "key": "New Brunswick, NJ",
+        "values": [
+            {
+                "year": 1870,
+                "team": "Rutgers Scarlet Knights",
+                "sport": "football_m"
+            }
+        ],
+        "population": 56910
+    },
+    {
+        "key": "Missoula, MT",
+        "values": [
+            {
+                "year": 1996,
+                "team": "Montana Grizzlies",
+                "sport": "football_m"
+            },
+            {
+                "year": 2002,
+                "team": "Montana Grizzlies",
+                "sport": "football_m"
+            }
+        ],
+        "population": 117441
+    },
+    {
+        "key": "Monroe, LA",
+        "values": [
+            {
+                "year": 1982,
+                "team": "Louisiana Tech Bulldogs",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1988,
+                "team": "Louisiana Tech Bulldogs",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1988,
+                "team": "Louisiana-Monroe Warhawks",
+                "sport": "football_m"
+            }
+        ],
+        "population": 178445
+    },
+    {
+        "key": "Lexington-Fayette, KY",
+        "values": [
+            {
+                "year": 1948,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1949,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1951,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1958,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1978,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1996,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1998,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2012,
+                "team": "Kentucky Wildcats",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 512650
+    },
+    {
+        "key": "Harrisonburg, VA",
+        "values": [],
+        "population": 134442
+    },
+    {
+        "key": "Tallahassee, FL",
+        "values": [
+            {
+                "year": 1979,
+                "team": "Florida A&M Rattlers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1994,
+                "team": "Florida State Seminoles",
+                "sport": "football_m"
+            },
+            {
+                "year": 2000,
+                "team": "Florida State Seminoles",
+                "sport": "football_m"
+            },
+            {
+                "year": 2014,
+                "team": "Florida State Seminoles",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2014,
+                "team": "Florida State Seminoles",
+                "sport": "football_m"
+            }
+        ],
+        "population": 382627
+    },
+    {
+        "key": "Champaign-Urbana, IL",
+        "values": [
+            {
+                "year": 1920,
+                "team": "Illinois Fighting Illini",
+                "sport": "football_m"
+            },
+            {
+                "year": 1924,
+                "team": "Illinois Fighting Illini",
+                "sport": "football_m"
+            },
+            {
+                "year": 1928,
+                "team": "Illinois Fighting Illini",
+                "sport": "football_m"
+            }
+        ],
+        "population": 239124
+    },
+    {
+        "key": "Hartford, CT",
+        "values": [
+            {
+                "year": 1995,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1999,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2000,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2002,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2003,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2004,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2004,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2009,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2010,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2011,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2013,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2014,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2014,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2015,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2016,
+                "team": "Connecticut Huskies",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 1210259
+    },
+    {
+        "key": "Auburn, AL",
+        "values": [
+            {
+                "year": 1958,
+                "team": "Auburn Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2011,
+                "team": "Auburn Tigers",
+                "sport": "football_m"
+            }
+        ],
+        "population": 161604
+    },
+    {
+        "key": "Columbia, SC",
+        "values": [
+            {
+                "year": 1981,
+                "team": "South Carolina Gamecocks",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1983,
+                "team": "South Carolina Gamecocks",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1984,
+                "team": "South Carolina Gamecocks",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2002,
+                "team": "South Carolina Gamecocks",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2003,
+                "team": "South Carolina Gamecocks",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2007,
+                "team": "South Carolina Gamecocks",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2010,
+                "team": "South Carolina Gamecocks",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2011,
+                "team": "South Carolina Gamecocks",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2016,
+                "team": "South Carolina Gamecocks",
+                "sport": "soccer_w"
+            },
+            {
+                "year": 2017,
+                "team": "South Carolina Gamecocks",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 825033
+    },
+    {
+        "key": "Baton Rouge, LA",
+        "values": [
+            {
+                "year": 1909,
+                "team": "LSU Fighting Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1959,
+                "team": "LSU Fighting Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1991,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1993,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1996,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1997,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2000,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2004,
+                "team": "LSU Fighting Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2008,
+                "team": "LSU Fighting Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2009,
+                "team": "LSU Fighting Tigers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 834159
+    },
+    {
+        "key": "Pocatello, ID",
+        "values": [
+            {
+                "year": 1982,
+                "team": "Idaho State Bengals",
+                "sport": "football_m"
+            }
+        ],
+        "population": 85269
+    },
+    {
+        "key": "College Station, TX",
+        "values": [
+            {
+                "year": 1920,
+                "team": "Texas A&M Aggies",
+                "sport": "football_m"
+            },
+            {
+                "year": 1940,
+                "team": "Texas A&M Aggies",
+                "sport": "football_m"
+            },
+            {
+                "year": 2011,
+                "team": "Texas A&M Aggies",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 258044
+    },
+    {
+        "key": "Knoxville, TN",
+        "values": [
+            {
+                "year": 1952,
+                "team": "Tennessee Volunteers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1987,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1989,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1991,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1996,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1997,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1998,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1999,
+                "team": "Tennessee Volunteers",
+                "sport": "football_m"
+            },
+            {
+                "year": 2007,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2008,
+                "team": "Tennessee Volunteers",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 877104
+    },
+    {
+        "key": "Bozeman, MT",
+        "values": [
+            {
+                "year": 1985,
+                "team": "Montana State Bobcats",
+                "sport": "football_m"
+            }
+        ],
+        "population": 94720
+    },
+    {
+        "key": "East Lansing, MI",
+        "values": [
+            {
+                "year": 1953,
+                "team": "Michigan State Spartans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1966,
+                "team": "Michigan State Spartans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1967,
+                "team": "Michigan State Spartans",
+                "sport": "football_m"
+            },
+            {
+                "year": 1979,
+                "team": "Michigan State Spartans",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2000,
+                "team": "Michigan State Spartans",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 477656
+    },
+    {
+        "key": "Cheyenne, WY",
+        "values": [
+            {
+                "year": 1943,
+                "team": "Wyoming Cowboys",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 98327
+    },
+    {
+        "key": "Athens, GA",
+        "values": [
+            {
+                "year": 1981,
+                "team": "Georgia Bulldogs",
+                "sport": "football_m"
+            },
+            {
+                "year": 1990,
+                "team": "Georgia Bulldogs",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 209271
+    },
+    {
+        "key": "Carbondale, IL",
+        "values": [
+            {
+                "year": 1984,
+                "team": "Southern Illinois Salukis",
+                "sport": "football_m"
+            }
+        ],
+        "population": 125612
+    },
+    {
+        "key": "Waco, TX",
+        "values": [
+            {
+                "year": 2005,
+                "team": "Baylor Bears",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 2012,
+                "team": "Baylor Bears",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 268696
+    },
+    {
+        "key": "Youngstown, OH",
+        "values": [],
+        "population": 541926
+    },
+    {
+        "key": "Oklahoma City, OK",
+        "values": [
+            {
+                "year": 1951,
+                "team": "Oklahoma Sooners",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1951,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1956,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1957,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1975,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1976,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1986,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            },
+            {
+                "year": 1994,
+                "team": "Oklahoma Sooners",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2001,
+                "team": "Oklahoma Sooners",
+                "sport": "football_m"
+            }
+        ],
+        "population": 1383737
+    },
+    {
+        "key": "Austin, TX",
+        "values": [
+            {
+                "year": 1949,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1950,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1964,
+                "team": "Texas Longhorns",
+                "sport": "football_m"
+            },
+            {
+                "year": 1970,
+                "team": "Texas Longhorns",
+                "sport": "football_m"
+            },
+            {
+                "year": 1971,
+                "team": "Texas Longhorns",
+                "sport": "football_m"
+            },
+            {
+                "year": 1975,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1983,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1986,
+                "team": "Texas Longhorns",
+                "sport": "basketball_w"
+            },
+            {
+                "year": 1988,
+                "team": "Texas Longhorns",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 2002,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2005,
+                "team": "Texas Longhorns",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 2006,
+                "team": "Texas Longhorns",
+                "sport": "football_m"
+            },
+            {
+                "year": 2012,
+                "team": "Texas Longhorns",
+                "sport": "volleyball_w"
+            }
+        ],
+        "population": 2115827
+    },
+    {
+        "key": "Iowa City, IA",
+        "values": [
+            {
+                "year": 1959,
+                "team": "Iowa Hawkeyes",
+                "sport": "football_m"
+            }
+        ],
+        "population": 171491
+    },
+    {
+        "key": "Bowling Green, KY",
+        "values": [
+            {
+                "year": 2003,
+                "team": "Western Kentucky Hilltoppers",
+                "sport": "football_m"
+            }
+        ],
+        "population": 174835
+    },
+    {
+        "key": "Huntington, WV",
+        "values": [
+            {
+                "year": 1993,
+                "team": "Marshall Thundering Herd",
+                "sport": "football_m"
+            },
+            {
+                "year": 1997,
+                "team": "Marshall Thundering Herd",
+                "sport": "football_m"
+            }
+        ],
+        "population": 356474
+    },
+    {
+        "key": "Columbia, MO",
+        "values": [
+            {
+                "year": 1954,
+                "team": "Missouri Tigers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 178271
+    },
+    {
+        "key": "Tucson, AZ",
+        "values": [
+            {
+                "year": 1976,
+                "team": "Arizona Wildcats",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1980,
+                "team": "Arizona Wildcats",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1986,
+                "team": "Arizona Wildcats",
+                "sport": "baseball_m"
+            },
+            {
+                "year": 1997,
+                "team": "Arizona Wildcats",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 2012,
+                "team": "Arizona Wildcats",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 1022769
+    },
+    {
+        "key": "West Lafayette, IN",
+        "values": [
+            {
+                "year": 1999,
+                "team": "Purdue Boilermakers",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 219239
+    },
+    {
+        "key": "Charlottesville, VA",
+        "values": [
+            {
+                "year": 2015,
+                "team": "Virginia Cavaliers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 233793
+    },
+    {
+        "key": "Northwest Arkansas, AR",
+        "values": [
+            {
+                "year": 1965,
+                "team": "Arkansas Razorbacks",
+                "sport": "football_m"
+            },
+            {
+                "year": 1994,
+                "team": "Arkansas Razorbacks",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 537463
+    },
+    {
+        "key": "Greenville, SC",
+        "values": [
+            {
+                "year": 1982,
+                "team": "Clemson Tigers",
+                "sport": "football_m"
+            },
+            {
+                "year": 1989,
+                "team": "Furman Paladins",
+                "sport": "football_m"
+            },
+            {
+                "year": 2017,
+                "team": "Clemson Tigers",
+                "sport": "football_m"
+            }
+        ],
+        "population": 895923
+    },
+    {
+        "key": "Lubbock, TX",
+        "values": [
+            {
+                "year": 1993,
+                "team": "Texas Tech Red Raiders",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 316983
+    },
+    {
+        "key": "Boulder, CO",
+        "values": [
+            {
+                "year": 1991,
+                "team": "Colorado Buffaloes",
+                "sport": "football_m"
+            }
+        ],
+        "population": 322514
+    },
+    {
+        "key": "Honolulu, HI",
+        "values": [
+            {
+                "year": 1982,
+                "team": "Hawaii Warriors",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1983,
+                "team": "Hawaii Warriors",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1987,
+                "team": "Hawaii Warriors",
+                "sport": "volleyball_w"
+            }
+        ],
+        "population": 988650
+    },
+    {
+        "key": "Stockton, CA",
+        "values": [
+            {
+                "year": 1985,
+                "team": "Pacific Tigers",
+                "sport": "volleyball_w"
+            },
+            {
+                "year": 1986,
+                "team": "Pacific Tigers",
+                "sport": "volleyball_w"
+            }
+        ],
+        "population": 745424
+    },
+    {
+        "key": "Eugene, OR",
+        "values": [
+            {
+                "year": 1939,
+                "team": "Oregon Ducks",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 374748
+    },
+    {
+        "key": "Myrtle Beach Metro Area, SC",
+        "values": [
+            {
+                "year": 2016,
+                "team": "Coastal Carolina Chanticleers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 464165
+    },
+    {
+        "key": "Worcester, MA",
+        "values": [
+            {
+                "year": 1947,
+                "team": "Holy Cross Crusaders",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1952,
+                "team": "Holy Cross Crusaders",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 942475
+    },
+    {
+        "key": "Spokane, WA",
+        "values": [],
+        "population": 564236
+    },
+    {
+        "key": "Provo, UT",
+        "values": [
+            {
+                "year": 1985,
+                "team": "Brigham Young Cougars",
+                "sport": "football_m"
+            }
+        ],
+        "population": 617675
+    },
+    {
+        "key": "Springfield, MA",
+        "values": [
+            {
+                "year": 1999,
+                "team": "Massachusetts Minutemen",
+                "sport": "football_m"
+            }
+        ],
+        "population": 631652
+    },
+    {
+        "key": "Louisville, KY",
+        "values": [
+            {
+                "year": 1980,
+                "team": "Louisville Cardinals",
+                "sport": "basketball_m"
+            },
+            {
+                "year": 1986,
+                "team": "Louisville Cardinals",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 1283430
+    },
+    {
+        "key": "Wichita, KS",
+        "values": [
+            {
+                "year": 1989,
+                "team": "Wichita State Shockers",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 645628
+    },
+    {
+        "key": "Madison, WI",
+        "values": [
+            {
+                "year": 1941,
+                "team": "Wisconsin Badgers",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 654230
+    },
+    {
+        "key": "Winston-Salem, NC",
+        "values": [
+            {
+                "year": 1955,
+                "team": "Wake Forest Demon Deacons",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 667733
+    },
+    {
+        "key": "Boise City, ID",
+        "values": [
+            {
+                "year": 1981,
+                "team": "Boise State Broncos",
+                "sport": "football_m"
+            }
+        ],
+        "population": 709845
+    },
+    {
+        "key": "Lehigh Valley, NJ-PA",
+        "values": [
+            {
+                "year": 1897,
+                "team": "Lafayette Leopards",
+                "sport": "football_m"
+            }
+        ],
+        "population": 840550
+    },
+    {
+        "key": "El Paso, TX",
+        "values": [
+            {
+                "year": 1966,
+                "team": "UTEP Miners",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 844818
+    },
+    {
+        "key": "Fresno, CA",
+        "values": [
+            {
+                "year": 2008,
+                "team": "Fresno State Bulldogs",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 989255
+    },
+    {
+        "key": "Richmond, VA",
+        "values": [
+            {
+                "year": 2009,
+                "team": "Richmond Spiders",
+                "sport": "football_m"
+            }
+        ],
+        "population": 1294204
+    },
+    {
+        "key": "Norfolk, VA",
+        "values": [
+            {
+                "year": 1985,
+                "team": "Old Dominion Monarchs",
+                "sport": "basketball_w"
+            }
+        ],
+        "population": 1725246
+    },
+    {
+        "key": "Nashville, TN",
+        "values": [
+            {
+                "year": 2014,
+                "team": "Vanderbilt Commodores",
+                "sport": "baseball_m"
+            }
+        ],
+        "population": 1903045
+    },
+    {
+        "key": "Las Vegas, NV",
+        "values": [
+            {
+                "year": 1990,
+                "team": "Nevada-Las Vegas Rebels",
+                "sport": "basketball_m"
+            }
+        ],
+        "population": 2204079
+    },
+    {
+        "key": "Buffalo, NY",
+        "values": [],
+        "population": 256902
+    },
+    {
+        "key": "Charlotte Metro Area, NC",
+        "values": [],
+        "population": 2474314
+    },
+    {
+        "key": "Birmingham Metro Area, AL",
+        "values": [],
+        "population": 212157
+    },
+    {
+        "key": "San Diego, CA",
+        "values": [],
+        "population": 1407000
+    },
+    {
+        "key": "Akron, OH",
+        "values": [],
+        "population": 197633
+    },
+    {
+        "key": "Charleston Metro Area, SC",
+        "values": [],
+        "population": 664607
+    },
+    {
+        "key": "Toledo, OH",
+        "values": [],
+        "population": 278508
+    },
+    {
+        "key": "Capital District, NY",
+        "values": [],
+        "population": 98111
+    },
+    {
+        "key": "Dayton, OH",
+        "values": [],
+        "population": 140489
+    },
+    {
+        "key": "Jacksonville, FL",
+        "values": [],
+        "population": 880619
+    },
+    {
+        "key": "Omaha, NE",
+        "values": [],
+        "population": 446970
+    },
+    {
+        "key": "Blacksburg, VA",
+        "values": [],
+        "population": 45038
+    },
+    {
+        "key": "Tulsa, OK",
+        "values": [],
+        "population": 403090
+    },
+    {
+        "key": "Greater Bridgeport, CT",
+        "values": [],
+        "population": 305000
+    },
+    {
+        "key": "Spartanburg, SC",
+        "values": [],
+        "population": 37876
+    },
+    {
+        "key": "Colorado Springs, CO",
+        "values": [],
+        "population": 465101
+    },
+    {
+        "key": "Little Rock Metro, AR",
+        "values": [],
+        "population": 738344
+    },
+    {
+        "key": "Memphis, TN",
+        "values": [],
+        "population": 652717
+    },
+    {
+        "key": "Abilene, TX",
+        "values": [],
+        "population": 122225
+    },
+    {
+        "key": "Deltona-Daytona Beach-Ormond Beach, FL",
+        "values": [],
+        "population": 623279
+    },
+    {
+        "key": "Greater Orlando, FL",
+        "values": [],
+        "population": 2134411
+    },
+    {
+        "key": "Gulfport-Biloxi Metro Area, MS",
+        "values": [],
+        "population": 246190
+    },
+    {
+        "key": "Normal, IL",
+        "values": [],
+        "population": 54264
+    },
+    {
+        "key": "Kalamazoo, MI",
+        "values": [],
+        "population": 75984
+    },
+    {
+        "key": "Sacramento, CA",
+        "values": [],
+        "population": 495234
+    },
+    {
+        "key": "Springfield, MO",
+        "values": [],
+        "population": 167319
+    },
+    {
+        "key": "Terre Haute, IN",
+        "values": [],
+        "population": 60852
+    },
+    {
+        "key": "Cedar Falls, IA",
+        "values": [],
+        "population": 41390
+    },
+    {
+        "key": "Logan, UT",
+        "values": [],
+        "population": 50676
+    },
+    {
+        "key": "Mobile, AL",
+        "values": [],
+        "population": 192904
+    },
+    {
+        "key": "Shreveport-Bossier City, LA",
+        "values": [],
+        "population": 68485
+    },
+    {
+        "key": "Lexington, VA",
+        "values": [],
+        "population": 7045
+    },
+    {
+        "key": "Ames, IA",
+        "values": [],
+        "population": 66191
+    },
+    {
+        "key": "Des Moines, IA",
+        "values": [],
+        "population": 215472
+    },
+    {
+        "key": "Jonesboro, AR",
+        "values": [],
+        "population": 74889
+    },
+    {
+        "key": "Lafayette, LA",
+        "values": [],
+        "population": 127626
+    },
+    {
+        "key": "Lake Charles, LA",
+        "values": [],
+        "population": 76848
+    },
+    {
+        "key": "Las Cruces, NM",
+        "values": [],
+        "population": 101759
+    },
+    {
+        "key": "Manhattan, KS",
+        "values": [],
+        "population": 53678
+    },
+    {
+        "key": "Morgantown, WV",
+        "values": [],
+        "population": 30855
+    },
+    {
+        "key": "Reno, NV",
+        "values": [],
+        "population": 245255
+    },
+    {
+        "key": "Hanover, PA",
+        "values": [],
+        "population": 15561
+    },
+    {
+        "key": "Athens, OH",
+        "values": [],
+        "population": 25341
+    },
+    {
+        "key": "Cullowhee, NC",
+        "values": [],
+        "population": 9428
+    },
+    {
+        "key": "Hamilton, NY",
+        "values": [],
+        "population": 4122
+    },
+    {
+        "key": "Orono, ME",
+        "values": [],
+        "population": 9548
+    },
+    {
+        "key": "Pullman, WA",
+        "values": [],
+        "population": 33282
+    },
+    {
+        "key": "South Orange, NJ",
+        "values": [],
+        "population": 16319
+    },
+    {
+        "key": "Starkville, MS",
+        "values": [],
+        "population": 25570
+    },
+    {
+        "key": "Albuquerque, NM",
+        "values": [],
+        "population": 559277
+    },
+    {
+        "key": "Beaumont-Port Arthur, TX",
+        "values": [],
+        "population": 388745
+    },
+    {
+        "key": "Burlington, VT",
+        "values": [],
+        "population": 42260
+    },
+    {
+        "key": "Chattanooga, TN",
+        "values": [],
+        "population": 177571
+    },
+    {
+        "key": "Evansville, IN",
+        "values": [],
+        "population": 119477
+    },
+    {
+        "key": "Flagstaff, AZ",
+        "values": [],
+        "population": 71459
+    },
+    {
+        "key": "Fort Collins, CO",
+        "values": [],
+        "population": 164207
+    },
+    {
+        "key": "Greeley, CO",
+        "values": [],
+        "population": 103990
+    },
+    {
+        "key": "Greenville, NC",
+        "values": [],
+        "population": 91495
+    },
+    {
+        "key": "Hattiesburg, MS",
+        "values": [],
+        "population": 46926
+    },
+    {
+        "key": "Johnson City, TN",
+        "values": [],
+        "population": 66677
+    },
+    {
+        "key": "Lynchburg, VA",
+        "values": [],
+        "population": 80212
+    },
+    {
+        "key": "Macon-Bibb County, GA",
+        "values": [],
+        "population": 93072
+    },
+    {
+        "key": "Muncie, IN",
+        "values": [],
+        "population": 69010
+    },
+    {
+        "key": "Inland Empire, CA",
+        "values": [],
+        "population": 4200000
+    },
+    {
+        "key": "Santa Maria-Santa Barbara, CA",
+        "values": [],
+        "population": 106290
+    },
+    {
+        "key": "Savannah, GA",
+        "values": [],
+        "population": 146763
+    },
+    {
+        "key": "Wilmington, NC",
+        "values": [],
+        "population": 117525
+    },
+    {
+        "key": "Lorman, MS",
+        "values": [],
+        "population": 1812
+    },
+    {
+        "key": "Lewisburg, PA",
+        "values": [],
+        "population": 5699
+    },
+    {
+        "key": "Mount Pleasant, MI",
+        "values": [],
+        "population": 26313
+    },
+    {
+        "key": "Williamsburg, VA",
+        "values": [],
+        "population": 15214
+    },
+    {
+        "key": "Oxford, OH",
+        "values": [],
+        "population": 22341
+    },
+    {
+        "key": "Murfreesboro, TN",
+        "values": [],
+        "population": 131947
+    },
+    {
+        "key": "Itta Bena, MS",
+        "values": [],
+        "population": 1931
+    },
+    {
+        "key": "Natchitoches, LA",
+        "values": [],
+        "population": 18319
+    },
+    {
+        "key": "San Marcos, TX",
+        "values": [],
+        "population": 61980
+    },
+    {
+        "key": "Troy, AL",
+        "values": [],
+        "population": 19191
+    },
+    {
+        "key": "Annapolis, MD",
+        "values": [],
+        "population": 39418
+    },
+    {
+        "key": "Moscow, ID",
+        "values": [],
+        "population": 25322
+    },
+    {
+        "key": "Durham, NH",
+        "values": [],
+        "population": 16431
+    },
+    {
+        "key": "Fort Wayne, IN",
+        "values": [],
+        "population": 264488
+    },
+    {
+        "key": "Edinburg, TX",
+        "values": [],
+        "population": 87650
+    },
+    {
+        "key": "Peoria, IL",
+        "values": [],
+        "population": 114265
+    },
+    {
+        "key": "Allegany, NY",
+        "values": [],
+        "population": 7662
+    },
+    {
+        "key": "Huntsville, TX",
+        "values": [],
+        "population": 41208
+    },
+    {
+        "key": "Nacogdoches, TX",
+        "values": [],
+        "population": 33932
+    },
+    {
+        "key": "Amarillo, TX",
+        "values": [],
+        "population": 199582
+    },
+    {
+        "key": "Calhoun County, AL",
+        "values": [],
+        "population": 115620
+    },
+    {
+        "key": "Asheville, NC",
+        "values": [],
+        "population": 89121
+    },
+    {
+        "key": "Bakersfield, CA",
+        "values": [],
+        "population": 376380
+    },
+    {
+        "key": "Binghamton, NY",
+        "values": [],
+        "population": 45672
+    },
+    {
+        "key": "Burlington, NC",
+        "values": [],
+        "population": 52709
+    },
+    {
+        "key": "Cape Coral-Fort Myers, FL",
+        "values": [],
+        "population": 77146
+    },
+    {
+        "key": "Cape Girardeau, MO-IL",
+        "values": [],
+        "population": 97422
+    },
+    {
+        "key": "Clarksville, TN-KY",
+        "values": [],
+        "population": 153205
+    },
+    {
+        "key": "Corpus Christi, TX",
+        "values": [],
+        "population": 325733
+    },
+    {
+        "key": "Dover, DE",
+        "values": [],
+        "population": 37786
+    },
+    {
+        "key": "Grand Forks, ND",
+        "values": [],
+        "population": 57339
+    },
+    {
+        "key": "Piedmont Triad, NC",
+        "values": [],
+        "population": 1640717
+    },
+    {
+        "key": "Hammond, LA",
+        "values": [],
+        "population": 20609
+    },
+    {
+        "key": "Houma-Thibodaux, LA",
+        "values": [],
+        "population": 208178
+    },
+    {
+        "key": "Huntsville, AL",
+        "values": [],
+        "population": 193079
+    },
+    {
+        "key": "Johnstown, PA",
+        "values": [],
+        "population": 19712
+    },
+    {
+        "key": "Montgomery, AL",
+        "values": [],
+        "population": 200022
+    },
+    {
+        "key": "Ogden-Clearfield, UT",
+        "values": [],
+        "population": 547184
+    },
+    {
+        "key": "Pine Bluff, AR",
+        "values": [],
+        "population": 43841
+    },
+    {
+        "key": "Trenton, NJ",
+        "values": [],
+        "population": 84056
+    },
+    {
+        "key": "Charleston\u2013Mattoon, IL",
+        "values": [],
+        "population": 61980
+    },
+    {
+        "key": "Cedar City, UT",
+        "values": [],
+        "population": 31223
+    },
+    {
+        "key": "Valparaiso, IN",
+        "values": [],
+        "population": 33104
+    },
+    {
+        "key": "Buies Creek, NC",
+        "values": [],
+        "population": 2942
+    },
+    {
+        "key": "Poughkeepsie, NY",
+        "values": [],
+        "population": 30267
+    },
+    {
+        "key": "Morehead, KY",
+        "values": [],
+        "population": 7758
+    },
+    {
+        "key": "Murray, KY",
+        "values": [],
+        "population": 19006
+    },
+    {
+        "key": "Orangeburg, SC",
+        "values": [],
+        "population": 13196
+    },
+    {
+        "key": "Brookings, SD",
+        "values": [],
+        "population": 23895
+    },
+    {
+        "key": "Stony Brook, NY",
+        "values": [],
+        "population": 13740
+    },
+    {
+        "key": "Cookeville, TN",
+        "values": [],
+        "population": 32622
+    },
+    {
+        "key": "Davis, CA",
+        "values": [],
+        "population": 68111
+    },
+    {
+        "key": "Martin, TN",
+        "values": [],
+        "population": 10768
+    },
+    {
+        "key": "Macomb, IL",
+        "values": [],
+        "population": 18352
+    },
+    {
+        "key": "Harrisburg-Carlisle, PA",
+        "values": [],
+        "population": 647390
+    },
+    {
+        "key": "Portland-South Portland, ME",
+        "values": [],
+        "population": 66937
+    },
+    {
+        "key": "Salisbury, MD",
+        "values": [],
+        "population": 110291
+    },
+    {
+        "key": "Farmville, VA",
+        "values": [],
+        "population": 8140
+    },
+    {
+        "key": "Long Branch, NJ",
+        "values": [],
+        "population": 30763
+    },
+    {
+        "key": "Emmitsburg, MD",
+        "values": [],
+        "population": 3038
+    },
+    {
+        "key": "Vermillion, SD",
+        "values": [],
+        "population": 10844
+    },
+    {
+        "key": "Williamstown, MA",
+        "values": [],
+        "population": 7758
+    },
+    {
+        "key": "Augusta Metro Area, GA-SC",
+        "values": [],
+        "population": 583632
+    },
+    {
+        "key": "Cedar Rapids, IA",
+        "values": [],
+        "population": 131127
+    },
+    {
+        "key": "Quad Cities, IL",
+        "values": [],
+        "population": 474937
+    },
+    {
+        "key": "Utica-Rome, NY",
+        "values": [],
+        "population": 299397
+    },
+    {
+        "key": "Twin Ports, MN",
+        "values": [],
+        "population": 279771
+    },
+    {
+        "key": "Georgetown,TX",
+        "values": [],
+        "population": 67140
+    },
+    {
+        "key": "West Chester, PA",
+        "values": [],
+        "population": 19928
+    },
+    {
+        "key": "Quebec City, QC",
+        "values": [],
+        "population": 538238
+    },
+    {
+        "key": "Appleton, WI",
+        "values": [],
+        "population": 74370
+    },
+    {
+        "key": "Charleston, WV",
+        "values": [],
+        "population": 49138
+    },
+    {
+        "key": "Enid, OK",
+        "values": [],
+        "population": 51004
+    },
+    {
+        "key": "Erie, PA",
+        "values": [],
+        "population": 98593
+    },
+    {
+        "key": "Gettysburg, PA",
+        "values": [],
+        "population": 7700
+    },
+    {
+        "key": "Jackson, MS",
+        "values": [],
+        "population": 169148
+    },
+    {
+        "key": "Janesville-Beloit, WI",
+        "values": [],
+        "population": 100541
+    },
+    {
+        "key": "Lancaster, PA",
+        "values": [],
+        "population": 59218
+    },
+    {
+        "key": "Norwich-New London, CT",
+        "values": [],
+        "population": 39556
+    },
+    {
+        "key": "Racine, WI",
+        "values": [],
+        "population": 77571
+    },
+    {
+        "key": "Springfield, OH",
+        "values": [],
+        "population": 59087
+    },
+    {
+        "key": "Topeka, KS",
+        "values": [],
+        "population": 126808
+    },
+    {
+        "key": "Williamsport, PA",
+        "values": [],
+        "population": 28834
+    },
+    {
+        "key": "Laramie, WY",
+        "values": [],
+        "population": 32382
+    },
+    {
+        "key": "Danville, KY",
+        "values": [],
+        "population": 16802
+    },
+    {
+        "key": "Waterville, ME",
+        "values": [],
+        "population": 16406
+    },
+    {
+        "key": "Lebanon, TN",
+        "values": [],
+        "population": 31317
+    },
+    {
+        "key": "Grinnell, IA",
+        "values": [],
+        "population": 9151
+    },
+    {
+        "key": "Galesburg, IL",
+        "values": [],
+        "population": 30960
+    },
+    {
+        "key": "Sewanee, TN",
+        "values": [],
+        "population": 2311
+    },
+    {
+        "key": "Swarthmore, PA",
+        "values": [],
+        "population": 6239
+    },
+    {
+        "key": "Crawfordsville, IN",
+        "values": [],
+        "population": 16001
+    },
+    {
+        "key": "Chestertown, MD",
+        "values": [],
+        "population": 5080
+    },
+    {
+        "key": "Gunnison, CO",
+        "values": [],
+        "population": 6261
+    },
+    {
+        "key": "Newburgh, NY",
+        "values": [],
+        "population": 28200
+    },
+    {
+        "key": "Old Westbury, NY",
+        "values": [],
+        "population": 4743
+    },
+    {
+        "key": "Portsmouth, OH",
+        "values": [],
+        "population": 20422
+    },
+    {
+        "key": "Pottsville, PA",
+        "values": [],
+        "population": 13738
+    },
+    {
+        "key": "Albany, GA",
+        "values": [],
+        "population": 3038
+    },
+    {
+        "key": "Battle Creek, MI",
+        "values": [],
+        "population": 51534
+    },
+    {
+        "key": "Chico, CA",
+        "values": [],
+        "population": 91567
+    },
+    {
+        "key": "Dubuque, IA",
+        "values": [],
+        "population": 58531
+    },
+    {
+        "key": "Florence, SC",
+        "values": [],
+        "population": 38317
+    },
+    {
+        "key": "Lakeland-Winter Haven, FL",
+        "values": [],
+        "population": 666149
+    },
+    {
+        "key": "Owensboro, KY",
+        "values": [],
+        "population": 59273
+    },
+    {
+        "key": "Pueblo, CO",
+        "values": [],
+        "population": 110291
+    },
+    {
+        "key": "Rockford, IL",
+        "values": [],
+        "population": 147651
+    },
+    {
+        "key": "Wyoming Valley, PA",
+        "values": [],
+        "population": 563631
+    },
+    {
+        "key": "Vallejo-Fairfield, CA",
+        "values": [],
+        "population": 440207
+    },
+    {
+        "key": "Walla Walla, WA",
+        "values": [],
+        "population": 32132
+    },
+    {
+        "key": "Marion, OH",
+        "values": [],
+        "population": 36310
+    },
+    {
+        "key": "Granville, OH",
+        "values": [],
+        "population": 5646
+    },
+    {
+        "key": "Due West, SC",
+        "values": [],
+        "population": 1292
+    },
+    {
+        "key": "Columbus, GA",
+        "values": [],
+        "population": 197485
+    },
+    {
+        "key": "Hampden-Sydney, VA",
+        "values": [],
+        "population": 1450
+    },
+    {
+        "key": "Maryville, TN",
+        "values": [],
+        "population": 28703
+    },
+    {
+        "key": "Quantico, VA",
+        "values": [],
+        "population": 540
+    },
+    {
+        "key": "Indianola, IA",
+        "values": [],
+        "population": 15785
+    },
+    {
+        "key": "Buckhannon, WV",
+        "values": [],
+        "population": 5612
+    },
+    {
+        "key": "Cheyney, PA",
+        "values": [],
+        "population": 988
+    },
+    {
+        "key": "Cleveland, MS",
+        "values": [],
+        "population": 12101
+    },
+    {
+        "key": "Oskaloosa, IA",
+        "values": [],
+        "population": 11523
+    },
+    {
+        "key": "Brockport, NY",
+        "values": [],
+        "population": 8319
+    },
+    {
+        "key": "Findlay, OH",
+        "values": [],
+        "population": 41422
+    },
+    {
+        "key": "Hilo, HI",
+        "values": [],
+        "population": 43263
+    },
+    {
+        "key": "Harrison, NY",
+        "values": [],
+        "population": 28340
+    },
+    {
+        "key": "Orange City, IA",
+        "values": [],
+        "population": 6179
+    },
+    {
+        "key": "Bolivar, MO",
+        "values": [],
+        "population": 10795
+    },
+    {
+        "key": "Kirksville, MO",
+        "values": [],
+        "population": 17519
+    },
+    {
+        "key": "Valley City, ND",
+        "values": [],
+        "population": 87650
+    }
+]
