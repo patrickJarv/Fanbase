@@ -9,9 +9,9 @@ import pymysql
 pymysql.install_as_MySQLdb()
 import pandas as pd
 
-import firebase_admin
-from firebase_admin import credentials
-from firebase_admin import db
+# import firebase_admin
+# from firebase_admin import credentials
+# from firebase_admin import db
 import json
 
 from SQL.query import query_sql, query_sql_multi, query_sql_not_multi, query_awards, query_player
@@ -87,13 +87,13 @@ if __name__ == "__main__":
     my_conn = sqlalchemy.create_engine(f'mysql+mysqldb://{username}:{password}@{host}:{port}/{database}')
     user_input = {}
 
-    cred = credentials.Certificate("Fanbase/NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
-    default_app = firebase_admin.initialize_app(cred, {
-        'databaseURL': 'https://project-d247d-default-rtdb.firebaseio.com/',
-    })
-    USERS_REF = db.reference('users')
-    METROS_REF = db.reference('metros').get()
-    print(METROS_REF[0])
+    # cred = credentials.Certificate("Fanbase/NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
+    # default_app = firebase_admin.initialize_app(cred, {
+    #     'databaseURL': 'https://project-d247d-default-rtdb.firebaseio.com/',
+    # })
+    # USERS_REF = db.reference('users')
+    # METROS_REF = db.reference('metros').get()
+    # print(METROS_REF[0])
     
     print()
     print("Welcome to the Fan Bases Program!")
@@ -114,17 +114,28 @@ if __name__ == "__main__":
             print_help()
         elif response == 'login':
             print("Username: ", end='')
-            user = input()
+            username = input()
             print('Password: ', end='')
             pw = input()
+            print('Favorite Team: ', end='')
+            ft = input()
             # validate using NoSQL
+            # check if username exists in Users table
+            # check if password is correct
+            # then user = username
         elif response == 'signup':
             print("Username: ", end='')
-            user = input()
+            username = input()
             # validate that username isn't already taken
             print('Password: ', end='')
             pw = input()
             # input into NoSQL
+        elif response == 'logout':
+            if user is None:
+                print('')
+            else:
+                print()
+                user = None
         elif params[0] == 'position_stat' or params[0] == 'pitcher_stat':
             resp = evaluate_query(params)
             if resp is not None:
@@ -144,6 +155,7 @@ if __name__ == "__main__":
         elif params[0] == 'show':
             if len(params) == 2:
                 id = params[1]
+                #SQL show favorite
                 if id not in user_input:
                     print("Variable " + id + " is not registered.")
                 else:
@@ -188,7 +200,7 @@ if __name__ == "__main__":
                         stored_val = params[2]
                         if stored_val in user_input:
                             # NoSQL insert list of IDs as favorite
-                            continue
+                            print(list(user_input[stored_val]['Id']))
         # start of NoSQL ---------------------------------------------------------------                            
         elif params[0] == 'nosql':
             if params[1] == 'users':
