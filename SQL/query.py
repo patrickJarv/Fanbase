@@ -1,4 +1,5 @@
 import pandas as pd
+from sqlalchemy import text
 
 position_cols = "t.Id, t.Name, t.Age, t.team, t.league, t.G, t.PA, t.AB, t.R, t.H, t.2B, t.3B, t.HR, t.RBI, t.SB, t.CS, t.BB, t.SO, t.BA, t.OBP, t.SLG, t.OPS, t.OPSp, t.TB, t.GDP, t.HBP, t.SH, t.SF, t.IBB"
 pitcher_cols = "t.id, t.name, t.age, t.team, t.league, t.W, t.L, t.WLperc, t.ERA, t.G, t.GS, t.GF, t.CG, t.SHO, t.SV, t.IP, t.H, t.R, t.ER, t.HR, t.BB, t.IBB, t.SO, t.HBP, t.BK, t.WP, t.BF, t.ERAp, t.FIP, t.WHIP, t.H9, t.HR9, t.BB9, t.SO9, t.SO/W"
@@ -78,3 +79,52 @@ def query_awards(cols, filters, user, conn):
         print(df)
     except:
         print("Invalid filter syntax")
+
+def query_player(full_name, user, conn):
+    names = full_name.split()
+    id_pattern = names[0].lower() + "_" + names[1].lower() + "%"
+    sql_string = "SELECT * FROM mlb_players WHERE pid LIKE \"" + id_pattern + "\""
+    df = pd.read_sql(text(sql_string), conn)
+    if len(df) == 0:
+        print(full_name + " is not a registered player.")
+    else:
+        for i in range(len(df)):
+            player_val = df.iloc[i].to_dict()
+            player_id = player_val['pid']
+            teams = [player_val['team1']]
+            player_type = "Pitcher" if player_val['pitcher'] == 1 else "Position"
+
+
+            if player_val['team2'] != '':
+                teams.append(player_val['team2'])
+            if player_val['team3'] != '':
+                teams.append(player_val['team3'])
+            if player_val['team4'] != '':
+                teams.append(player_val['team4'])
+
+            stat_df = None
+            if player_type == "Pitcher":
+                sql_string = f'SELECT * FROM mlb_pitcher WHERE id="{player_id}"'
+                stat_df = pd.read_sql(text(sql_string), conn)
+            else:
+                sql_string = f'SELECT * FROM mlb_position WHERE id="{player_id}"'
+                stat_df = pd.read_sql(text(sql_string), conn)
+
+            user_query = "(user_id = \"MLB\")"
+            if user is not None:
+                user_query = f'(user_id = "MLB" or user_id="{user}")'
+
+            award_df = pd.read_sql(text(f'SELECT * FROM mlb_awards WHERE id="{player_id}" AND {user_query}'), conn)
+            awards = "None"
+            if len(award_df) > 0:
+                awards = ", ".join(list(award_df['award']))
+            print("----------------------------------------------------------")
+            print(full_name + " - " + player_type)
+            print("Teams: " +", ".join(teams))
+            print("Player Stats: ")
+            print(stat_df)
+            print('Awards: ' + awards)
+            print("----------------------------------------------------------")
+            print()
+            print()
+
