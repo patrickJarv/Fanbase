@@ -43,10 +43,10 @@ def print_help():
     print('\t\tshow set_variable_name')
     print()
     print('\t\tcolumns names = {"metro", "population", "region", "teams"}')
-    print('\t\tnosql metros select [column names]')
-    print('\t\tnosql metros filter [column name (not "teams")] [operator {<=/==/>=/...}] [value]')
-    print('\t\tnosql metros group')
-    print('\t\tnosql metros order [column name (not "teams")] [operator {"asc"/"desc"]')
+    print('\t\tmetros select [column names]')
+    print('\t\tmetros filter [column name (not "teams")] [operator {<=/==/>=/...}] [value]')
+    print('\t\tmetros group')
+    print('\t\tmetros order [column name (not "teams")] [operator {"asc"/"desc"]')
     print()
     print('\tSet Variable:')
     print('\t\tvar_name = position_stat ...')
@@ -54,15 +54,15 @@ def print_help():
     print()
     print('\tInsert')
     print('\t\tinsert award award_name player_id')
-    print('\t\tnosql users insert [username] [password] [favorite_team]')
+    print('\t\tusers insert [username] [password] [favorite_team]')
     print()
     print('\tUpdate')
     print('\t\tupdate award old_award_name new_award_name')
-    print('\t\tnosql users update [username] [favorite_team/password]')
+    print('\t\tusers update [username] [favorite_team/password]')
     print()
     print('\tDelete')
     print('\t\tdelete award award_name player_id')
-    print('\t\tnosql users delete [username]')
+    print('\t\tusers delete [username]')
     print()
     print('\tOther commands')
     print('\t\tquit')
@@ -228,92 +228,91 @@ if __name__ == "__main__":
                             # NoSQL insert list of IDs as favorite
                             print(list(user_input[stored_val]['Id']))
         # start of NoSQL ---------------------------------------------------------------                            
-        elif params[0] == 'nosql':
-            if params[1] == 'users':
-                if params[2] == 'read':
-                    users_dict = USERS_REF.get()
-                    for user, data in users_dict.items():
-                        print(f'\n{user}:')
-                        print(json.dumps(data, indent=4))
-                else:
-                    username = params[3]
-                    res = find_user(username, USERS_REF)
-                    if find_user(username, USERS_REF):
-                        if params[2] == 'insert': 
-                            print('User already exists.')
-                        elif params[2] == 'update':
-                            favorite_team = params[4]
-                            USERS_REF.child(username).update({
-                                'favorite_team': favorite_team
-                            })
-                            print('User updated successfully!')
-                        elif params[2] == 'delete':
-                            USERS_REF.child(username).delete()
-                            print('User deleted successfully!')
-                    elif not find_user(username, USERS_REF):
-                        if params[2] == 'insert':
-                            pwd = params[4]
-                            favorite_team = params[5]
-                            USERS_REF.child(username).set({
-                                'password': pwd,
-                                'favorite_team': favorite_team
-                            })
-                            print('User created successfully!')
-                        else:
-                            output_error(res)
-                    else: # res == None
+        elif params[0] == 'users':
+            if params[1] == 'read':
+                users_dict = USERS_REF.get()
+                for user, data in users_dict.items():
+                    print(f'\n{user}:')
+                    print(json.dumps(data, indent=4))
+            else:
+                username = params[2]
+                res = find_user(username, USERS_REF)
+                if find_user(username, USERS_REF):
+                    if params[1] == 'insert': 
+                        print('User already exists.')
+                    elif params[1] == 'update':
+                        favorite_team = params[4]
+                        USERS_REF.child(username).update({
+                            'favorite_team': favorite_team
+                        })
+                        print('User updated successfully!')
+                    elif params[1] == 'delete':
+                        USERS_REF.child(username).delete()
+                        print('User deleted successfully!')
+                elif not find_user(username, USERS_REF):
+                    if params[1] == 'insert':
+                        pwd = params[3]
+                        favorite_team = params[4]
+                        USERS_REF.child(username).set({
+                            'password': pwd,
+                            'favorite_team': favorite_team
+                        })
+                        print('User created successfully!')
+                    else:
                         output_error(res)
-            elif params[1] == 'metros':
-                print('Using NoSQL to query metros...')
-                if params[2] == 'select':
-                    COLS = params[3:]
-                    res = [select(obj, COLS) for obj in METROS_REF]
-                elif params[2] == 'filter':
-                    COL = params[3]
-                    OP = params[4]
-                    VAL = params[5]
+                else: # res == None
+                    output_error(res)
+        elif params[0] == 'metros':
+            print('Using NoSQL to query metros...')
+            if params[1] == 'select':
+                COLS = params[2:]
+                res = [select(obj, COLS) for obj in METROS_REF]
+            elif params[1] == 'filter':
+                COL = params[2]
+                OP = params[3]
+                VAL = params[4]
 
-                    res = [obj for obj in METROS_REF if compare(obj[COL], OP, VAL)]
-                elif params[2] == 'group':
-                    COL = 'region'
-                    AGGS = ['count', 'sum', 'avg', 'min', 'max']
-                    AGG_COL = 'population'  
+                res = [obj for obj in METROS_REF if compare(obj[COL], OP, VAL)]
+            elif params[1] == 'group':
+                COL = 'region'
+                AGGS = ['count', 'sum', 'avg', 'min', 'max']
+                AGG_COL = 'population'  
 
-                    groups = {}
-                    for obj in METROS_REF:
-                        if obj[COL] in groups:
-                            groups[obj[COL]].append(obj)
-                        else:
-                            groups[obj[COL]] = [obj]
+                groups = {}
+                for obj in METROS_REF:
+                    if obj[COL] in groups:
+                        groups[obj[COL]].append(obj)
+                    else:
+                        groups[obj[COL]] = [obj]
 
-                    aggs = []
-                    for region_group, metro in groups.items():
-                        obj = {}
-                        obj[COL] = region_group
+                aggs = []
+                for region_group, metro in groups.items():
+                    obj = {}
+                    obj[COL] = region_group
 
-                        obj['min'], obj['max'] = float('inf'), float('-inf')
-                        obj['sum'] = 0
-                        for metro_area in metro:
-                            val = metro_area[AGG_COL]
-                            obj['min'] = min(val, obj['min'])
-                            obj['max'] = max(val, obj['max'])
-                            obj['sum'] += val
-                        obj['count'] = len(metro)
-                        obj['avg'] = obj['sum'] / len(metro)
+                    obj['min'], obj['max'] = float('inf'), float('-inf')
+                    obj['sum'] = 0
+                    for metro_area in metro:
+                        val = metro_area[AGG_COL]
+                        obj['min'] = min(val, obj['min'])
+                        obj['max'] = max(val, obj['max'])
+                        obj['sum'] += val
+                    obj['count'] = len(metro)
+                    obj['avg'] = obj['sum'] / len(metro)
 
-                        aggs.append(obj)
-                    pprint(aggs)
-                    continue
-                elif params[2] == 'order':
-                    COL = params[3]
-                    OP = params[4]
-                    a = [(obj[COL], obj) for obj in METROS_REF]
-                    res = order(a, OP)
-                else:
-                    output_error('Invalid syntax.')
-                    continue
-                for obj in res:
-                    print(json.dumps(obj, indent=4))
+                    aggs.append(obj)
+                pprint(aggs)
+                continue
+            elif params[1] == 'order':
+                COL = params[2]
+                OP = params[3]
+                a = [(obj[COL], obj) for obj in METROS_REF]
+                res = order(a, OP)
+            else:
+                output_error('Invalid syntax.')
+                continue
+            for obj in res:
+                print(json.dumps(obj, indent=4))
         elif len(params) > 1:
             if params[1] == "=":
                 var_name = params[0]
