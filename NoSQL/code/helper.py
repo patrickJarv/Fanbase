@@ -52,4 +52,3 @@ def order(a, op):
         return second_elements[::-1]
     elif op == 'asc':
         return second_elements
-

@@ -12,7 +12,10 @@ import pandas as pd
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
+<<<<<<< HEAD
 
+=======
+>>>>>>> ffedea21e3efbe839e430a25bc2859bac0119717
 import json
 
 from SQL.query import query_sql, query_sql_multi, query_sql_not_multi, query_awards, query_player
@@ -43,18 +46,27 @@ def print_help():
     print('\t\tshow player_fname player_lname')
     print('\t\tshow set_variable_name')
     print()
+    print('\t\tcolumns names = {"metro", "population", "region", "teams"}')
+    print('\t\tnosql metros select [column names]')
+    print('\t\tnosql metros filter [column name (not "teams")] [operator {<=/==/>=/...}] [value]')
+    print('\t\tnosql metros group')
+    print('\t\tnosql metros order [column name (not "teams")] [operator {"asc"/"desc"]')
+    print()
     print('\tSet Variable:')
     print('\t\tvar_name = position_stat ...')
     print('\t\tvar_name = pitcher_stat ...')
     print()
     print('\tInsert')
     print('\t\tinsert award award_name player_id')
+    print('\t\tnosql users insert [username] [password] [favorite_team]')
     print()
     print('\tUpdate')
     print('\t\tupdate award old_award_name new_award_name')
+    print('\t\tnosql users update [username] [favorite_team/password]')
     print()
     print('\tDelete')
     print('\t\tdelete award award_name player_id')
+    print('\t\tnosql users delete [username]')
     print()
     print('\tOther commands')
     print('\t\tquit')
@@ -82,6 +94,17 @@ def evaluate_query(params):
 
     else:
         return query_sql(params[0], [], [], my_conn)
+    
+# favorites: []
+def set_favorites(username, favorites):
+    USERS_REF.child(username).update({
+        'favorites': favorites
+    })
+
+
+def get_favorites(username, favorites):
+    return USERS_REF.get()[username][favorites]
+
 
 if __name__ == "__main__":
     user = "test"
@@ -94,7 +117,10 @@ if __name__ == "__main__":
     })
     USERS_REF = db.reference('users')
     METROS_REF = db.reference('metros').get()
+<<<<<<< HEAD
     print(METROS_REF[0])
+=======
+>>>>>>> ffedea21e3efbe839e430a25bc2859bac0119717
     
     print()
     print("Welcome to the Fan Bases Program!")
@@ -118,19 +144,26 @@ if __name__ == "__main__":
             username = input()
             print('Password: ', end='')
             pw = input()
-            print('Favorite Team: ', end='')
-            ft = input()
-            # validate using NoSQL
-            # check if username exists in Users table
-            # check if password is correct
-            # then user = username
+            
+            # if user exists and pw is correct, login
+            if find_user(username, USERS_REF) and pw == USERS_REF.get()[username]['password']:
+                print("Login successful!")
+                user = username
+            else:
+                print("Login failed. Please try again.")
         elif response == 'signup':
             print("Username: ", end='')
             username = input()
-            # validate that username isn't already taken
-            print('Password: ', end='')
-            pw = input()
-            # input into NoSQL
+            res = find_user(username, USERS_REF)
+            if find_user(username, USERS_REF):
+                    print('User already exists.')
+            else:
+                print('Password: ', end='')
+                pw = input()
+                print('Favorite team: ', end='')
+                fav_team = input()
+
+                print('User created successfully!')
         elif response == 'logout':
             if user is None:
                 print('')
