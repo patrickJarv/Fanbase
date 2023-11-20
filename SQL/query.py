@@ -40,7 +40,7 @@ def query_sql(db, cols, filter, conn, join_statement=""):
         sql_string = f'SELECT {columns} FROM {db_name} as t {join_statement}WHERE {filter_str}'
     print(sql_string)
     try:
-        df = pd.read_sql(sql_string, conn)
+        df = pd.read_sql(text(sql_string), conn)
         return df
     except:
         print("Invalid filter syntax")
@@ -75,7 +75,7 @@ def query_awards(cols, filters, user, conn):
         sql_string = f'SELECT {columns} FROM mlb_awards WHERE {user_select} AND {filter_str}'
     print(sql_string)
     try:
-        df = pd.read_sql(sql_string, conn)
+        df = pd.read_sql(text(sql_string), conn)
         print(df)
     except:
         print("Invalid filter syntax")
@@ -127,4 +127,14 @@ def query_player(full_name, user, conn):
             print("----------------------------------------------------------")
             print()
             print()
+
+def query_players(ids, conn):
+    sql_statement = "SELECT * FROM mlb_position WHERE id IN (" + str(ids)[1:-1] + ")"
+    pos_df = pd.read_sql(sql_statement, conn)
+    if len(pos_df) > 0:
+        print(pos_df)
+    sql_statement = "SELECT * FROM mlb_pitcher WHERE id IN (" + str(ids)[1:-1] + ")"
+    pitch_df = pd.read_sql(sql_statement, conn)
+    if len(pitch_df) > 0:
+        print(pitch_df)
 

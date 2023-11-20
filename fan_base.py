@@ -14,7 +14,7 @@ from firebase_admin import credentials
 from firebase_admin import db
 import json
 
-from SQL.query import query_sql, query_sql_multi, query_sql_not_multi, query_awards, query_player
+from SQL.query import query_sql, query_sql_multi, query_sql_not_multi, query_awards, query_player, query_players
 from SQL.insert import insert_award
 from SQL.delete import delete_award
 from SQL.update import update_award
@@ -32,7 +32,6 @@ def print_help():
     print()
     print('\tUser Commands')
     print('\t\tlogin')
-    print('\t\tsignup')
     print('\t\tlogout')
     print()
     print('\tQuery:')
@@ -98,8 +97,8 @@ def set_favorites(username, favorites):
     })
 
 
-def get_favorites(username, favorites):
-    return USERS_REF.get()[username][favorites]
+def get_favorites(username):
+    return USERS_REF.get()[username]['favorites']
 
 
 if __name__ == "__main__":
@@ -107,7 +106,7 @@ if __name__ == "__main__":
     my_conn = sqlalchemy.create_engine(f'mysql+mysqldb://{username}:{password}@{host}:{port}/{database}')
     user_input = {}
 
-    cred = credentials.Certificate("Fanbase/NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
+    cred = credentials.Certificate("./NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
     default_app = firebase_admin.initialize_app(cred, {
         'databaseURL': 'https://project-d247d-default-rtdb.firebaseio.com/',
     })
@@ -143,24 +142,11 @@ if __name__ == "__main__":
                 user = username
             else:
                 print("Login failed. Please try again.")
-        elif response == 'signup':
-            print("Username: ", end='')
-            username = input()
-            res = find_user(username, USERS_REF)
-            if find_user(username, USERS_REF):
-                    print('User already exists.')
-            else:
-                print('Password: ', end='')
-                pw = input()
-                print('Favorite team: ', end='')
-                fav_team = input()
-
-                print('User created successfully!')
         elif response == 'logout':
             if user is None:
-                print('')
+                print('You are currently not signed in.')
             else:
-                print()
+                print('Successfully logged out')
                 user = None
         elif params[0] == 'position_stat' or params[0] == 'pitcher_stat':
             resp = evaluate_query(params)
@@ -181,38 +167,33 @@ if __name__ == "__main__":
         elif params[0] == 'show':
             if len(params) == 2:
                 id = params[1]
-                #SQL show favorite
                 if id not in user_input:
                     print("Variable " + id + " is not registered.")
                 else:
                     print(user_input[id])
             if len(params) == 3:
-                full_name = params[1] + " " + params[2]
-                query_player(full_name, user, my_conn)
+                if params[1] == "user" and params[2] == "favorite":
+                    ids = get_favorites(user)
+                    query_players(ids, my_conn)
+                else:
+                    full_name = params[1] + " " + params[2]
+                    query_player(full_name, user, my_conn)
 
-        elif params[0] == 'insert':
+        elif params[0] == 'award':
             if user is None:
                 print("You must be logged in to perform this task")
             else:
-                if params[1] == 'award':
+                if params[1] == 'insert':
                     if len(params) > 3:
                         award = params[2]
                         id = params[3]
                         insert_award(id, award, user, my_conn)
-        elif params[0] == 'update':
-            if user is None:
-                print("You must be logged in to perform this task")
-            else:
-                if params[1] == 'award':
+                if params[1] == 'update':
                     if len(params) > 3:
                         old_name = params[2]
                         new_name = params[3]
                         update_award(old_name, new_name, user, my_conn)
-        elif params[0] == 'delete':
-            if user is None:
-                print("You must be logged in to perform this task")
-            else:
-                if params[1] == 'award':
+                if params[1] == 'delete':
                     if len(params) > 3:
                         award = params[2]
                         id = params[3]
@@ -225,8 +206,10 @@ if __name__ == "__main__":
                     if len(params) == 3:
                         stored_val = params[2]
                         if stored_val in user_input:
-                            # NoSQL insert list of IDs as favorite
-                            print(list(user_input[stored_val]['Id']))
+                            set_favorites(user, (list(user_input[stored_val][user_input[stored_val].columns[0]])))
+                            print("Successfully set " + stored_val + " as favorite.")
+                        else:
+                            print(stored_val + " is not a set variable")
         # start of NoSQL ---------------------------------------------------------------                            
         elif params[0] == 'users':
             if params[1] == 'read':
