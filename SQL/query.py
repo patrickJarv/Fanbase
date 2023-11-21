@@ -42,7 +42,7 @@ def query_sql(db, cols, filter, order, group, conn, join_statement=""):
         sql_string = sql_string + " GROUP BY " + group
     if order is not None:
         sql_string = sql_string + " ORDER BY " + order
-    print(sql_string)
+
     try:
         df = pd.read_sql(text(sql_string), conn)
         return df
@@ -77,7 +77,7 @@ def query_awards(cols, filters, user, conn):
     if filters is not None and len(filters) > 0:
         filter_str = " ".join(filters)
         sql_string = f'SELECT {columns} FROM mlb_awards WHERE {user_select} AND {filter_str}'
-    print(sql_string)
+
     try:
         df = pd.read_sql(text(sql_string), conn)
         print(df)
