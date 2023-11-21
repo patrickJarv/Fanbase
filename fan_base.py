@@ -35,9 +35,10 @@ def print_help():
     print('\t\tlogout')
     print()
     print('\tQuery:')
-    print('\t\tposition_stat [multi/not multi] [WHERE clauses] [show (column names)]')
-    print('\t\tpitcher_stat [multi/not multi] [WHERE clauses] [show (column names)]')
+    print('\t\tposition_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) ASC/DESC] [show (column names)]')
+    print('\t\tpitcher_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) ASC/DESC] [show (column names)]')
     print('\t\tawards_stat [WHERE clauses] [show (column names)]')
+    print('\t\tteam_stat (column names)')
     print('\t\tshow player_fname player_lname')
     print('\t\tshow set_variable_name')
     print()
@@ -75,30 +76,59 @@ def evaluate_query(params):
     filters = []
     if len(params) > 1:
         filters = params[1:]
+        by = None
+        order = None
+        if 'group' in params:
+            idx_g = params.index("group")
+            by = params[idx_g + 1]
+            if "show" in params:
+                idx = params.index("show")
+                cols = params[idx+1:]
+                filters = params[3:idx]
+                del params[idx_g + 1]
+                del params[idx_g]
+            else:
+                print("Invalid syntax. See 'help' for correct syntax")
+                return
+        
         if "show" in params:
             idx = params.index("show")
             cols = params[idx+1:]
             filters = params[1:idx]
+
+        if "order" in params:
+            idx = params.index("order")
+            if len(params) < idx + 3:
+                print("invalid order lsyntax")
+                return
+            order = params[idx + 1] + " " + params[idx + 2]
+            if params[idx + 2] != "DESC" and params[idx + 2] != "ASC":
+                print("invalid order syntax")
+                return
+            del params[idx + 2]
+            del params[idx + 1]
+            del params[idx]
+            if "order" not in filters:
+                print("Invalid ordering of clauses in query. See proper syntax")
+                return
+            idx_f = filters.index("order")
+            del filters[idx_f + 2]
+            del filters[idx_f + 1]
+            del filters[idx_f]
         
-        if params[1] == "multi":
-            return query_sql_multi(params[0], cols if cols is not None else [], filters[1:], my_conn)
-        elif params[1] == "not" and params[2] == "multi":
-            return query_sql_not_multi(params[0], cols if cols is not None else [], filters[2:], my_conn)
+        if len(params) > 1:
+            if params[1] == "multi":
+                return query_sql_multi(params[0], cols if cols is not None else [], filters[1:], order, by, my_conn)
+            elif params[1] == "not" and params[2] == "multi":
+                return query_sql_not_multi(params[0], cols if cols is not None else [], filters[2:], order, by, my_conn)
+            else:
+                return query_sql(params[0], cols if cols is not None else [], filters, order, by, my_conn)
         else:
-            return query_sql(params[0], cols if cols is not None else [], filters, my_conn)
+            return query_sql(params[0], cols if cols is not None else [], filters, order, by, my_conn)
 
     else:
-        return query_sql(params[0], [], [], my_conn)
+        return query_sql(params[0], [], [], None, None, my_conn)
     
-# favorites: []
-def set_favorites(username, favorites):
-    USERS_REF.child(username).update({
-        'favorites': favorites
-    })
-
-
-def get_favorites(username):
-    return USERS_REF.get()[username]['favorites']
 
 
 if __name__ == "__main__":
@@ -173,7 +203,10 @@ if __name__ == "__main__":
                     print(user_input[id])
             if len(params) == 3:
                 if params[1] == "user" and params[2] == "favorite":
-                    ids = get_favorites(user)
+                    if user is None:
+                        print("You must be logged in to perform this task")
+                        continue
+                    ids = get_favorites(user, USERS_REF)
                     query_players(ids, my_conn)
                 else:
                     full_name = params[1] + " " + params[2]
@@ -206,7 +239,7 @@ if __name__ == "__main__":
                     if len(params) == 3:
                         stored_val = params[2]
                         if stored_val in user_input:
-                            set_favorites(user, (list(user_input[stored_val][user_input[stored_val].columns[0]])))
+                            set_favorites(user, (list(user_input[stored_val][user_input[stored_val].columns[0]])), USERS_REF)
                             print("Successfully set " + stored_val + " as favorite.")
                         else:
                             print(stored_val + " is not a set variable")

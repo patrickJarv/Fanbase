@@ -52,3 +52,12 @@ def order(a, op):
         return second_elements[::-1]
     elif op == 'asc':
         return second_elements
+    
+def set_favorites(username, favorites, USERS_REF):
+    USERS_REF.child(username).update({
+        'favorites': favorites
+    })
+
+
+def get_favorites(username, USERS_REF):
+    return USERS_REF.get()[username]['favorites']
