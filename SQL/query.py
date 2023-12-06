@@ -69,8 +69,6 @@ def query_awards(cols, filters, user, conn):
     default_cols = "id, award, user_id"
     columns = ", ".join(cols) if cols is not None else default_cols
 
-    print(columns)
-    
     user_select = "user_id = 'MLB'"
     if user is not None:
         user_select = f'(user_id = "MLB" or user_id = "{user}")'

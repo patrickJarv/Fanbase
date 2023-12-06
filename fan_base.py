@@ -133,7 +133,7 @@ def evaluate_query(params):
 
 
 if __name__ == "__main__":
-    user = "test"
+    user = None
     tunnel = SSHTunnelForwarder(
         host,
         ssh_username="ubuntu",
@@ -202,9 +202,7 @@ if __name__ == "__main__":
                 if "show" in params:
                     idx = params.index("show")
                     cols = params[idx+1:]
-                    print(cols)
                     filters = params[1:idx]
-                    print(filters)
             query_awards(cols, filters, user, my_conn)
 
         elif params[0] == 'show':
