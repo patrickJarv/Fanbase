@@ -1,6 +1,6 @@
 username = "root"
-password = "PbjMySQL123"
-host = "localhost"
+password = "Dsci-551"
+host = "3.145.52.204"
 port = 3306
 database = "mlbstats22"
 
@@ -8,6 +8,7 @@ import sqlalchemy
 import pymysql
 pymysql.install_as_MySQLdb()
 import pandas as pd
+from sshtunnel import SSHTunnelForwarder
 
 import firebase_admin
 from firebase_admin import credentials
@@ -35,12 +36,12 @@ def print_help():
     print('\t\tlogout')
     print()
     print('\tQuery:')
-    print('\t\tposition_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) ASC/DESC] [show (column names)]')
-    print('\t\tpitcher_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) ASC/DESC] [show (column names)]')
+    print('\t\tposition_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) asc/desc] [show (column names)]')
+    print('\t\tpitcher_stat [multi/not multi] [WHERE clauses] [group (column name)] [order (column name) asc/desc] [show (column names)]')
     print('\t\tawards_stat [WHERE clauses] [show (column names)]')
-    print('\t\tteam_stat (column names)')
     print('\t\tshow player_fname player_lname')
     print('\t\tshow set_variable_name')
+    print('\t\tusers read')
     print()
     print('\t\tcolumns names = {"metro", "population", "region", "teams"}')
     print('\t\tmetros select [column names]')
@@ -53,15 +54,15 @@ def print_help():
     print('\t\tvar_name = pitcher_stat ...')
     print()
     print('\tInsert')
-    print('\t\tinsert award award_name player_id')
+    print('\t\taward insert award_name player_id')
     print('\t\tusers insert [username] [password] [favorite_team]')
     print()
     print('\tUpdate')
-    print('\t\tupdate award old_award_name new_award_name')
+    print('\t\taward update old_award_name new_award_name')
     print('\t\tusers update [username] [favorite_team/password]')
     print()
     print('\tDelete')
-    print('\t\tdelete award award_name player_id')
+    print('\t\taward delete award_name player_id')
     print('\t\tusers delete [username]')
     print()
     print('\tOther commands')
@@ -102,7 +103,7 @@ def evaluate_query(params):
                 print("invalid order lsyntax")
                 return
             order = params[idx + 1] + " " + params[idx + 2]
-            if params[idx + 2] != "DESC" and params[idx + 2] != "ASC":
+            if params[idx + 2] != "desc" and params[idx + 2] != "asc":
                 print("invalid order syntax")
                 return
             del params[idx + 2]
@@ -133,7 +134,17 @@ def evaluate_query(params):
 
 if __name__ == "__main__":
     user = "test"
-    my_conn = sqlalchemy.create_engine(f'mysql+mysqldb://{username}:{password}@{host}:{port}/{database}')
+    tunnel = SSHTunnelForwarder(
+        host,
+        ssh_username="ubuntu",
+        ssh_pkey="dsci551_ubuntu.pem",
+        remote_bind_address=('127.0.0.1', 3306)
+    )
+    tunnel.start()
+    my_conn = pymysql.connect(host='127.0.0.1', user=username,
+                passwd=password, db=database,
+                port=tunnel.local_bind_port)
+
     user_input = {}
 
     cred = credentials.Certificate("./NoSQL/project-d247d-firebase-adminsdk-hpskj-b7566ae1c5.json")
@@ -144,7 +155,7 @@ if __name__ == "__main__":
     METROS_REF = db.reference('metros').get()
     
     print()
-    print("Welcome to the Fan Bases Program!")
+    print("Welcome to the Fanbase Program!")
     print("To begin, please 'login' or 'signup'")
     print("Or ask for 'help'")
     print("When finished, type 'quit'")
@@ -191,7 +202,9 @@ if __name__ == "__main__":
                 if "show" in params:
                     idx = params.index("show")
                     cols = params[idx+1:]
+                    print(cols)
                     filters = params[1:idx]
+                    print(filters)
             query_awards(cols, filters, user, my_conn)
 
         elif params[0] == 'show':
@@ -257,7 +270,7 @@ if __name__ == "__main__":
                     if params[1] == 'insert': 
                         print('User already exists.')
                     elif params[1] == 'update':
-                        favorite_team = params[4]
+                        favorite_team = params[3]
                         USERS_REF.child(username).update({
                             'favorite_team': favorite_team
                         })
@@ -340,3 +353,5 @@ if __name__ == "__main__":
 
         else:
             invalid_syntax()
+    
+    tunnel.close()

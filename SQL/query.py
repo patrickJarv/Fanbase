@@ -11,7 +11,6 @@ def query_sql(db, cols, filter, order, group, conn, join_statement=""):
         db_name = "mlb_position"
         default_cols = position_cols
     if db == 'pitcher_stat':
-        # df = pd.read_sql('SELECT * FROM mlb_pitcher', conn)
         db_name = "mlb_pitcher"
         default_cols = pitcher_cols
     
@@ -43,8 +42,9 @@ def query_sql(db, cols, filter, order, group, conn, join_statement=""):
     if order is not None:
         sql_string = sql_string + " ORDER BY " + order
 
+    sql_string = sql_string + " LIMIT 1000"
     try:
-        df = pd.read_sql(text(sql_string), conn)
+        df = pd.read_sql(sql_string, conn)
         return df
     except:
         print("Invalid filter syntax")
@@ -69,6 +69,8 @@ def query_awards(cols, filters, user, conn):
     default_cols = "id, award, user_id"
     columns = ", ".join(cols) if cols is not None else default_cols
 
+    print(columns)
+    
     user_select = "user_id = 'MLB'"
     if user is not None:
         user_select = f'(user_id = "MLB" or user_id = "{user}")'
@@ -79,7 +81,7 @@ def query_awards(cols, filters, user, conn):
         sql_string = f'SELECT {columns} FROM mlb_awards WHERE {user_select} AND {filter_str}'
 
     try:
-        df = pd.read_sql(text(sql_string), conn)
+        df = pd.read_sql(sql_string, conn)
         print(df)
     except:
         print("Invalid filter syntax")
@@ -88,7 +90,7 @@ def query_player(full_name, user, conn):
     names = full_name.split()
     id_pattern = names[0].lower() + "_" + names[1].lower() + "%"
     sql_string = "SELECT * FROM mlb_players WHERE pid LIKE \"" + id_pattern + "\""
-    df = pd.read_sql(text(sql_string), conn)
+    df = pd.read_sql(sql_string, conn)
     if len(df) == 0:
         print(full_name + " is not a registered player.")
     else:
@@ -109,16 +111,16 @@ def query_player(full_name, user, conn):
             stat_df = None
             if player_type == "Pitcher":
                 sql_string = f'SELECT * FROM mlb_pitcher WHERE id="{player_id}"'
-                stat_df = pd.read_sql(text(sql_string), conn)
+                stat_df = pd.read_sql(sql_string, conn)
             else:
                 sql_string = f'SELECT * FROM mlb_position WHERE id="{player_id}"'
-                stat_df = pd.read_sql(text(sql_string), conn)
+                stat_df = pd.read_sql(sql_string, conn)
 
             user_query = "(user_id = \"MLB\")"
             if user is not None:
                 user_query = f'(user_id = "MLB" or user_id="{user}")'
 
-            award_df = pd.read_sql(text(f'SELECT * FROM mlb_awards WHERE id="{player_id}" AND {user_query}'), conn)
+            award_df = pd.read_sql(f'SELECT * FROM mlb_awards WHERE id="{player_id}" AND {user_query}', conn)
             awards = "None"
             if len(award_df) > 0:
                 awards = ", ".join(list(award_df['award']))
