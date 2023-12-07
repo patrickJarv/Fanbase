@@ -1,13 +1,11 @@
-username = "root"
-password = "Dsci-551"
+username = ""
+password = ""
 host = "3.145.52.204"
 port = 3306
 database = "mlbstats22"
 
-import sqlalchemy
 import pymysql
 pymysql.install_as_MySQLdb()
-import pandas as pd
 from sshtunnel import SSHTunnelForwarder
 
 import firebase_admin
